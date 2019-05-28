@@ -18,7 +18,7 @@ const ResultsTable = ({ results, language }) => {
       <Button
         appearance={BUTTON_TYPES.INVERTED}
         customClass="copy-to-clipboard"
-        onClick={() => copyResultsToClipboard(results)}
+        onClick={() => copyResultsToClipboard(results, language)}
       >
         Copy to clipboard
       </Button>

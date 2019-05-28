@@ -1,21 +1,20 @@
+import { APP_DESCRIPTIONS } from '../constants'
 import capitalize from 'lodash/capitalize'
 
-export default results => {
+export default (results, language) => {
   const message = Object.entries(results)
     .map(([name, value]) => {
       const items = value.items.reduce(
         (acc, curr) => acc + `- ${curr.quantity} x ${curr.objectName}\n`,
         ''
       )
-      return `**${capitalize(
-        name
-      )}** - Valore totale stimato: ${value.totalValue.toLocaleString(
-        'it-IT'
-      )}\n\n${items}`
+      return `**${capitalize(name)}** - ${
+        APP_DESCRIPTIONS[language].lootEsteem
+      } ${value.totalValue.toLocaleString('it-IT')}\n\n${items}`
     })
     .reduce(
       (acc, curr) => (acc ? acc + '\n' + curr : acc + curr),
-      '\nRisultato roll:\n'
+      `\n**${APP_DESCRIPTIONS[language].rollResults}**:\n`
     )
   const el = document.createElement('textarea')
   el.value = message

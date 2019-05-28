@@ -9,7 +9,6 @@ import React from 'react'
 import ResultsTable from '../../organisms/ResultsTable'
 import resultsActions from '../../../actions/results'
 import roll from '../../../utils/roll'
-import sendDiscordMessage from '../../../utils/sendDiscordMessage'
 
 const ItemsRolling = ({ loot, players, updateResultsList, language }) => {
   return (
@@ -29,7 +28,6 @@ const ItemsRolling = ({ loot, players, updateResultsList, language }) => {
           const result = roll(players, loot)
           if (result) {
             updateResultsList(result)
-            sendDiscordMessage(result)
           }
         }}
       >
