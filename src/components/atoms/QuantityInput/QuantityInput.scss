@@ -1,0 +1,18 @@
+@import "../../_settings/variables.scss";
+
+.quantity-input-container {
+  display: flex;
+  margin: 5px;
+}
+
+.quantity-button {
+  cursor: pointer;
+  user-select: none;
+}
+
+
+.quantity-input {
+  width: 30px;
+  text-align: center;
+  user-select: none;
+}

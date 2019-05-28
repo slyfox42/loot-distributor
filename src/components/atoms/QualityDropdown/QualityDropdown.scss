@@ -1,0 +1,5 @@
+.quality-dropdown {
+  div[role=button] > * {
+      pointer-events: none;
+  }
+}

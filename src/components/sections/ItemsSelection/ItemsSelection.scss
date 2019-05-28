@@ -1,0 +1,13 @@
+@import "../../_settings/variables.scss";
+
+.loot-selection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 25px 0;
+}
+.selection-tables {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}

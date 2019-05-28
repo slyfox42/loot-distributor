@@ -1,0 +1,15 @@
+@import "../../_settings/variables.scss";
+
+.roll-selection {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  align-content: space-around;
+}
+
+.roll-button {
+  margin: 15px !important;
+  height: 70px;
+  width: 250px;
+}

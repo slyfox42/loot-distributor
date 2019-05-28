@@ -1,0 +1,39 @@
+@import "../../_settings/variables.scss";
+
+.item-selection {
+  width: $item-container-width;
+  height: $item-container-height;
+  display:flex;
+}
+
+.item-selection-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: $table-padding;
+  .selection-fields {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+.item-selection-content {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  .list {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+.search-bar-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}

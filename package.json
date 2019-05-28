@@ -1,0 +1,54 @@
+{
+  "name": "albion-roller",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "serve -s build -p ${PORT}",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src --ext js,jsx --ignore-path .gitignore --fix"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "discord.js": "discordjs/discord.js",
+    "moment": "^2.24.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-md": "^1.11.0",
+    "react-redux": "^7.0.3",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.1",
+    "redux-act": "^1.7.4",
+    "serve": "^11.0.0",
+    "updeep": "^1.1.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "3.3.0",
+    "eslint-plugin-import": "2.14.0",
+    "eslint-plugin-prettier": "3.0.0",
+    "eslint-plugin-react": "7.11.1",
+    "eslint-plugin-sort-imports-es6-autofix": "0.3.0",
+    "node-fetch": "^2.6.0",
+    "node-sass": "^4.12.0",
+    "prettier": "1.15.2"
+  }
+}

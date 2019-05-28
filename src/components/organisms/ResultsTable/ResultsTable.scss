@@ -1,0 +1,64 @@
+@import "../../_settings/variables.scss";
+
+.results-table-header {
+  text-align: center;
+  font-size: 24px;
+  display: flex;
+  padding: $table-padding;
+  justify-content: space-between;
+}
+
+#results-table {
+  width: 100%;
+  display: flex;
+  margin: 30px;
+  .content-wrapper {
+    overflow: initial;
+  }
+}
+.results-table-content {
+  height: 100%;
+  width: 100%;
+}
+
+.selectable-item {
+  cursor: initial;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.roll-result {
+  border-bottom: 2px solid rgba(34, 34, 34, 0.3);
+  box-sizing: border-box;
+  border-radius: 2px;
+  padding: 10px;
+  min-width: 450px;
+}
+
+.winner-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 0;
+}
+
+.winner-name {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.value-estimate {
+  color: #51CB20;
+  font-weight: 700;
+  font-size: 16px;
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.copy-to-clipboard {
+  background: #72C759;
+  &:hover {
+    background: darken(#72C759, 10%)
+  }
+}

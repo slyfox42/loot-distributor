@@ -1,0 +1,34 @@
+@import "../../_settings/variables.scss";
+
+.base-button {
+  border: solid $border-size;
+  // border-color: black;
+  // color: black;
+  margin: 0;
+  font-weight: $font-bold;
+  padding: ($dist-xs - $border-size) ($dist-s - $border-size)
+}
+
+.inverted-button {
+  border: none;
+  margin: 0;
+  font-weight: $font-bold;
+}
+
+.base-button, .inverted-button {
+  text-transform: none;
+}
+
+.success-button {
+  background: $success-color;
+  &:hover {
+    background: lighten($color: $success-color, $amount: 10%)
+  }
+}
+
+.error-button {
+  background: $error-color;
+  &:hover {
+    background: darken($color: $error-color, $amount: 10%)
+  }
+}

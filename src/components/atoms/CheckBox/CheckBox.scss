@@ -1,0 +1,17 @@
+.md-selection-control-container {
+  display:flex;
+
+  div[role=checkbox] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    width: 20px;
+    padding: 0;
+    margin-right: 10px;
+  }
+
+  .md-text--inherit.md-text--inherit {
+    color: #3bff3b;
+  }
+}

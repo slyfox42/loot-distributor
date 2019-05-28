@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+// font styles
+$font-family: 'Merriweather Sans', sans-serif;
+$small-font-size: 11px;
+$base-font-size: 14px;
+$medium-font-size: 17.5px;
+$large-font-size: 22px;
+$xl-font-size: 27px;
+$xxl-font-size: 34px;
+$font-bold: 700;
+
+$line-height: 1.7;
+
+// colors
+$base-font-color: #121113;
+$body-background-color: #F3F3F3;
+$md-primary-color: #121113;
+// $md-secondary-color: #57A773;
+$secondary-bg-color: #FFFFFF;
+$azure-radiance: #0076FF;
+$success-color: rgb(114, 199, 89);
+$error-color: rgb(226, 36, 36);
+$border-size: 2px;
+$quick-animation: 100ms;
+$medium-animation: 300ms;
+$slow-animation: 500ms;
+
+// distances
+$dist-2xs: 4px;
+$dist-xs: 8px;
+$dist-s: 16px;
+$dist-m: 24px;
+$dist-l: 32px;
+$dist-xl: 40px;
+$dist-2xl: 48px;
+$dist-3xl: 56px;
+$dist-4xl: 64px;
+$dist-5xl: 72px;
+$dist-6xl: 80px;
+
+// shadows
+$box-shadow: 0 4px 8px -2px rgba(105, 78, 78, 0.15), 0 2px 5px -2px rgba(0, 0, 0, 0.12);
+$box-shadow2: 0 15px 22px -6px rgba(0, 0, 0, 0.21);
+
+// borders
+$small-border-radius: 2px;
+$base-border-radius: 4px;
+
+$table-padding: 30px;
+$item-container-height: 650px;
+$item-container-width: 500px;
+$header-padding: 50px;
