@@ -17,6 +17,7 @@ const ItemsSelection = ({ language }) => {
         <div className="instructions">
           <p>{APP_DESCRIPTIONS[language].itemSelectionFirstParagraph}</p>
           <p>{APP_DESCRIPTIONS[language].itemSelectionSecondParagraph}</p>
+          <p>{APP_DESCRIPTIONS[language].itemSelectionThirdParagraph}</p>
         </div>
       </div>
       <div className="selection-tables">

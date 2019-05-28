@@ -11,7 +11,8 @@ export const APP_DESCRIPTIONS = {
     itemSelection: 'Selezione oggetti:',
     itemSelectionFirstParagraph: `Per selezionare un oggetto, digitare il nome dell'oggetto nella barra di ricerca. Gli oggetti possono essere filtrati per categoria e tier.
     Cliccando un oggetto e' possibile selezionare la qualita' e aggiungerlo alla tabella di destra. Se un oggetto non appare nella ricerca, utilizzare il filtro di categoria. Per rimuovere un oggetto dalla selezione basta cliccare sulla crocetta rossa.`,
-    itemSelectionSecondParagraph: `Una volta terminata la selezione, premere il bottone "Avanti".`,
+    itemSelectionSecondParagraph: `Una volta aggiunto un oggetto, se ne puo' modificare la quantita' inserendo un ammontare nell'input sottostante e premendo "+" per aggiungere o "-" per rimuovere.`,
+    itemSelectionThirdParagraph: `Terminata la selezione, premere il bottone "Avanti".`,
     categoryPlaceholder: 'Selezionare categoria',
     tierPlaceholder: 'Selezionare tier',
     searchBarPlaceholder: 'Ricerca',
@@ -35,7 +36,9 @@ export const APP_DESCRIPTIONS = {
     itemSelection: 'Items selection:',
     itemSelectionFirstParagraph: `To select an item, start by typing the item name in the search bar. Items can be filtered by category and tier. Clicking on an item will allow
     for quality selection and add the item to the selection table. If an item does not show up during search, try using the category and/or tier filter. To remove an item from selection simply click on the red cross.`,
-    itemSelectionSecondParagraph: `Once the selection is complete, press the green button "Next".`,
+    itemSelectionSecondParagraph:
+      'Once you added an item, you can modify its quantity by entering an amount in the input below it and pressing "+" to add and "-" to remove.',
+    itemSelectionThirdParagraph: `Once the selection is complete, press the green button "Next".`,
     categoryPlaceholder: 'Select category',
     tierPlaceholder: 'Select tier',
     searchBarPlaceholder: 'Search',
