@@ -1,4 +1,4 @@
-import { APP_DESCRIPTIONS } from '../constants'
+import { APP_DESCRIPTIONS, LOCALES } from '../constants'
 import capitalize from 'lodash/capitalize'
 
 export default (results, language) => {
@@ -10,7 +10,7 @@ export default (results, language) => {
       )
       return `**${capitalize(name)}** - ${
         APP_DESCRIPTIONS[language].lootEsteem
-      } ${value.totalValue.toLocaleString('it-IT')}\n\n${items}`
+      } ${value.totalValue.toLocaleString(LOCALES[language])}\n\n${items}`
     })
     .reduce(
       (acc, curr) => (acc ? acc + '\n' + curr : acc + curr),
