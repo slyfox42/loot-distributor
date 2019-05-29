@@ -4,6 +4,7 @@ import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 import Button, { BUTTON_TYPES } from '../../atoms/Button'
 import ContentWrapper from '../../molecules/ContentWrapper'
+import LogsDialog from '../../atoms/LogsDialog'
 import PropTypes from 'prop-types'
 import React from 'react'
 import SelectedItemsList from '../../molecules/SelectedItemsList'
@@ -18,13 +19,16 @@ const LootTable = ({
   const header = (
     <div className="loot-table-header">
       {APP_DESCRIPTIONS[language].selectedItems}
-      <Button
-        appearance={BUTTON_TYPES.ERROR}
-        onClick={() => clearSelectedItems()}
-        customClass="clear-button"
-      >
-        {APP_DESCRIPTIONS[language].clearButton}
-      </Button>
+      <div className="buttons-container">
+        <LogsDialog />
+        <Button
+          appearance={BUTTON_TYPES.ERROR}
+          onClick={() => clearSelectedItems()}
+          customClass="clear-button"
+        >
+          {APP_DESCRIPTIONS[language].clearButton}
+        </Button>
+      </div>
     </div>
   )
   const removeItem = el => () => removeFromselectedItems(el.objectName)
