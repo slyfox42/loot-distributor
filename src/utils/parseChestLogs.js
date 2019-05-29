@@ -1,6 +1,7 @@
 import { ITEM_QUALITIES } from '../constants'
 import { distinctLoot } from './lootMultiplication'
 import fetchAveragePrice from './fetchAveragePrice'
+import uuid from 'uuid'
 
 const allItems = require('../items.json')
 
@@ -30,8 +31,10 @@ const parseChestLogs = logs => {
         ? object.item
         : `${object.item} .${object.enchantment}`
     const item = allItems.find(el => el.objectName === objectName)
+    const uniqueID = uuid()
     return {
       ...item,
+      uniqueID,
       objectName: `${item.objectName} ${ITEM_QUALITIES[object.quality]}`,
       quantity: parseInt(object.amount)
     }

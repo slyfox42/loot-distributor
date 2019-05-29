@@ -26,5 +26,5 @@ export const distinctLoot = loot => {
       ...items[0],
       quantity: items.reduce((acc, curr) => acc + curr.quantity, 0)
     }))
-    .filter(el => !!el.quantity)
+    .filter(el => el.quantity > 0)
 }
