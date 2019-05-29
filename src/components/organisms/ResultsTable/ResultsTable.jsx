@@ -9,7 +9,7 @@ import React, { useEffect } from 'react'
 import SelectedItemsList from '../../molecules/SelectedItemsList'
 import capitalize from 'lodash/capitalize'
 import copyResultsToClipboard from '../../../utils/copyResultsToClipboard'
-import itemActions from '../../../actions/items'
+import itemsActions from '../../../actions/items'
 
 const ResultsTable = ({ results, language }) => {
   const header = (
@@ -82,5 +82,5 @@ export default connect(
       results: state.resultsReducer.results
     }
   },
-  dispatch => bindActionCreators(itemActions, dispatch)
+  dispatch => bindActionCreators(itemsActions, dispatch)
 )(ResultsTable)

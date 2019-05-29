@@ -11,5 +11,6 @@ export default {
   removeFromselectedItems: createAction('removed item from selection list'),
   clearSelectedItems: createAction('cleared selection list'),
   selectQualityPreference: createAction('selected quality preference'),
-  updateItemQuantity: createAction('updated item quantity')
+  updateItemQuantity: createAction('updated item quantity'),
+  updateItemPrice: createAction('updated item quantity')
 }

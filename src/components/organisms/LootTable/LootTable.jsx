@@ -7,7 +7,7 @@ import ContentWrapper from '../../molecules/ContentWrapper'
 import PropTypes from 'prop-types'
 import React from 'react'
 import SelectedItemsList from '../../molecules/SelectedItemsList'
-import itemActions from '../../../actions/items'
+import itemsActions from '../../../actions/items'
 
 const LootTable = ({
   selection,
@@ -61,5 +61,5 @@ export default connect(
       selection: state.itemsReducer
     }
   },
-  dispatch => bindActionCreators(itemActions, dispatch)
+  dispatch => bindActionCreators(itemsActions, dispatch)
 )(LootTable)

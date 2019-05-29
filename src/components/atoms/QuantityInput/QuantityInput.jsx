@@ -1,9 +1,6 @@
 import './QuantityInput.scss'
-import { bindActionCreators } from 'redux'
-import { connect } from 'react-redux'
 import PropTypes from 'prop-types'
 import React, { useState } from 'react'
-import itemActions from '../../../actions/items'
 
 const QuantityInput = ({ id, item, updateItemQuantity }) => {
   const [quantity, setQuantity] = useState('')
@@ -42,11 +39,7 @@ const QuantityInput = ({ id, item, updateItemQuantity }) => {
       quantity: newQuantity > 1 ? newQuantity : 1
     })
   }
-  const onKeyPress = e => {
-    if (e.charCode === 13) {
-      addQuantity()
-    }
-  }
+  const onKeyPress = e => (e.charCode === 13 ? addQuantity() : null)
   return (
     <div className="quantity-input-container">
       <span className="material-icons quantity-button" onClick={addQuantity}>
@@ -75,11 +68,4 @@ QuantityInput.propTypes = {
   updateItemQuantity: PropTypes.func.isRequired
 }
 
-export default connect(
-  state => {
-    return {
-      selection: state.itemsReducer
-    }
-  },
-  dispatch => bindActionCreators(itemActions, dispatch)
-)(QuantityInput)
+export default QuantityInput
