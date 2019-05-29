@@ -28,7 +28,7 @@ const LanguageSelection = ({ setLanguage }) => {
         customClass="round-button"
         onClick={() => setLanguage('portuguese')}
       >
-        POR
+        PT
       </Button>
     </div>
   )
