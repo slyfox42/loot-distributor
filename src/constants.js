@@ -33,7 +33,7 @@ export const APP_DESCRIPTIONS = {
     lootEsteem: 'Valore stimato oggetti:',
     donateButton: 'Fai una donazione',
     donationParagraph:
-      'Se hai trovato questo strumento utile, puoi fare una donazione per sostenerne lo sviluppo.'
+      'Se hai trovato utile questo strumento, puoi fare una donazione per sostenerne lo sviluppo.'
   },
   english: {
     itemSelection: 'Items selection',
@@ -63,6 +63,37 @@ export const APP_DESCRIPTIONS = {
     donateButton: 'Donate',
     donationParagraph:
       'If you found this tool useful, you can donate to support development.'
+  },
+  portuguese: {
+    itemSelection: 'Seleção de itens',
+    itemSelectionFirstParagraph: `Para selecionar um item, comece a digitar o nome dele na barra de pesquisa. Itens podem ser filtrados por categoria e grau.
+    Clicar em um item permitirá selecionar sua qualidade e adicioná-lo no painel de seleção. Se algum item não aparecer durante a busca, tente usar os filtros de categoria e grau. Para remover um item da seleção, simplesmente clique no X vermelho.`,
+    itemSelectionSecondParagraph: `Depois de adicionar um item, você pode modificar sua quantidade digitando no campo abaixo dele ou pressionando "+" para adicionar e "-" para remover.`,
+    itemSelectionThirdParagraph:
+      'Após selecionar todos os itens, pressione o botão verde "Próximo".',
+    categoryPlaceholder: 'Selecionar categoria',
+    tierPlaceholder: 'Selecionar grau',
+    searchBarPlaceholder: 'Pesquisar',
+    resetButton: 'Recomeçar',
+    askForQualityCheckbox: 'Perguntar qualidade do item',
+    selectedItems: 'Itens selecionados',
+    clearButton: 'Limpar',
+    openLogsDialogButton: 'Importar registros de baú',
+    logsImportDialogTitle: 'Colar os registros de baú e apertar "Importar"',
+    logsImportButton: 'Importar',
+    forwardButton: 'Próximo',
+    itemRolling: 'Seleção de jogadores',
+    itemRollingFirstParagraph:
+      'Adicione jogadores à lista digitando seu nome e pressionando Enter ou o botão "Adicionar". Para remover um jogador da lista, clique em seu nome.',
+    itemRollingSecondParagraph:
+      'Para rolar e distribuir os itens, pressione "Rolar".',
+    playerPlaceholder: 'Nome do jogador',
+    addPlayerButton: 'Adicionar',
+    rollResults: 'Resultado da rolagem:',
+    lootEsteem: 'Valor estimado dos itens:',
+    donateButton: 'Doar',
+    donationParagraph:
+      'Se você gostou dessa ferramente, pode doar para mostrar seu suporte ao desenvolvimento.'
   }
 }
 

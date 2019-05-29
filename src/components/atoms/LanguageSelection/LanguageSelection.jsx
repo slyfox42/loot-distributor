@@ -23,6 +23,13 @@ const LanguageSelection = ({ setLanguage }) => {
       >
         IT
       </Button>
+      <Button
+        appearance={BUTTON_TYPES.PRIMARY}
+        customClass="round-button"
+        onClick={() => setLanguage('portuguese')}
+      >
+        POR
+      </Button>
     </div>
   )
 }
