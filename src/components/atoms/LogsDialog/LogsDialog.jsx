@@ -1,11 +1,12 @@
 import './LogsDialog.scss'
+import { APP_DESCRIPTIONS } from '../../../constants'
 import { DialogContainer } from 'react-md'
 import Button, { BUTTON_TYPES } from '../Button'
 import PropTypes from 'prop-types'
 import React, { useState } from 'react'
 import parseChestLogs from '../../../utils/parseChestLogs'
 
-const LogsDialog = ({ addToSelectedItems }) => {
+const LogsDialog = ({ addToSelectedItems, language }) => {
   const [visible, setVisibility] = useState(false)
   const changeVisibility = () => setVisibility(!visible)
   const onClick = async () => {
@@ -19,7 +20,7 @@ const LogsDialog = ({ addToSelectedItems }) => {
   return (
     <div>
       <Button appearance={BUTTON_TYPES.SUCCESS} onClick={changeVisibility}>
-        Import chest logs
+        {APP_DESCRIPTIONS[language].openLogsDialogButton}
       </Button>
       <DialogContainer
         id="logs-dialog"
@@ -28,14 +29,14 @@ const LogsDialog = ({ addToSelectedItems }) => {
         onHide={changeVisibility}
       >
         <div className="dialog-title">
-          Paste the chest logs and press &quot;Import&quot;
+          {APP_DESCRIPTIONS[language].logsImportDialogTitle}
         </div>
         <textarea
           id="paste-logs"
           onKeyPress={e => (e.charCode === 13 ? onClick() : null)}
         />
         <Button appearance={BUTTON_TYPES.SUCCESS} onClick={onClick}>
-          Import
+          {APP_DESCRIPTIONS[language].logsImportButton}
         </Button>
       </DialogContainer>
     </div>
@@ -43,7 +44,8 @@ const LogsDialog = ({ addToSelectedItems }) => {
 }
 
 LogsDialog.propTypes = {
-  addToSelectedItems: PropTypes.func.isRequired
+  addToSelectedItems: PropTypes.func.isRequired,
+  language: PropTypes.string.isRequired
 }
 
 export default LogsDialog

@@ -21,7 +21,10 @@ const LootTable = ({
     <div className="loot-table-header">
       {APP_DESCRIPTIONS[language].selectedItems}
       <div className="buttons-container">
-        <LogsDialog addToSelectedItems={addToSelectedItems} />
+        <LogsDialog
+          addToSelectedItems={addToSelectedItems}
+          language={language}
+        />
         <Button
           appearance={BUTTON_TYPES.ERROR}
           onClick={() => clearSelectedItems()}
