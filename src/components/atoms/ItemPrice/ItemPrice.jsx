@@ -3,13 +3,17 @@ import PropTypes from 'prop-types'
 import React, { useState } from 'react'
 
 const ItemPrice = ({ id, item, updateItemPrice }) => {
-  const [price, setPrice] = useState(item.averagePrice)
+  const [price, setPrice] = useState(Math.floor(item.averagePrice))
   const handleChange = e => {
     const value = e.target.value.replace(/[^0-9]/gi, '')
-    setPrice(value)
+    setPrice(parseInt(value))
   }
-  const onKeyPress = e =>
-    e.charCode === 13 ? updateItemPrice(item, price) : null
+  const onKeyPress = e => {
+    if (e.charCode === 13) {
+      document.activeElement.blur()
+      updateItemPrice({ item, price })
+    }
+  }
   return (
     <div className="item-price-container">
       <img
@@ -23,7 +27,7 @@ const ItemPrice = ({ id, item, updateItemPrice }) => {
         type="text"
         value={price}
         onChange={handleChange}
-        onBlur={() => updateItemPrice(item, price)}
+        onBlur={() => updateItemPrice({ item, price })}
         onKeyPress={onKeyPress}
       />
     </div>

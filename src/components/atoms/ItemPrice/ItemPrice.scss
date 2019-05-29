@@ -2,6 +2,11 @@
   display: flex;
   user-select: none;
   align-items: center;
+  input {
+    width: 45px;
+    font-size: 10px;
+    text-align: center;
+  }
 }
 
 .silver-icon {
@@ -10,7 +15,3 @@
   margin-right: 5px;
 }
 
-input {
-  width: 45px;
-  font-size: 8px;
-}

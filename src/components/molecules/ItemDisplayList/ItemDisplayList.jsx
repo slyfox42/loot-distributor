@@ -12,12 +12,12 @@ const ItemDisplayList = ({ itemList, onClick, customClass, askForQuality }) => {
         idx={idx}
         onClick={onClick}
       >
-        <Item obj={el} customClass={customClass} />
+        <Item item={el} customClass={customClass} />
       </QualityDropdown>
     ) : (
       <Item
         key={`${el.objectID}-${idx}`}
-        obj={el}
+        item={el}
         onClick={onClick}
         customClass={customClass}
       />

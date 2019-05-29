@@ -21,4 +21,8 @@
 
 .loot-table-content {
   height: 100%;
+
+  .selectable-item {
+    cursor: initial;
+  }
 }

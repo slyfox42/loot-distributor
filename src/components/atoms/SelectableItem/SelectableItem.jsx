@@ -10,52 +10,54 @@ import classNames from 'classnames'
 import itemsActions from '../../../actions/items'
 
 const SelectableItem = ({
-  obj,
+  item,
   onClick,
   customClass,
   showCounter,
   updateItemQuantity,
   updateItemPrice
 }) => {
-  const imageUrl = IMAGE_BASE_URL + (obj.imgID || obj.objectID)
+  const imageUrl = IMAGE_BASE_URL + (item.imgID || item.objectID)
   const classProps = classNames('selectable-item', customClass)
   return (
-    <div
-      className={classProps}
-      onClick={onClick}
-      unique-id={obj.uniqueID}
-      object-id={obj.objectID}
-      imageid={obj.imgID}
-      object-name={obj.objectName}
-      category={obj.category}
-    >
-      <img
-        className="item-image no-events"
-        alt={obj.name}
-        src={imageUrl}
-        draggable="false"
-      />
+    <div className="selectable-item-container">
+      <div
+        className={classProps}
+        onClick={onClick}
+        unique-id={item.uniqueID}
+        object-id={item.objectID}
+        imageid={item.imgID}
+        object-name={item.objectName}
+        category={item.category}
+      >
+        <img
+          className="item-image no-events"
+          alt={item.name}
+          src={imageUrl}
+          draggable="false"
+        />
+        {showCounter && (
+          <ItemPrice
+            item={item}
+            id={item.uniqueID}
+            updateItemPrice={updateItemPrice}
+          />
+        )}
+        <p className="item-description no-events">{item.objectName}</p>
+      </div>
       {showCounter && (
         <QuantityInput
-          item={obj}
-          id={obj.uniqueID}
+          item={item}
+          id={item.uniqueID}
           updateItemQuantity={updateItemQuantity}
         />
       )}
-      {showCounter && (
-        <ItemPrice
-          item={obj}
-          id={obj.uniqueID}
-          updateItemPrice={updateItemPrice}
-        />
-      )}
-      <p className="item-description no-events">{obj.objectName}</p>
     </div>
   )
 }
 
 SelectableItem.propTypes = {
-  obj: PropTypes.object.isRequired,
+  item: PropTypes.object.isRequired,
   onClick: PropTypes.func,
   updateItemQuantity: PropTypes.func.isRequired,
   updateItemPrice: PropTypes.func.isRequired,
