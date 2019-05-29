@@ -9,7 +9,9 @@ const LogsDialog = ({ addToSelectedItems }) => {
   const [visible, setVisibility] = useState(false)
   const changeVisibility = () => setVisibility(!visible)
   const onClick = async () => {
-    const logs = document.getElementById('paste-logs').value
+    const logs = document
+      .getElementById('paste-logs')
+      .value.replace(/[^a-z\d\s"\/:']/gim)
     changeVisibility()
     const itemList = await parseChestLogs(logs)
     addToSelectedItems(itemList)
