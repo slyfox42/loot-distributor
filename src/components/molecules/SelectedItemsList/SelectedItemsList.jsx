@@ -10,6 +10,9 @@ const SelectedItemsList = ({
   showCounter
 }) => {
   const items = itemList.map((item, idx) => {
+    const quantityCounterClass = showCounter
+      ? 'quantity-counter loot-counter'
+      : 'quantity-counter result-counter'
     return (
       <div key={`${item.objectID}-${idx}`} className="selected-item-container">
         {showCounter && (
@@ -20,7 +23,7 @@ const SelectedItemsList = ({
             clear
           </span>
         )}
-        <span className="quantity-counter">{item.quantity}</span>
+        <span className={quantityCounterClass}>{item.quantity}</span>
         <Item item={item} customClass={customClass} showCounter={showCounter} />
       </div>
     )

@@ -8,7 +8,8 @@ const multiplyItem = item => {
       objectID,
       objectName,
       imgID,
-      averagePrice
+      averagePrice,
+      quantity: 1
     })
   }
   return result
