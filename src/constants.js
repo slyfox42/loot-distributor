@@ -8,7 +8,7 @@ export const LOCALES = {
 
 export const APP_DESCRIPTIONS = {
   italian: {
-    itemSelection: 'Selezione oggetti:',
+    itemSelection: 'Selezione oggetti',
     itemSelectionFirstParagraph: `Per selezionare un oggetto, digitare il nome dell'oggetto nella barra di ricerca. Gli oggetti possono essere filtrati per categoria e tier.
     Cliccando un oggetto e' possibile selezionare la qualita' e aggiungerlo alla tabella di destra. Se un oggetto non appare nella ricerca, utilizzare il filtro di categoria. Per rimuovere un oggetto dalla selezione basta cliccare sulla crocetta rossa.`,
     itemSelectionSecondParagraph: `Una volta aggiunto un oggetto, se ne puo' modificare la quantita' inserendo un ammontare nell'input sottostante e premendo "+" per aggiungere o "-" per rimuovere.`,
@@ -20,8 +20,11 @@ export const APP_DESCRIPTIONS = {
     askForQualityCheckbox: 'Richiedi qualità oggetto',
     selectedItems: 'Oggetti Selezionati:',
     clearButton: 'Pulisci',
+    openLogsDialogButton: 'Importare log di una cassa',
+    logsImportDialogTitle: 'Incollare i log e premere "Importa"',
+    logsImportButton: 'Importa',
     forwardButton: 'Avanti',
-    itemRolling: 'Selezione giocatori:',
+    itemRolling: 'Selezione giocatori',
     itemRollingFirstParagraph: `Aggiungere giocatori alla lista digitando il nome e premendo Invio o il tasto "Aggiungi". Per rimuovere un giocatore dalla lista, cliccare sul nome.`,
     itemRollingSecondParagraph: `Per eseguire il roll e distribuire gli oggetti, premere il tasto "Roll".`,
     playerPlaceholder: 'Nome giocatore',
@@ -33,7 +36,7 @@ export const APP_DESCRIPTIONS = {
       'Se hai trovato questo strumento utile, puoi fare una donazione per sostenerne lo sviluppo.'
   },
   english: {
-    itemSelection: 'Items selection:',
+    itemSelection: 'Items selection',
     itemSelectionFirstParagraph: `To select an item, start by typing the item name in the search bar. Items can be filtered by category and tier. Clicking on an item will allow
     for quality selection and add the item to the selection table. If an item does not show up during search, try using the category and/or tier filter. To remove an item from selection simply click on the red cross.`,
     itemSelectionSecondParagraph:
@@ -44,10 +47,13 @@ export const APP_DESCRIPTIONS = {
     searchBarPlaceholder: 'Search',
     resetButton: 'Reset',
     askForQualityCheckbox: 'Ask for item quality',
-    selectedItems: 'Selected items:',
+    selectedItems: 'Selected items',
     clearButton: 'Clear',
+    openLogsDialogButton: 'Import chest logs',
+    logsImportDialogTitle: 'Paste the chest logs and press "Import"',
+    logsImportButton: 'Import',
     forwardButton: 'Next',
-    itemRolling: 'Players selection:',
+    itemRolling: 'Players selection',
     itemRollingFirstParagraph: `Add players to the list by typing in the name and pressing Enter or the "Add" button. To remove a player from the list, simply click on its name.`,
     itemRollingSecondParagraph: `To perform the roll and distribute the items, press "Roll".`,
     playerPlaceholder: 'Player name',
@@ -61,6 +67,7 @@ export const APP_DESCRIPTIONS = {
 }
 
 export const INPUT_SANITIZE_REGEXP = /[^a-z\d\s.']/gi
+
 export const ITEM_CATEGORIES = [
   'Artefacts',
   'Cloth Armor',
@@ -130,3 +137,11 @@ export const NO_QUALITY_CATEGORIES = [
   'Stone Blocks',
   'Wood Planks'
 ]
+
+export const ITEM_QUALITIES = {
+  '1': 'Normal',
+  '2': 'Good',
+  '3': 'Outstanding',
+  '4': 'Excellent',
+  '5': 'Masterpiece'
+}

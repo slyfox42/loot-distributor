@@ -6,11 +6,15 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  .clear-button {
-    flex-grow: 1;
-    align-self: flex-start;
+
+  .buttons-container {
+    display: flex;
     margin-top: 25px;
+    .clear-button {
+      margin-left: 30px;
+    }
   }
+
 }
 
 .loot-table {

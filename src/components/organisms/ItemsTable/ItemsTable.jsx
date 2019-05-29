@@ -25,7 +25,7 @@ const ItemsTable = ({
   selectTier,
   updateDisplayList,
   clickedItem,
-  addToselectedItems,
+  addToSelectedItems,
   clearFilters,
   updateItemQuantity,
   language
@@ -83,14 +83,16 @@ const ItemsTable = ({
         const averagePrice = await fetchAveragePrice(objectID)
         const uniqueID = uuid()
 
-        return addToselectedItems({
-          uniqueID,
-          objectID,
-          objectName,
-          imgID,
-          averagePrice,
-          quantity: 1
-        })
+        return addToSelectedItems([
+          {
+            uniqueID,
+            objectID,
+            objectName,
+            imgID,
+            averagePrice,
+            quantity: 1
+          }
+        ])
       }
       clickedItem({
         objectID,
@@ -114,13 +116,15 @@ const ItemsTable = ({
       const uniqueID = uuid()
       const averagePrice = await fetchAveragePrice(objectID)
 
-      addToselectedItems({
-        uniqueID,
-        objectID,
-        objectName: newName,
-        averagePrice,
-        quantity: 1
-      })
+      addToSelectedItems([
+        {
+          uniqueID,
+          objectID,
+          objectName: newName,
+          averagePrice,
+          quantity: 1
+        }
+      ])
     }
   }
 
@@ -178,7 +182,7 @@ ItemsTable.propTypes = {
   selectTier: PropTypes.func.isRequired,
   updateDisplayList: PropTypes.func.isRequired,
   clickedItem: PropTypes.func.isRequired,
-  addToselectedItems: PropTypes.func.isRequired,
+  addToSelectedItems: PropTypes.func.isRequired,
   clearFilters: PropTypes.func.isRequired,
   updateItemQuantity: PropTypes.func.isRequired
 }

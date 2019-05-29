@@ -21,8 +21,10 @@ export const multiplyLoot = loot =>
 
 export const distinctLoot = loot => {
   const grouped = groupBy(loot, 'objectName')
-  return Object.values(grouped).map(items => ({
-    ...items[0],
-    quantity: items.length
-  }))
+  return Object.values(grouped)
+    .map(items => ({
+      ...items[0],
+      quantity: items.reduce((acc, curr) => acc + curr.quantity, 0)
+    }))
+    .filter(el => el.quantity > 0)
 }

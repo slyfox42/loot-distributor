@@ -22,7 +22,7 @@
 .success-button {
   background: $success-color;
   &:hover {
-    background: lighten($color: $success-color, $amount: 10%)
+    background: darken($color: $success-color, $amount: 10%)
   }
 }
 
