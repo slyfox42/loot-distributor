@@ -12,6 +12,7 @@ import itemsActions from '../../../actions/items'
 
 const LootTable = ({
   selection,
+  addToSelectedItems,
   removeFromselectedItems,
   clearSelectedItems,
   language
@@ -20,7 +21,7 @@ const LootTable = ({
     <div className="loot-table-header">
       {APP_DESCRIPTIONS[language].selectedItems}
       <div className="buttons-container">
-        <LogsDialog />
+        <LogsDialog addToSelectedItems={addToSelectedItems} />
         <Button
           appearance={BUTTON_TYPES.ERROR}
           onClick={() => clearSelectedItems()}
@@ -52,7 +53,8 @@ LootTable.propTypes = {
   selection: PropTypes.object.isRequired,
   language: PropTypes.string.isRequired,
   removeFromselectedItems: PropTypes.func.isRequired,
-  clearSelectedItems: PropTypes.func.isRequired
+  clearSelectedItems: PropTypes.func.isRequired,
+  addToSelectedItems: PropTypes.func.isRequired
 }
 
 LootTable.defaultProps = {
@@ -60,10 +62,8 @@ LootTable.defaultProps = {
 }
 
 export default connect(
-  state => {
-    return {
-      selection: state.itemsReducer
-    }
-  },
+  state => ({
+    selection: state.itemsReducer
+  }),
   dispatch => bindActionCreators(itemsActions, dispatch)
 )(LootTable)

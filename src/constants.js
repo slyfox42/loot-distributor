@@ -61,6 +61,7 @@ export const APP_DESCRIPTIONS = {
 }
 
 export const INPUT_SANITIZE_REGEXP = /[^a-z\d\s.']/gi
+
 export const ITEM_CATEGORIES = [
   'Artefacts',
   'Cloth Armor',
@@ -130,3 +131,11 @@ export const NO_QUALITY_CATEGORIES = [
   'Stone Blocks',
   'Wood Planks'
 ]
+
+export const ITEM_QUALITIES = {
+  '1': 'Normal',
+  '2': 'Good',
+  '3': 'Outstanding',
+  '4': 'Excellent',
+  '5': 'Masterpiece'
+}

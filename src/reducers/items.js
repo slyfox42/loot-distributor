@@ -67,10 +67,10 @@ export default createReducer(
         state
       )
     },
-    [itemsActions.addToselectedItems]: (state, payload) => {
+    [itemsActions.addToSelectedItems]: (state, payload) => {
       return u(
         {
-          selectedItems: [...state.selectedItems, payload]
+          selectedItems: [...state.selectedItems, ...payload]
         },
         state
       )
