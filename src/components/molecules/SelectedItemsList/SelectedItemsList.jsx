@@ -21,7 +21,7 @@ const SelectedItemsList = ({
           </span>
         )}
         <span className="quantity-counter">{item.quantity}</span>
-        <Item obj={item} customClass={customClass} showCounter={showCounter} />
+        <Item item={item} customClass={customClass} showCounter={showCounter} />
       </div>
     )
   })

@@ -1,8 +1,8 @@
 .selectable-item {
   user-select: none;
   cursor: pointer;
-  width: 100px;
-  margin: 2px;
+  width: 80px;
+
   .item-image {
     height: 80px;
     width: 80px;
@@ -10,5 +10,11 @@
   .item-description {
     font-size: 12px;
     word-wrap: break-word;
+    text-align: center;
   }
+}
+
+.selectable-item-container {
+  display: flex;
+  margin: 10px;
 }

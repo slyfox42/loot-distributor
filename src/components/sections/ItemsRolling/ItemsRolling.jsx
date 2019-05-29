@@ -23,7 +23,7 @@ const ItemsRolling = ({ loot, players, updateResultsList, language }) => {
       <PlayersTable language={language} />
       <Button
         appearance={BUTTON_TYPES.SUCCESS}
-        customClass="action-button roll-button"
+        customClass="action-button"
         onClick={() => {
           const result = roll(players, loot)
           if (result) {

@@ -1,0 +1,18 @@
+.item-price-container {
+  display: flex;
+  user-select: none;
+  align-items: center;
+
+  input {
+    width: 45px;
+    font-size: 10px;
+    text-align: center;
+  }
+}
+
+.silver-icon {
+  height: 15px;
+  width: 15px;
+  margin-right: 5px;
+}
+

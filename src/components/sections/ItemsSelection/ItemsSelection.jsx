@@ -22,21 +22,22 @@ const ItemsSelection = ({ language }) => {
       </div>
       <div className="selection-tables">
         <ItemsTable objectCatalogue={objectCatalogue} language={language} />
-        <Button
-          appearance={BUTTON_TYPES.SUCCESS}
-          customClass="action-button"
-          onClick={() => {
-            const playersTableElement = document.getElementById('roll-section')
-            playersTableElement.scrollIntoView({
-              alignToTop: true,
-              behavior: 'smooth'
-            })
-          }}
-        >
-          {APP_DESCRIPTIONS[language].forwardButton}
-        </Button>
+
         <LootTable language={language} />
       </div>
+      <Button
+        appearance={BUTTON_TYPES.SUCCESS}
+        customClass="action-button"
+        onClick={() => {
+          const playersTableElement = document.getElementById('roll-section')
+          playersTableElement.scrollIntoView({
+            alignToTop: true,
+            behavior: 'smooth'
+          })
+        }}
+      >
+        {APP_DESCRIPTIONS[language].forwardButton}
+      </Button>
     </div>
   )
 }

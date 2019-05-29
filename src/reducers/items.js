@@ -1,5 +1,5 @@
 import { createReducer } from 'redux-act'
-import itemActions from '../actions/items'
+import itemsActions from '../actions/items'
 import u from 'updeep'
 
 const initialState = {
@@ -14,28 +14,28 @@ const initialState = {
 
 export default createReducer(
   {
-    [itemActions.selectCategory]: (state, payload) =>
+    [itemsActions.selectCategory]: (state, payload) =>
       u(
         {
           category: payload
         },
         state
       ),
-    [itemActions.selectTier]: (state, payload) =>
+    [itemsActions.selectTier]: (state, payload) =>
       u(
         {
           tier: payload
         },
         state
       ),
-    [itemActions.selectQualityPreference]: state =>
+    [itemsActions.selectQualityPreference]: state =>
       u(
         {
           askForQuality: !state.askForQuality
         },
         state
       ),
-    [itemActions.clearFilters]: state =>
+    [itemsActions.clearFilters]: state =>
       u(
         {
           category: '',
@@ -45,21 +45,21 @@ export default createReducer(
         },
         state
       ),
-    [itemActions.updateDisplayList]: (state, payload) =>
+    [itemsActions.updateDisplayList]: (state, payload) =>
       u(
         {
           displayList: payload
         },
         state
       ),
-    [itemActions.updateSearchQuery]: (state, payload) =>
+    [itemsActions.updateSearchQuery]: (state, payload) =>
       u(
         {
           query: payload
         },
         state
       ),
-    [itemActions.clickedItem]: (state, payload) => {
+    [itemsActions.clickedItem]: (state, payload) => {
       return u(
         {
           clickedItem: payload
@@ -67,7 +67,7 @@ export default createReducer(
         state
       )
     },
-    [itemActions.addToselectedItems]: (state, payload) => {
+    [itemsActions.addToselectedItems]: (state, payload) => {
       return u(
         {
           selectedItems: [...state.selectedItems, payload]
@@ -75,7 +75,7 @@ export default createReducer(
         state
       )
     },
-    [itemActions.removeFromselectedItems]: (state, payload) =>
+    [itemsActions.removeFromselectedItems]: (state, payload) =>
       u(
         {
           selectedItems: state.selectedItems.filter(
@@ -84,18 +84,27 @@ export default createReducer(
         },
         state
       ),
-    [itemActions.clearSelectedItems]: state =>
+    [itemsActions.clearSelectedItems]: state =>
       u(
         {
           selectedItems: []
         },
         state
       ),
-    [itemActions.updateItemQuantity]: (state, { item, quantity }) =>
+    [itemsActions.updateItemQuantity]: (state, { item, quantity }) =>
       u(
         {
           selectedItems: state.selectedItems.map(el =>
             el.uniqueID === item.uniqueID ? { ...el, quantity } : el
+          )
+        },
+        state
+      ),
+    [itemsActions.updateItemPrice]: (state, { item, price }) =>
+      u(
+        {
+          selectedItems: state.selectedItems.map(el =>
+            el.uniqueID === item.uniqueID ? { ...el, averagePrice: price } : el
           )
         },
         state

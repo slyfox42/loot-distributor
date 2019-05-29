@@ -15,7 +15,7 @@ import React, { useEffect } from 'react'
 import SearchBar from '../../atoms/SearchBar'
 import SelectField from '../../atoms/SelectField'
 import fetchAveragePrice from '../../../utils/fetchAveragePrice'
-import itemActions from '../../../actions/items'
+import itemsActions from '../../../actions/items'
 import uuid from 'uuid'
 
 const ItemsTable = ({
@@ -190,5 +190,5 @@ export default connect(
       language: state.languageReducer.language
     }
   },
-  dispatch => bindActionCreators(itemActions, dispatch)
+  dispatch => bindActionCreators(itemsActions, dispatch)
 )(ItemsTable)

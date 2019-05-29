@@ -4,7 +4,7 @@ import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 import PropTypes from 'prop-types'
 import React from 'react'
-import itemActions from '../../../actions/items'
+import itemsActions from '../../../actions/items'
 
 const SearchBar = ({ selection, language, updateSearchQuery }) => {
   const { query } = selection
@@ -35,5 +35,5 @@ export default connect(
       language: state.languageReducer.language
     }
   },
-  dispatch => bindActionCreators(itemActions, dispatch)
+  dispatch => bindActionCreators(itemsActions, dispatch)
 )(SearchBar)

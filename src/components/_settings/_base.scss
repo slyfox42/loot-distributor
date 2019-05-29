@@ -42,10 +42,10 @@ html, body {
 .action-button {
   align-self: center;
   font-size: 30px;
-  width: 120px;
   border-radius: 10px;
-  height: 60px;
-  margin: 0 100px !important;
+  margin: 15px !important;
+  height: 70px;
+  width: 250px;
   &:hover {
     background: darken($success-color, 15%) !important;
   }
@@ -53,6 +53,7 @@ html, body {
 
 main {
   display: flex;
+  width: 90%;
   flex-direction: column;
   align-items: center;
   align-content: center;
