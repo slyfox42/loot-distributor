@@ -23,22 +23,27 @@ const parseCsv = csv => {
 }
 
 const parseChestLogs = logs => {
-  const formattedLogs = logs.replace(/[\t]/gm, ',').replace(/"/gm, '')
+  const formattedLogs = logs.replace(/[ ]{2,}|[\t]/gm, ',').replace(/"/gm, '')
   const objects = parseCsv(formattedLogs)
-  const items = objects.map(object => {
-    const objectName =
-      object.enchantment === '0'
-        ? object.item
-        : `${object.item} .${object.enchantment}`
-    const item = allItems.find(el => el.objectName === objectName)
-    const uniqueID = uuid()
-    return {
-      ...item,
-      uniqueID,
-      objectName: `${item.objectName} ${ITEM_QUALITIES[object.quality]}`,
-      quantity: parseInt(object.amount)
-    }
-  })
+  const items = objects
+    .map(object => {
+      const objectName =
+        object.enchantment === '0'
+          ? object.item
+          : `${object.item} .${object.enchantment}`
+      const item = allItems.find(el => el.objectName === objectName)
+      if (!item) {
+        return null
+      }
+      const uniqueID = uuid()
+      return {
+        ...item,
+        uniqueID,
+        objectName: `${item.objectName} ${ITEM_QUALITIES[object.quality]}`,
+        quantity: parseInt(object.amount)
+      }
+    })
+    .filter(el => !!el)
   const distinctItems = distinctLoot(items)
 
   return Promise.all(
