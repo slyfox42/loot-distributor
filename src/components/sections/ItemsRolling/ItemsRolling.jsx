@@ -31,7 +31,7 @@ const ItemsRolling = ({ loot, players, updateResultsList, language }) => {
           }
         }}
       >
-        Roll
+        {APP_DESCRIPTIONS[language].rollButton}
       </Button>
       <ResultsTable language={language} />
     </div>
