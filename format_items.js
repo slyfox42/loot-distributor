@@ -1,5 +1,6 @@
 const fs = require('fs')
 let itemList = require('./raw_items.json')
+const artifactNames = require('./artifactNames.json')
 
 itemList = itemList.map(el => {
   if (el.id.includes('@')) {
@@ -19,16 +20,21 @@ itemList = itemList.map(el => {
 const artefacts = itemList
   .filter(el => el.objectID.match(/artefact/gi))
   .map(el => {
-    const new_name = `${el.objectName} Artefact`
     return {
       objectID: el.objectID,
-      objectName: new_name
+      objectName: el.objectName
     }
   })
-  .map(el => ({
-    ...el,
-    category: 'Artefacts'
-  }))
+  .map(el => {
+    const correctArtifact = artifactNames.find(
+      artifact => artifact.objectID === el.objectID
+    )
+    return {
+      ...el,
+      objectName: correctArtifact.objectName,
+      category: 'Artefacts'
+    }
+  })
 
 const clothArmor = itemList
   .filter(el => el.objectID.match(/armor_cloth/gi))

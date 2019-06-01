@@ -606,2027 +606,2027 @@
   },
   {
     "objectID": "T4_ARTEFACT_2H_ARCANESTAFF_HELL",
-    "objectName": "Adept's Occult Staff Artefact",
+    "objectName": "Adept's Occult Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_BOW_HELL",
-    "objectName": "Adept's Wailing Bow Artefact",
+    "objectName": "Adept's Demonic Arrowheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_BOW_KEEPER",
-    "objectName": "Adept's Bow of Badon Artefact",
+    "objectName": "Adept's Carved bone",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_CLEAVER_HELL",
-    "objectName": "Adept's Carving Sword Artefact",
+    "objectName": "Adept's Demonic Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_COMBATSTAFF_MORGANA",
-    "objectName": "Adept's Black Monk Stave Artefact",
+    "objectName": "Adept's Reinforced Morgana Pole",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_CROSSBOWLARGE_MORGANA",
-    "objectName": "Adept's Siegebow Artefact",
+    "objectName": "Adept's Alluring Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_CURSEDSTAFF_MORGANA",
-    "objectName": "Adept's Damnation Staff Artefact",
+    "objectName": "Adept's Bloodforged Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_CURSEDSTAFF_MORGANA",
-    "objectName": "Adept's Damnation Staff Artefact",
+    "objectName": "Expert's Bloodforged Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_CURSEDSTAFF_MORGANA",
-    "objectName": "Adept's Damnation Staff Artefact",
+    "objectName": "Master's Bloodforged Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_CURSEDSTAFF_MORGANA",
-    "objectName": "Adept's Damnation Staff Artefact",
+    "objectName": "Grandmaster's Bloodforged Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_CURSEDSTAFF_MORGANA",
-    "objectName": "Adept's Damnation Staff Artefact",
+    "objectName": "Elder's Bloodforged Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_DUALAXE_KEEPER",
-    "objectName": "Adept's Bear Paws Artefact",
+    "objectName": "Adept's Keeper Axeheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_DUALCROSSBOW_HELL",
-    "objectName": "Adept's Boltcasters Artefact",
+    "objectName": "Adept's Hellish Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_DUALHAMMER_HELL",
-    "objectName": "Adept's Forge Hammers Artefact",
+    "objectName": "Adept's Hellish Hammer Heads",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_DUALSCIMITAR_UNDEAD",
-    "objectName": "Adept's Galatine Pair Artefact",
+    "objectName": "Adept's Cursed Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_DUALSICKLE_UNDEAD",
-    "objectName": "Adept's Deathgivers Artefact",
+    "objectName": "Adept's Ghastly Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_ENIGMATICORB_MORGANA",
-    "objectName": "Adept's Malevolent Locus Artefact",
+    "objectName": "Adept's Possessed Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_FIRESTAFF_HELL",
-    "objectName": "Adept's Brimstone Staff Artefact",
+    "objectName": "Adept's Burning Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_HALBERD_MORGANA",
-    "objectName": "Adept's Carrioncaller Artefact",
+    "objectName": "Adept's Morgana Halberd Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_HAMMER_UNDEAD",
-    "objectName": "Adept's Tombhammer Artefact",
+    "objectName": "Adept's Ancient Hammer Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_HARPOON_HELL",
-    "objectName": "Adept's Spirithunter Artefact",
+    "objectName": "Adept's Infernal Harpoon Tip",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
-    "objectName": "Adept's Lifetouch Staff Artefact",
+    "objectName": "Adept's Possessed Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_HOLYSTAFF_HELL",
-    "objectName": "Adept's Fallen Staff Artefact",
+    "objectName": "Adept's Infernal Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
-    "objectName": "Adept's Redemption Staff Artefact",
+    "objectName": "Adept's Ghastly Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_ICECRYSTAL_UNDEAD",
-    "objectName": "Adept's Permafrost Prism Artefact",
+    "objectName": "Adept's Cursed Frozen Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_ICEGAUNTLETS_HELL",
-    "objectName": "Adept's Icicle Staff Artefact",
+    "objectName": "Adept's Icicle Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_INFERNOSTAFF_MORGANA",
-    "objectName": "Adept's Blazing Staff Artefact",
+    "objectName": "Adept's Unholy Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_IRONGAUNTLETS_HELL",
-    "objectName": "Adept's Black Hands Artefact",
+    "objectName": "Adept's Black Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_LONGBOW_UNDEAD",
-    "objectName": "Adept's Whispering Bow Artefact",
+    "objectName": "Adept's Ghastly Arrows",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_MACE_MORGANA",
-    "objectName": "Adept's Camlann Mace Artefact",
+    "objectName": "Adept's Imbued Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_NATURESTAFF_HELL",
-    "objectName": "Adept's Blight Staff Artefact",
+    "objectName": "Adept's Symbol of Blight",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_NATURESTAFF_KEEPER",
-    "objectName": "Adept's Rampant Staff Artefact",
+    "objectName": "Adept's Preserved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_RAM_KEEPER",
-    "objectName": "Adept's Grovekeeper Artefact",
+    "objectName": "Adept's Engraved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD",
-    "objectName": "Adept's Weeping Repeater Artefact",
+    "objectName": "Adept's Lost Crossbow Mechanism",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_ROCKSTAFF_KEEPER",
-    "objectName": "Adept's Staff of Balance Artefact",
+    "objectName": "Adept's Preserved Rocks",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_SKULLORB_HELL",
-    "objectName": "Adept's Cursed Skull Artefact",
+    "objectName": "Adept's Cursed Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_TRIDENT_UNDEAD",
-    "objectName": "Adept's Trinity Spear Artefact",
+    "objectName": "Adept's Cursed Barbs",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_TWINSCYTHE_HELL",
-    "objectName": "Adept's Soulscythe Artefact",
+    "objectName": "Adept's Hellish Sicklehead Pair",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD",
-    "objectName": "Adept's Witchwork Staff Artefact",
+    "objectName": "Adept's Lost Arcane Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD",
-    "objectName": "Adept's Lifecurse Staff Artefact",
+    "objectName": "Adept's Lost Cursed Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_FIRESTAFF_KEEPER",
-    "objectName": "Adept's Wildfire Staff Artefact",
+    "objectName": "Adept's Wildfire Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_FROSTSTAFF_KEEPER",
-    "objectName": "Adept's Hoarfrost Staff Artefact",
+    "objectName": "Adept's Hoarfrost Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_MACE_HELL",
-    "objectName": "Adept's Incubus Mace Artefact",
+    "objectName": "Adept's Infernal Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_NATURESTAFF_KEEPER",
-    "objectName": "Adept's Druidic Staff Artefact",
+    "objectName": "Adept's Druidic Inscriptions",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_RAPIER_MORGANA",
-    "objectName": "Adept's Bloodletter Artefact",
+    "objectName": "Adept's Hardened Debole",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_ROCKMACE_KEEPER",
-    "objectName": "Adept's Bedrock Mace Artefact",
+    "objectName": "Adept's Runed Rock",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_SCIMITAR_MORGANA",
-    "objectName": "Adept's Clarent Blade Artefact",
+    "objectName": "Adept's Bloodforged Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_MAIN_SPEAR_KEEPER",
-    "objectName": "Adept's Heron Spear Artefact",
+    "objectName": "Adept's Keeper Spearhead",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_ARCANESTAFF_HELL",
-    "objectName": "Expert's Occult Staff Artefact",
+    "objectName": "Expert's Occult Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_BOW_HELL",
-    "objectName": "Expert's Wailing Bow Artefact",
+    "objectName": "Expert's Demonic Arrowheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_BOW_KEEPER",
-    "objectName": "Expert's Bow of Badon Artefact",
+    "objectName": "Expert's Carved bone",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_CLEAVER_HELL",
-    "objectName": "Expert's Carving Sword Artefact",
+    "objectName": "Expert's Demonic Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_COMBATSTAFF_MORGANA",
-    "objectName": "Expert's Black Monk Stave Artefact",
+    "objectName": "Expert's Reinforced Morgana Pole",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_CROSSBOWLARGE_MORGANA",
-    "objectName": "Expert's Siegebow Artefact",
+    "objectName": "Expert's Alluring Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_DUALAXE_KEEPER",
-    "objectName": "Expert's Bear Paws Artefact",
+    "objectName": "Expert's Keeper Axeheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_DUALCROSSBOW_HELL",
-    "objectName": "Expert's Boltcasters Artefact",
+    "objectName": "Expert's Hellish Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_DUALHAMMER_HELL",
-    "objectName": "Expert's Forge Hammers Artefact",
+    "objectName": "Expert's Hellish Hammer Heads",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_DUALSCIMITAR_UNDEAD",
-    "objectName": "Expert's Galatine Pair Artefact",
+    "objectName": "Expert's Cursed Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_DUALSICKLE_UNDEAD",
-    "objectName": "Expert's Deathgivers Artefact",
+    "objectName": "Expert's Ghastly Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_ENIGMATICORB_MORGANA",
-    "objectName": "Expert's Malevolent Locus Artefact",
+    "objectName": "Expert's Possessed Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_FIRESTAFF_HELL",
-    "objectName": "Expert's Brimstone Staff Artefact",
+    "objectName": "Expert's Burning Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_HALBERD_MORGANA",
-    "objectName": "Expert's Carrioncaller Artefact",
+    "objectName": "Expert's Morgana Halberd Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_HAMMER_UNDEAD",
-    "objectName": "Expert's Tombhammer Artefact",
+    "objectName": "Expert's Ancient Hammer Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_HARPOON_HELL",
-    "objectName": "Expert's Spirithunter Artefact",
+    "objectName": "Expert's Infernal Harpoon Tip",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
-    "objectName": "Expert's Lifetouch Staff Artefact",
+    "objectName": "Expert's Possessed Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_HOLYSTAFF_HELL",
-    "objectName": "Expert's Fallen Staff Artefact",
+    "objectName": "Expert's Infernal Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
-    "objectName": "Expert's Redemption Staff Artefact",
+    "objectName": "Expert's Ghastly Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_ICECRYSTAL_UNDEAD",
-    "objectName": "Expert's Permafrost Prism Artefact",
+    "objectName": "Expert's Cursed Frozen Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_ICEGAUNTLETS_HELL",
-    "objectName": "Expert's Icicle Staff Artefact",
+    "objectName": "Expert's Icicle Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_INFERNOSTAFF_MORGANA",
-    "objectName": "Expert's Blazing Staff Artefact",
+    "objectName": "Expert's Unholy Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_IRONGAUNTLETS_HELL",
-    "objectName": "Expert's Black Hands Artefact",
+    "objectName": "Expert's Black Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_LONGBOW_UNDEAD",
-    "objectName": "Expert's Whispering Bow Artefact",
+    "objectName": "Expert's Ghastly Arrows",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_MACE_MORGANA",
-    "objectName": "Expert's Camlann Mace Artefact",
+    "objectName": "Expert's Imbued Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_NATURESTAFF_HELL",
-    "objectName": "Expert's Blight Staff Artefact",
+    "objectName": "Expert's Symbol of Blight",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_NATURESTAFF_KEEPER",
-    "objectName": "Expert's Rampant Staff Artefact",
+    "objectName": "Expert's Preserved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_RAM_KEEPER",
-    "objectName": "Expert's Grovekeeper Artefact",
+    "objectName": "Expert's Engraved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD",
-    "objectName": "Expert's Weeping Repeater Artefact",
+    "objectName": "Expert's Lost Crossbow Mechanism",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_ROCKSTAFF_KEEPER",
-    "objectName": "Expert's Staff of Balance Artefact",
+    "objectName": "Expert's Preserved Rocks",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_2H_SCYTHE_HELL",
-    "objectName": "Expert's Scythe Artefact",
+    "objectName": "Adept's Hellish Sicklehead",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_SCYTHE_HELL",
-    "objectName": "Expert's Scythe Artefact",
+    "objectName": "Expert's Hellish Sicklehead",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_SCYTHE_HELL",
-    "objectName": "Expert's Scythe Artefact",
+    "objectName": "Master's Hellish Sicklehead",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_SCYTHE_HELL",
-    "objectName": "Expert's Scythe Artefact",
+    "objectName": "Grandmaster's Hellish Sicklehead",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_SCYTHE_HELL",
-    "objectName": "Expert's Scythe Artefact",
+    "objectName": "Elder's Hellish Sicklehead",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_SKULLORB_HELL",
-    "objectName": "Expert's Cursed Skull Artefact",
+    "objectName": "Expert's Cursed Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_TRIDENT_UNDEAD",
-    "objectName": "Expert's Trinity Spear Artefact",
+    "objectName": "Expert's Cursed Barbs",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_2H_TWINSCYTHE_HELL",
-    "objectName": "Expert's Soulscythe Artefact",
+    "objectName": "Expert's Hellish Sicklehead Pair",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD",
-    "objectName": "Expert's Witchwork Staff Artefact",
+    "objectName": "Expert's Lost Arcane Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD",
-    "objectName": "Expert's Lifecurse Staff Artefact",
+    "objectName": "Expert's Lost Cursed Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_FIRESTAFF_KEEPER",
-    "objectName": "Expert's Wildfire Staff Artefact",
+    "objectName": "Expert's Wildfire Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_FROSTSTAFF_KEEPER",
-    "objectName": "Expert's Hoarfrost Staff Artefact",
+    "objectName": "Expert's Hoarfrost Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_MACE_HELL",
-    "objectName": "Expert's Incubus Mace Artefact",
+    "objectName": "Expert's Infernal Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_NATURESTAFF_KEEPER",
-    "objectName": "Expert's Druidic Staff Artefact",
+    "objectName": "Expert's Druidic Inscriptions",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_RAPIER_MORGANA",
-    "objectName": "Expert's Bloodletter Artefact",
+    "objectName": "Expert's Hardened Debole",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_ROCKMACE_KEEPER",
-    "objectName": "Expert's Bedrock Mace Artefact",
+    "objectName": "Expert's Runed Rock",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_SCIMITAR_MORGANA",
-    "objectName": "Expert's Clarent Blade Artefact",
+    "objectName": "Expert's Bloodforged Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_MAIN_SPEAR_KEEPER",
-    "objectName": "Expert's Heron Spear Artefact",
+    "objectName": "Expert's Keeper Spearhead",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_ARCANESTAFF_HELL",
-    "objectName": "Master's Occult Staff Artefact",
+    "objectName": "Master's Occult Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_BOW_HELL",
-    "objectName": "Master's Wailing Bow Artefact",
+    "objectName": "Master's Demonic Arrowheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_BOW_KEEPER",
-    "objectName": "Master's Bow of Badon Artefact",
+    "objectName": "Master's Carved bone",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_CLEAVER_HELL",
-    "objectName": "Master's Carving Sword Artefact",
+    "objectName": "Master's Demonic Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_COMBATSTAFF_MORGANA",
-    "objectName": "Master's Black Monk Stave Artefact",
+    "objectName": "Master's Reinforced Morgana Pole",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_CROSSBOWLARGE_MORGANA",
-    "objectName": "Master's Siegebow Artefact",
+    "objectName": "Master's Alluring Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_DUALAXE_KEEPER",
-    "objectName": "Master's Bear Paws Artefact",
+    "objectName": "Master's Keeper Axeheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_DUALCROSSBOW_HELL",
-    "objectName": "Master's Boltcasters Artefact",
+    "objectName": "Master's Hellish Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_DUALHAMMER_HELL",
-    "objectName": "Master's Forge Hammers Artefact",
+    "objectName": "Master's Hellish Hammer Heads",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_DUALSCIMITAR_UNDEAD",
-    "objectName": "Master's Galatine Pair Artefact",
+    "objectName": "Master's Cursed Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_DUALSICKLE_UNDEAD",
-    "objectName": "Master's Deathgivers Artefact",
+    "objectName": "Master's Ghastly Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_ENIGMATICORB_MORGANA",
-    "objectName": "Master's Malevolent Locus Artefact",
+    "objectName": "Master's Possessed Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_FIRESTAFF_HELL",
-    "objectName": "Master's Brimstone Staff Artefact",
+    "objectName": "Master's Burning Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_HALBERD_MORGANA",
-    "objectName": "Master's Carrioncaller Artefact",
+    "objectName": "Master's Morgana Halberd Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_HAMMER_UNDEAD",
-    "objectName": "Master's Tombhammer Artefact",
+    "objectName": "Master's Ancient Hammer Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_HARPOON_HELL",
-    "objectName": "Master's Spirithunter Artefact",
+    "objectName": "Master's Infernal Harpoon Tip",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
-    "objectName": "Master's Lifetouch Staff Artefact",
+    "objectName": "Master's Possessed Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_HOLYSTAFF_HELL",
-    "objectName": "Master's Fallen Staff Artefact",
+    "objectName": "Master's Infernal Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
-    "objectName": "Master's Redemption Staff Artefact",
+    "objectName": "Master's Ghastly Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_ICECRYSTAL_UNDEAD",
-    "objectName": "Master's Permafrost Prism Artefact",
+    "objectName": "Master's Cursed Frozen Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_ICEGAUNTLETS_HELL",
-    "objectName": "Master's Icicle Staff Artefact",
+    "objectName": "Master's Icicle Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_INFERNOSTAFF_MORGANA",
-    "objectName": "Master's Blazing Staff Artefact",
+    "objectName": "Master's Unholy Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_IRONGAUNTLETS_HELL",
-    "objectName": "Master's Black Hands Artefact",
+    "objectName": "Master's Black Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_LONGBOW_UNDEAD",
-    "objectName": "Master's Whispering Bow Artefact",
+    "objectName": "Master's Ghastly Arrows",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_MACE_MORGANA",
-    "objectName": "Master's Camlann Mace Artefact",
+    "objectName": "Master's Imbued Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_NATURESTAFF_HELL",
-    "objectName": "Master's Blight Staff Artefact",
+    "objectName": "Master's Symbol of Blight",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_NATURESTAFF_KEEPER",
-    "objectName": "Master's Rampant Staff Artefact",
+    "objectName": "Master's Preserved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_RAM_KEEPER",
-    "objectName": "Master's Grovekeeper Artefact",
+    "objectName": "Master's Engraved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD",
-    "objectName": "Master's Weeping Repeater Artefact",
+    "objectName": "Master's Lost Crossbow Mechanism",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_ROCKSTAFF_KEEPER",
-    "objectName": "Master's Staff of Balance Artefact",
+    "objectName": "Master's Preserved Rocks",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_SKULLORB_HELL",
-    "objectName": "Master's Cursed Skull Artefact",
+    "objectName": "Master's Cursed Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_TRIDENT_UNDEAD",
-    "objectName": "Master's Trinity Spear Artefact",
+    "objectName": "Master's Cursed Barbs",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_2H_TWINSCYTHE_HELL",
-    "objectName": "Master's Soulscythe Artefact",
+    "objectName": "Master's Hellish Sicklehead Pair",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD",
-    "objectName": "Master's Witchwork Staff Artefact",
+    "objectName": "Master's Lost Arcane Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD",
-    "objectName": "Master's Lifecurse Staff Artefact",
+    "objectName": "Master's Lost Cursed Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_FIRESTAFF_KEEPER",
-    "objectName": "Master's Wildfire Staff Artefact",
+    "objectName": "Master's Wildfire Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_FROSTSTAFF_KEEPER",
-    "objectName": "Master's Hoarfrost Staff Artefact",
+    "objectName": "Master's Hoarfrost Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_MACE_HELL",
-    "objectName": "Master's Incubus Mace Artefact",
+    "objectName": "Master's Infernal Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_NATURESTAFF_KEEPER",
-    "objectName": "Master's Druidic Staff Artefact",
+    "objectName": "Master's Druidic Inscriptions",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_RAPIER_MORGANA",
-    "objectName": "Master's Bloodletter Artefact",
+    "objectName": "Master's Hardened Debole",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_ROCKMACE_KEEPER",
-    "objectName": "Master's Bedrock Mace Artefact",
+    "objectName": "Master's Runed Rock",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_SCIMITAR_MORGANA",
-    "objectName": "Master's Clarent Blade Artefact",
+    "objectName": "Master's Bloodforged Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_MAIN_SPEAR_KEEPER",
-    "objectName": "Master's Heron Spear Artefact",
+    "objectName": "Master's Keeper Spearhead",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_ARCANESTAFF_HELL",
-    "objectName": "Grandmaster's Occult Staff Artefact",
+    "objectName": "Grandmaster's Occult Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_BOW_HELL",
-    "objectName": "Grandmaster's Wailing Bow Artefact",
+    "objectName": "Grandmaster's Demonic Arrowheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_BOW_KEEPER",
-    "objectName": "Grandmaster's Bow of Badon Artefact",
+    "objectName": "Grandmaster's Carved Bone",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_CLEAVER_HELL",
-    "objectName": "Grandmaster's Carving Sword Artefact",
+    "objectName": "Grandmaster's Demonic Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_COMBATSTAFF_MORGANA",
-    "objectName": "Grandmaster's Black Monk Stave Artefact",
+    "objectName": "Grandmaster's Reinforced Morgana Pole",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_CROSSBOWLARGE_MORGANA",
-    "objectName": "Grandmaster's Siegebow Artefact",
+    "objectName": "Grandmaster's Alluring Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_DUALAXE_KEEPER",
-    "objectName": "Grandmaster's Bear Paws Artefact",
+    "objectName": "Grandmaster's Keeper Axeheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_DUALCROSSBOW_HELL",
-    "objectName": "Grandmaster's Boltcasters Artefact",
+    "objectName": "Grandmaster's Hellish Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_DUALHAMMER_HELL",
-    "objectName": "Grandmaster's Forge Hammers Artefact",
+    "objectName": "Grandmaster's Hellish Hammer Heads",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_DUALSCIMITAR_UNDEAD",
-    "objectName": "Grandmaster's Galatine Pair Artefact",
+    "objectName": "Grandmaster's Cursed Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_DUALSICKLE_UNDEAD",
-    "objectName": "Grandmaster's Deathgivers Artefact",
+    "objectName": "Grandmaster's Ghastly Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_ENIGMATICORB_MORGANA",
-    "objectName": "Grandmaster's Malevolent Locus Artefact",
+    "objectName": "Grandmaster's Possessed Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_FIRESTAFF_HELL",
-    "objectName": "Grandmaster's Brimstone Staff Artefact",
+    "objectName": "Grandmaster's Burning Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_HALBERD_MORGANA",
-    "objectName": "Grandmaster's Carrioncaller Artefact",
+    "objectName": "Grandmaster's Morgana Halberd Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_HAMMER_UNDEAD",
-    "objectName": "Grandmaster's Tombhammer Artefact",
+    "objectName": "Grandmaster's Ancient Hammer Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_HARPOON_HELL",
-    "objectName": "Grandmaster's Spirithunter Artefact",
+    "objectName": "Grandmaster's Infernal Harpoon Tip",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
-    "objectName": "Grandmaster's Lifetouch Staff Artefact",
+    "objectName": "Grandmaster's Possessed Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_HOLYSTAFF_HELL",
-    "objectName": "Grandmaster's Fallen Staff Artefact",
+    "objectName": "Grandmaster's Infernal Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
-    "objectName": "Grandmaster's Redemption Staff Artefact",
+    "objectName": "Grandmaster's Ghastly Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_ICECRYSTAL_UNDEAD",
-    "objectName": "Grandmaster's Permafrost Prism Artefact",
+    "objectName": "Grandmaster's Cursed Frozen Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_ICEGAUNTLETS_HELL",
-    "objectName": "Grandmaster's Icicle Staff Artefact",
+    "objectName": "Grandmaster's Icicle Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_INFERNOSTAFF_MORGANA",
-    "objectName": "Grandmaster's Blazing Staff Artefact",
+    "objectName": "Grandmaster's Unholy Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_IRONGAUNTLETS_HELL",
-    "objectName": "Grandmaster's Black Hands Artefact",
+    "objectName": "Grandmaster's Black Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_LONGBOW_UNDEAD",
-    "objectName": "Grandmaster's Whispering Bow Artefact",
+    "objectName": "Grandmaster's Ghastly Arrows",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_MACE_MORGANA",
-    "objectName": "Grandmaster's Camlann Mace Artefact",
+    "objectName": "Grandmaster's Imbued Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_NATURESTAFF_HELL",
-    "objectName": "Grandmaster's Blight Staff Artefact",
+    "objectName": "Grandmaster's Symbol of Blight",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_NATURESTAFF_KEEPER",
-    "objectName": "Grandmaster's Rampant Staff Artefact",
+    "objectName": "Grandmaster's Preserved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_RAM_KEEPER",
-    "objectName": "Grandmaster's Grovekeeper Artefact",
+    "objectName": "Grandmaster's Engraved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD",
-    "objectName": "Grandmaster's Weeping Repeater Artefact",
+    "objectName": "Grandmaster's Lost Crossbow Mechanism",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_ROCKSTAFF_KEEPER",
-    "objectName": "Grandmaster's Staff of Balance Artefact",
+    "objectName": "Grandmaster's Preserved Rocks",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_SKULLORB_HELL",
-    "objectName": "Grandmaster's Cursed Skull Artefact",
+    "objectName": "Grandmaster's Cursed Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_TRIDENT_UNDEAD",
-    "objectName": "Grandmaster's Trinity Spear Artefact",
+    "objectName": "Grandmaster's Cursed Barbs",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_2H_TWINSCYTHE_HELL",
-    "objectName": "Grandmaster's Soulscythe Artefact",
+    "objectName": "Grandmaster's Hellish Sicklehead Pair",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD",
-    "objectName": "Grandmaster's Witchwork Staff Artefact",
+    "objectName": "Grandmaster's Lost Arcane Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD",
-    "objectName": "Grandmaster's Lifecurse Staff Artefact",
+    "objectName": "Grandmaster's Lost Cursed Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_FIRESTAFF_KEEPER",
-    "objectName": "Grandmaster's Wildfire Staff Artefact",
+    "objectName": "Grandmaster's Wildfire Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_FROSTSTAFF_KEEPER",
-    "objectName": "Grandmaster's Hoarfrost Staff Artefact",
+    "objectName": "Grandmaster's Hoarfrost Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_MACE_HELL",
-    "objectName": "Grandmaster's Incubus Mace Artefact",
+    "objectName": "Grandmaster's Infernal Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_NATURESTAFF_KEEPER",
-    "objectName": "Grandmaster's Druidic Staff Artefact",
+    "objectName": "Grandmaster's Druidic Inscriptions",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_RAPIER_MORGANA",
-    "objectName": "Grandmaster's Bloodletter Artefact",
+    "objectName": "Grandmaster's Hardened Debole",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_ROCKMACE_KEEPER",
-    "objectName": "Grandmaster's Bedrock Mace Artefact",
+    "objectName": "Grandmaster's Runed Rock",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_SCIMITAR_MORGANA",
-    "objectName": "Grandmaster's Clarent Blade Artefact",
+    "objectName": "Grandmaster's Bloodforged Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_MAIN_SPEAR_KEEPER",
-    "objectName": "Grandmaster's Heron Spear Artefact",
+    "objectName": "Grandmaster's Keeper Spearhead",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_ARCANESTAFF_HELL",
-    "objectName": "Elder's Occult Staff Artefact",
+    "objectName": "Elder's Occult Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_BOW_HELL",
-    "objectName": "Elder's Wailing Bow Artefact",
+    "objectName": "Elder's Demonic Arrowheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_BOW_KEEPER",
-    "objectName": "Elder's Bow of Badon Artefact",
+    "objectName": "Elder's Carved bone",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_CLEAVER_HELL",
-    "objectName": "Elder's Carving Sword Artefact",
+    "objectName": "Elder's Demonic Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_COMBATSTAFF_MORGANA",
-    "objectName": "Elder's Black Monk Stave Artefact",
+    "objectName": "Elder's Reinforced Morgana Pole",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_CROSSBOWLARGE_MORGANA",
-    "objectName": "Elder's Siegebow Artefact",
+    "objectName": "Elder's Alluring Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_DUALAXE_KEEPER",
-    "objectName": "Elder's Bear Paws Artefact",
+    "objectName": "Elder's Keeper Axeheads",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_DUALCROSSBOW_HELL",
-    "objectName": "Elder's Boltcasters Artefact",
+    "objectName": "Elder's Hellish Bolts",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_DUALHAMMER_HELL",
-    "objectName": "Elder's Forge Hammers Artefact",
+    "objectName": "Elder's Hellish Hammer Heads",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_DUALSCIMITAR_UNDEAD",
-    "objectName": "Elder's Galatine Pair Artefact",
+    "objectName": "Elder's Cursed Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_DUALSICKLE_UNDEAD",
-    "objectName": "Elder's Deathgivers Artefact",
+    "objectName": "Elder's Ghastly Blades",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_ENIGMATICORB_MORGANA",
-    "objectName": "Elder's Malevolent Locus Artefact",
+    "objectName": "Elder's Possessed Catalyst",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_FIRESTAFF_HELL",
-    "objectName": "Elder's Brimstone Staff Artefact",
+    "objectName": "Elder's Burning Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_HALBERD_MORGANA",
-    "objectName": "Elder's Carrioncaller Artefact",
+    "objectName": "Elder's Morgana Halberd Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_HAMMER_UNDEAD",
-    "objectName": "Elder's Tombhammer Artefact",
+    "objectName": "Elder's Ancient Hammer Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_HARPOON_HELL",
-    "objectName": "Elder's Spirithunter Artefact",
+    "objectName": "Elder's Infernal Harpoon Tip",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_HOLYSTAFF_MORGANA",
-    "objectName": "Elder's Lifetouch Staff Artefact",
+    "objectName": "Elder's Possessed Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_HOLYSTAFF_HELL",
-    "objectName": "Elder's Fallen Staff Artefact",
+    "objectName": "Elder's Infernal Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_HOLYSTAFF_UNDEAD",
-    "objectName": "Elder's Redemption Staff Artefact",
+    "objectName": "Elder's Ghastly Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_ICECRYSTAL_UNDEAD",
-    "objectName": "Elder's Permafrost Prism Artefact",
+    "objectName": "Elder's Cursed Frozen Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_ICEGAUNTLETS_HELL",
-    "objectName": "Elder's Icicle Staff Artefact",
+    "objectName": "Elder's Icicle Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_INFERNOSTAFF_MORGANA",
-    "objectName": "Elder's Blazing Staff Artefact",
+    "objectName": "Elder's Unholy Scroll",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_IRONGAUNTLETS_HELL",
-    "objectName": "Elder's Black Hands Artefact",
+    "objectName": "Elder's Black Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_LONGBOW_UNDEAD",
-    "objectName": "Elder's Whispering Bow Artefact",
+    "objectName": "Elder's Ghastly Arrows",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_MACE_MORGANA",
-    "objectName": "Elder's Camlann Mace Artefact",
+    "objectName": "Elder's Imbued Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_NATURESTAFF_HELL",
-    "objectName": "Elder's Blight Staff Artefact",
+    "objectName": "Elder's Symbol of Blight",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_NATURESTAFF_KEEPER",
-    "objectName": "Elder's Rampant Staff Artefact",
+    "objectName": "Elder's Preserved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_RAM_KEEPER",
-    "objectName": "Elder's Grovekeeper Artefact",
+    "objectName": "Elder's Engraved Log",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_REPEATINGCROSSBOW_UNDEAD",
-    "objectName": "Elder's Weeping Repeater Artefact",
+    "objectName": "Elder's Lost Crossbow Mechanism",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_ROCKSTAFF_KEEPER",
-    "objectName": "Elder's Staff of Balance Artefact",
+    "objectName": "Elder's Preserved Rocks",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_SKULLORB_HELL",
-    "objectName": "Elder's Cursed Skull Artefact",
+    "objectName": "Elder's Cursed Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_TRIDENT_UNDEAD",
-    "objectName": "Elder's Trinity Spear Artefact",
+    "objectName": "Elder's Cursed Barbs",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_2H_TWINSCYTHE_HELL",
-    "objectName": "Elder's Soulscythe Artefact",
+    "objectName": "Elder's Hellish Sicklehead Pair",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_ARCANESTAFF_UNDEAD",
-    "objectName": "Elder's Witchwork Staff Artefact",
+    "objectName": "Elder's Lost Arcane Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_CURSEDSTAFF_UNDEAD",
-    "objectName": "Elder's Lifecurse Staff Artefact",
+    "objectName": "Elder's Lost Cursed Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_FIRESTAFF_KEEPER",
-    "objectName": "Elder's Wildfire Staff Artefact",
+    "objectName": "Elder's Wildfire Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_FROSTSTAFF_KEEPER",
-    "objectName": "Elder's Hoarfrost Staff Artefact",
+    "objectName": "Elder's Hoarfrost Orb",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_MACE_HELL",
-    "objectName": "Elder's Incubus Mace Artefact",
+    "objectName": "Elder's Infernal Mace Head",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_NATURESTAFF_KEEPER",
-    "objectName": "Elder's Druidic Staff Artefact",
+    "objectName": "Elder's Druidic Inscriptions",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_RAPIER_MORGANA",
-    "objectName": "Elder's Bloodletter Artefact",
+    "objectName": "Elder's Hardened Debole",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_ROCKMACE_KEEPER",
-    "objectName": "Elder's Bedrock Mace Artefact",
+    "objectName": "Elder's Runed Rock",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_SCIMITAR_MORGANA",
-    "objectName": "Elder's Clarent Blade Artefact",
+    "objectName": "Elder's Bloodforged Blade",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_MAIN_SPEAR_KEEPER",
-    "objectName": "Elder's Heron Spear Artefact",
+    "objectName": "Elder's Keeper Spearhead",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_TOWERSHIELD_UNDEAD",
-    "objectName": "Adept's Sarcophagus Artefact",
+    "objectName": "Adept's Ancient Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_TOWERSHIELD_UNDEAD",
-    "objectName": "Expert's Sarcophagus Artefact",
+    "objectName": "Expert's Ancient Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_TOWERSHIELD_UNDEAD",
-    "objectName": "Master's Sarcophagus Artefact",
+    "objectName": "Master's Ancient Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_TOWERSHIELD_UNDEAD",
-    "objectName": "Grandmaster's Sarcophagus Artefact",
+    "objectName": "Grandmaster's Ancient Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_TOWERSHIELD_UNDEAD",
-    "objectName": "Elder's Sarcophagus Artefact",
+    "objectName": "Elder's Ancient Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_SHIELD_HELL",
-    "objectName": "Adept's Caitiff Shield Artefact",
+    "objectName": "Adept's Infernal Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_SHIELD_HELL",
-    "objectName": "Expert's Caitiff Shield Artefact",
+    "objectName": "Expert's Infernal Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_SHIELD_HELL",
-    "objectName": "Master's Caitiff Shield Artefact",
+    "objectName": "Master's Infernal Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_SHIELD_HELL",
-    "objectName": "Grandmaster's Caitiff Shield Artefact",
+    "objectName": "Grandmaster's Infernal Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_SHIELD_HELL",
-    "objectName": "Elder's Caitiff Shield Artefact",
+    "objectName": "Elder's Infernal Shield Core",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA",
-    "objectName": "Adept's Facebreaker Artefact",
+    "objectName": "Adept's Bloodforged Spikes",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA",
-    "objectName": "Expert's Facebreaker Artefact",
+    "objectName": "Expert's Bloodforged Spikes",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA",
-    "objectName": "Master's Facebreaker Artefact",
+    "objectName": "Master's Bloodforged Spikes",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA",
-    "objectName": "Grandmaster's Facebreaker Artefact",
+    "objectName": "Grandmaster's Bloodforged Spikes",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_SPIKEDSHIELD_MORGANA",
-    "objectName": "Elder's Facebreaker Artefact",
+    "objectName": "Elder's Bloodforged Spikes",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_ORB_MORGANA",
-    "objectName": "Adept's Eye of Secrets Artefact",
+    "objectName": "Adept's Alluring Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_ORB_MORGANA",
-    "objectName": "Expert's Eye of Secrets Artefact",
+    "objectName": "Expert's Alluring Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_ORB_MORGANA",
-    "objectName": "Master's Eye of Secrets Artefact",
+    "objectName": "Master's Alluring Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_ORB_MORGANA",
-    "objectName": "Grandmaster's Eye of Secrets Artefact",
+    "objectName": "Grandmaster's Alluring Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_ORB_MORGANA",
-    "objectName": "Elder's Eye of Secrets Artefact",
+    "objectName": "Elder's Alluring Crystal",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_DEMONSKULL_HELL",
-    "objectName": "Adept's Muisak Artefact",
+    "objectName": "Adept's Demonic Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_DEMONSKULL_HELL",
-    "objectName": "Expert's Muisak Artefact",
+    "objectName": "Expert's Demonic Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_DEMONSKULL_HELL",
-    "objectName": "Master's Muisak Artefact",
+    "objectName": "Master's Demonic Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_DEMONSKULL_HELL",
-    "objectName": "Grandmaster's Muisak Artefact",
+    "objectName": "Grandmaster's Demonic Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_DEMONSKULL_HELL",
-    "objectName": "Elder's Muisak Artefact",
+    "objectName": "Elder's Demonic Jawbone",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_TOTEM_KEEPER",
-    "objectName": "Adept's Taproot Artefact",
+    "objectName": "Adept's Inscribed Stone",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_TOTEM_KEEPER",
-    "objectName": "Expert's Taproot Artefact",
+    "objectName": "Expert's Inscribed Stone",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_TOTEM_KEEPER",
-    "objectName": "Master's Taproot Artefact",
+    "objectName": "Master's Inscribed Stone",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_TOTEM_KEEPER",
-    "objectName": "Grandmaster's Taproot Artefact",
+    "objectName": "Grandmaster's Inscribed Stone",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_TOTEM_KEEPER",
-    "objectName": "Elder's Taproot Artefact",
+    "objectName": "Elder's Inscribed Stone",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_HORN_KEEPER",
-    "objectName": "Adept's Mistcaller Artefact",
+    "objectName": "Adept's Runed Horn",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_HORN_KEEPER",
-    "objectName": "Expert's Mistcaller Artefact",
+    "objectName": "Expert's Runed Horn",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_HORN_KEEPER",
-    "objectName": "Master's Mistcaller Artefact",
+    "objectName": "Master's Runed Horn",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_HORN_KEEPER",
-    "objectName": "Grandmaster's Mistcaller Artefact",
+    "objectName": "Grandmaster's Runed Horn",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_HORN_KEEPER",
-    "objectName": "Elder's Mistcaller Artefact",
+    "objectName": "Elder's Runed Horn",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_JESTERCANE_HELL",
-    "objectName": "Adept's Leering Cane Artefact",
+    "objectName": "Adept's Hellish Handle",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_JESTERCANE_HELL",
-    "objectName": "Expert's Leering Cane Artefact",
+    "objectName": "Expert's Hellish Handle",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_JESTERCANE_HELL",
-    "objectName": "Master's Leering Cane Artefact",
+    "objectName": "Master's Hellish Handle",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_JESTERCANE_HELL",
-    "objectName": "Grandmaster's Leering Cane Artefact",
+    "objectName": "Grandmaster's Hellish Handle",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_JESTERCANE_HELL",
-    "objectName": "Elder's Leering Cane Artefact",
+    "objectName": "Elder's Hellish Handle",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_OFF_LAMP_UNDEAD",
-    "objectName": "Adept's Cryptcandle Artefact",
+    "objectName": "Adept's Ghastly Candle",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_OFF_LAMP_UNDEAD",
-    "objectName": "Expert's Cryptcandle Artefact",
+    "objectName": "Expert's Ghastly Candle",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_OFF_LAMP_UNDEAD",
-    "objectName": "Master's Cryptcandle Artefact",
+    "objectName": "Master's Ghastly Candle",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_OFF_LAMP_UNDEAD",
-    "objectName": "Grandmaster's Cryptcandle Artefact",
+    "objectName": "Grandmaster's Ghastly Candle",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_OFF_LAMP_UNDEAD",
-    "objectName": "Elder's Cryptcandle Artefact",
+    "objectName": "Elder's Ghastly Candle",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_PLATE_UNDEAD",
-    "objectName": "Adept's Graveguard Helmet Artefact",
+    "objectName": "Adept's Ancient Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_PLATE_UNDEAD",
-    "objectName": "Expert's Graveguard Helmet Artefact",
+    "objectName": "Expert's Ancient Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_PLATE_UNDEAD",
-    "objectName": "Master's Graveguard Helmet Artefact",
+    "objectName": "Master's Ancient Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_PLATE_UNDEAD",
-    "objectName": "Grandmaster's Graveguard Helmet Artefact",
+    "objectName": "Grandmaster's Ancient Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_PLATE_UNDEAD",
-    "objectName": "Elder's Graveguard Helmet Artefact",
+    "objectName": "Elder's Ancient Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_PLATE_UNDEAD",
-    "objectName": "Adept's Graveguard Armor Artefact",
+    "objectName": "Adept's Ancient Chain Rings",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_PLATE_UNDEAD",
-    "objectName": "Expert's Graveguard Armor Artefact",
+    "objectName": "Expert's Ancient Chain Rings",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_PLATE_UNDEAD",
-    "objectName": "Master's Graveguard Armor Artefact",
+    "objectName": "Master's Ancient Chain Rings",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_PLATE_UNDEAD",
-    "objectName": "Grandmaster's Graveguard Armor Artefact",
+    "objectName": "Grandmaster's Ancient Chain Rings",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_PLATE_UNDEAD",
-    "objectName": "Elder's Graveguard Armor Artefact",
+    "objectName": "Elder's Ancient Chain Rings",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_PLATE_UNDEAD",
-    "objectName": "Adept's Graveguard Boots Artefact",
+    "objectName": "Adept's Ancient Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_PLATE_UNDEAD",
-    "objectName": "Expert's Graveguard Boots Artefact",
+    "objectName": "Expert's Ancient Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_PLATE_UNDEAD",
-    "objectName": "Master's Graveguard Boots Artefact",
+    "objectName": "Master's Ancient Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_PLATE_UNDEAD",
-    "objectName": "Grandmaster's Graveguard Boots Artefact",
+    "objectName": "Grandmaster's Ancient Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_PLATE_UNDEAD",
-    "objectName": "Elder's Graveguard Boots Artefact",
+    "objectName": "Elder's Ancient Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_PLATE_HELL",
-    "objectName": "Adept's Demon Helmet Artefact",
+    "objectName": "Adept's Demonic Scraps",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_PLATE_HELL",
-    "objectName": "Expert's Demon Helmet Artefact",
+    "objectName": "Expert's Demonic Scraps",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_PLATE_HELL",
-    "objectName": "Master's Demon Helmet Artefact",
+    "objectName": "Master's Demonic Scraps",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_PLATE_HELL",
-    "objectName": "Grandmaster's Demon Helmet Artefact",
+    "objectName": "Grandmaster's Demonic Scraps",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_PLATE_HELL",
-    "objectName": "Elder's Demon Helmet Artefact",
+    "objectName": "Elder's Demonic Scraps",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_PLATE_HELL",
-    "objectName": "Adept's Demon Armor Artefact",
+    "objectName": "Adept's Demonic Plates",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_PLATE_HELL",
-    "objectName": "Expert's Demon Armor Artefact",
+    "objectName": "Expert's Demonic Plates",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_PLATE_HELL",
-    "objectName": "Master's Demon Armor Artefact",
+    "objectName": "Master's Demonic Plates",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_PLATE_HELL",
-    "objectName": "Grandmaster's Demon Armor Artefact",
+    "objectName": "Grandmaster's Demonic Plates",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_PLATE_HELL",
-    "objectName": "Elder's Demon Armor Artefact",
+    "objectName": "Elder's Demonic Plates",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_PLATE_HELL",
-    "objectName": "Adept's Demon Boots Artefact",
+    "objectName": "Adept's Demonic Filling",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_PLATE_HELL",
-    "objectName": "Expert's Demon Boots Artefact",
+    "objectName": "Expert's Demonic Filling",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_PLATE_HELL",
-    "objectName": "Master's Demon Boots Artefact",
+    "objectName": "Master's Demonic Filling",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_PLATE_HELL",
-    "objectName": "Grandmaster's Demon Boots Artefact",
+    "objectName": "Grandmaster's Demonic Filling",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_PLATE_HELL",
-    "objectName": "Elder's Demon Boots Artefact",
+    "objectName": "Elder's Demonic Filling",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_PLATE_KEEPER",
-    "objectName": "Adept's Judicator Helmet Artefact",
+    "objectName": "Adept's Carved Skull Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_PLATE_KEEPER",
-    "objectName": "Expert's Judicator Helmet Artefact",
+    "objectName": "Expert's Carved Skull Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_PLATE_KEEPER",
-    "objectName": "Master's Judicator Helmet Artefact",
+    "objectName": "Master's Carved Skull Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_PLATE_KEEPER",
-    "objectName": "Grandmaster's Judicator Helmet Artefact",
+    "objectName": "Grandmaster's Carved Skull Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_PLATE_KEEPER",
-    "objectName": "Elder's Judicator Helmet Artefact",
+    "objectName": "Elder's Carved Skull Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_PLATE_KEEPER",
-    "objectName": "Adept's Judicator Armor Artefact",
+    "objectName": "Adept's Preserved Animal Fur",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_PLATE_KEEPER",
-    "objectName": "Expert's Judicator Armor Artefact",
+    "objectName": "Expert's Preserved Animal Fur",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_PLATE_KEEPER",
-    "objectName": "Master's Judicator Armor Artefact",
+    "objectName": "Master's Preserved Animal Fur",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_PLATE_KEEPER",
-    "objectName": "Grandmaster's Judicator Armor Artefact",
+    "objectName": "Grandmaster's Preserved Animal Fur",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_PLATE_KEEPER",
-    "objectName": "Elder's Judicator Armor Artefact",
+    "objectName": "Elder's Preserved Animal Fur",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_PLATE_KEEPER",
-    "objectName": "Adept's Judicator Boots Artefact",
+    "objectName": "Adept's Inscribed Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_PLATE_KEEPER",
-    "objectName": "Expert's Judicator Boots Artefact",
+    "objectName": "Expert's Inscribed Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_PLATE_KEEPER",
-    "objectName": "Master's Judicator Boots Artefact",
+    "objectName": "Master's Inscribed Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_PLATE_KEEPER",
-    "objectName": "Grandmaster's Judicator Boots Artefact",
+    "objectName": "Grandmaster's Inscribed Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_PLATE_KEEPER",
-    "objectName": "Elder's Judicator Boots Artefact",
+    "objectName": "Elder's Inscribed Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_LEATHER_MORGANA",
-    "objectName": "Adept's Stalker Hood Artefact",
+    "objectName": "Adept's Imbued Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_LEATHER_MORGANA",
-    "objectName": "Expert's Stalker Hood Artefact",
+    "objectName": "Expert's Imbued Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_LEATHER_MORGANA",
-    "objectName": "Master's Stalker Hood Artefact",
+    "objectName": "Master's Imbued Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_LEATHER_MORGANA",
-    "objectName": "Grandmaster's Stalker Hood Artefact",
+    "objectName": "Grandmaster's Imbued Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_LEATHER_MORGANA",
-    "objectName": "Elder's Stalker Hood Artefact",
+    "objectName": "Elder's Imbued Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_LEATHER_MORGANA",
-    "objectName": "Adept's Stalker Jacket Artefact",
+    "objectName": "Adept's Imbued Leather Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_LEATHER_MORGANA",
-    "objectName": "Expert's Stalker Jacket Artefact",
+    "objectName": "Expert's Imbued Leather Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_LEATHER_MORGANA",
-    "objectName": "Master's Stalker Jacket Artefact",
+    "objectName": "Master's Imbued Leather Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_LEATHER_MORGANA",
-    "objectName": "Grandmaster's Stalker Jacket Artefact",
+    "objectName": "Grandmaster's Imbued Leather Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_LEATHER_MORGANA",
-    "objectName": "Elder's Stalker Jacket Artefact",
+    "objectName": "Elder's Imbued Leather Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_LEATHER_MORGANA",
-    "objectName": "Adept's Stalker Shoes Artefact",
+    "objectName": "Adept's Imbued Soles",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_LEATHER_MORGANA",
-    "objectName": "Expert's Stalker Shoes Artefact",
+    "objectName": "Expert's Imbued Soles",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_LEATHER_MORGANA",
-    "objectName": "Master's Stalker Shoes Artefact",
+    "objectName": "Master's Imbued Soles",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_LEATHER_MORGANA",
-    "objectName": "Grandmaster's Stalker Shoes Artefact",
+    "objectName": "Grandmaster's Imbued Soles",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_LEATHER_MORGANA",
-    "objectName": "Elder's Stalker Shoes Artefact",
+    "objectName": "Elder's Imbued Soles",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_LEATHER_HELL",
-    "objectName": "Adept's Hellion Hood Artefact",
+    "objectName": "Adept's Demonhide Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_LEATHER_HELL",
-    "objectName": "Expert's Hellion Hood Artefact",
+    "objectName": "Expert's Demonhide Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_LEATHER_HELL",
-    "objectName": "Master's Hellion Hood Artefact",
+    "objectName": "Master's Demonhide Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_LEATHER_HELL",
-    "objectName": "Grandmaster's Hellion Hood Artefact",
+    "objectName": "Grandmaster's Demonhide Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_LEATHER_HELL",
-    "objectName": "Elder's Hellion Hood Artefact",
+    "objectName": "Elder's Demonhide Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_LEATHER_HELL",
-    "objectName": "Adept's Hellion Jacket Artefact",
+    "objectName": "Adept's Demonhide Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_LEATHER_HELL",
-    "objectName": "Expert's Hellion Jacket Artefact",
+    "objectName": "Expert's Demonhide Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_LEATHER_HELL",
-    "objectName": "Master's Hellion Jacket Artefact",
+    "objectName": "Master's Demonhide Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_LEATHER_HELL",
-    "objectName": "Grandmaster's Hellion Jacket Artefact",
+    "objectName": "Grandmaster's Demonhide Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_LEATHER_HELL",
-    "objectName": "Elder's Hellion Jacket Artefact",
+    "objectName": "Elder's Demonhide Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_LEATHER_HELL",
-    "objectName": "Adept's Hellion Shoes Artefact",
+    "objectName": "Adept's Demonhide Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_LEATHER_HELL",
-    "objectName": "Expert's Hellion Shoes Artefact",
+    "objectName": "Expert's Demonhide Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_LEATHER_HELL",
-    "objectName": "Master's Hellion Shoes Artefact",
+    "objectName": "Master's Demonhide Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_LEATHER_HELL",
-    "objectName": "Grandmaster's Hellion Shoes Artefact",
+    "objectName": "Grandmaster's Demonhide Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_LEATHER_HELL",
-    "objectName": "Elder's Hellion Shoes Artefact",
+    "objectName": "Elder's Demonhide Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_LEATHER_UNDEAD",
-    "objectName": "Adept's Specter Hood Artefact",
+    "objectName": "Adept's Ghastly Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_LEATHER_UNDEAD",
-    "objectName": "Expert's Specter Hood Artefact",
+    "objectName": "Expert's Ghastly Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_LEATHER_UNDEAD",
-    "objectName": "Master's Specter Hood Artefact",
+    "objectName": "Master's Ghastly Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_LEATHER_UNDEAD",
-    "objectName": "Grandmaster's Specter Hood Artefact",
+    "objectName": "Grandmaster's Ghastly Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_LEATHER_UNDEAD",
-    "objectName": "Elder's Specter Hood Artefact",
+    "objectName": "Elder's Ghastly Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_LEATHER_UNDEAD",
-    "objectName": "Adept's Specter Jacket Artefact",
+    "objectName": "Adept's Ghastly Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_LEATHER_UNDEAD",
-    "objectName": "Expert's Specter Jacket Artefact",
+    "objectName": "Expert's Ghastly Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_LEATHER_UNDEAD",
-    "objectName": "Master's Specter Jacket Artefact",
+    "objectName": "Master's Ghastly Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_LEATHER_UNDEAD",
-    "objectName": "Grandmaster's Specter Jacket Artefact",
+    "objectName": "Grandmaster's Ghastly Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_LEATHER_UNDEAD",
-    "objectName": "Elder's Specter Jacket Artefact",
+    "objectName": "Elder's Ghastly Leather",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_LEATHER_UNDEAD",
-    "objectName": "Adept's Specter Shoes Artefact",
+    "objectName": "Adept's Ghastly Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_LEATHER_UNDEAD",
-    "objectName": "Expert's Specter Shoes Artefact",
+    "objectName": "Expert's Ghastly Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_LEATHER_UNDEAD",
-    "objectName": "Master's Specter Shoes Artefact",
+    "objectName": "Master's Ghastly Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_LEATHER_UNDEAD",
-    "objectName": "Grandmaster's Specter Shoes Artefact",
+    "objectName": "Grandmaster's Ghastly Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_LEATHER_UNDEAD",
-    "objectName": "Elder's Specter Shoes Artefact",
+    "objectName": "Elder's Ghastly Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_CLOTH_KEEPER",
-    "objectName": "Adept's Druid Cowl Artefact",
+    "objectName": "Adept's Druidic Preserved Beak",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_CLOTH_KEEPER",
-    "objectName": "Expert's Druid Cowl Artefact",
+    "objectName": "Expert's Druidic Preserved Beak",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_CLOTH_KEEPER",
-    "objectName": "Master's Druid Cowl Artefact",
+    "objectName": "Master's Druidic Preserved Beak",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_CLOTH_KEEPER",
-    "objectName": "Grandmaster's Druid Cowl Artefact",
+    "objectName": "Grandmaster's Druidic Preserved Beak",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_CLOTH_KEEPER",
-    "objectName": "Elder's Druid Cowl Artefact",
+    "objectName": "Elder's Druidic Preserved Beak",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_CLOTH_KEEPER",
-    "objectName": "Adept's Druid Robe Artefact",
+    "objectName": "Adept's Druidic Feathers",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_CLOTH_KEEPER",
-    "objectName": "Expert's Druid Robe Artefact",
+    "objectName": "Expert's Druidic Feathers",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_CLOTH_KEEPER",
-    "objectName": "Master's Druid Robe Artefact",
+    "objectName": "Master's Druidic Feathers",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_CLOTH_KEEPER",
-    "objectName": "Grandmaster's Druid Robe Artefact",
+    "objectName": "Grandmaster's Druidic Feathers",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_CLOTH_KEEPER",
-    "objectName": "Elder's Druid Robe Artefact",
+    "objectName": "Elder's Druidic Feathers",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_CLOTH_KEEPER",
-    "objectName": "Adept's Druid Sandals Artefact",
+    "objectName": "Adept's Druidic Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_CLOTH_KEEPER",
-    "objectName": "Expert's Druid Sandals Artefact",
+    "objectName": "Expert's Druidic Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_CLOTH_KEEPER",
-    "objectName": "Master's Druid Sandals Artefact",
+    "objectName": "Master's Druidic Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_CLOTH_KEEPER",
-    "objectName": "Grandmaster's Druid Sandals Artefact",
+    "objectName": "Grandmaster's Druidic Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_CLOTH_KEEPER",
-    "objectName": "Elder's Druid Sandals Artefact",
+    "objectName": "Elder's Druidic Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_CLOTH_HELL",
-    "objectName": "Adept's Fiend Cowl Artefact",
+    "objectName": "Adept's Infernal Cloth Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_CLOTH_HELL",
-    "objectName": "Expert's Fiend Cowl Artefact",
+    "objectName": "Expert's Infernal Cloth Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_CLOTH_HELL",
-    "objectName": "Master's Fiend Cowl Artefact",
+    "objectName": "Master's Infernal Cloth Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_CLOTH_HELL",
-    "objectName": "Grandmaster's Fiend Cowl Artefact",
+    "objectName": "Grandmaster's Infernal Cloth Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_CLOTH_HELL",
-    "objectName": "Elder's Fiend Cowl Artefact",
+    "objectName": "Elder's Infernal Cloth Visor",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_CLOTH_HELL",
-    "objectName": "Adept's Fiend Robe Artefact",
+    "objectName": "Adept's Infernal Cloth Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_CLOTH_HELL",
-    "objectName": "Expert's Fiend Robe Artefact",
+    "objectName": "Expert's Infernal Cloth Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_CLOTH_HELL",
-    "objectName": "Master's Fiend Robe Artefact",
+    "objectName": "Master's Infernal Cloth Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_CLOTH_HELL",
-    "objectName": "Grandmaster's Fiend Robe Artefact",
+    "objectName": "Grandmaster's Infernal Cloth Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_CLOTH_HELL",
-    "objectName": "Elder's Fiend Robe Artefact",
+    "objectName": "Elder's Infernal Cloth Folds",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_CLOTH_HELL",
-    "objectName": "Adept's Fiend Sandals Artefact",
+    "objectName": "Adept's Infernal Cloth Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_CLOTH_HELL",
-    "objectName": "Expert's Fiend Sandals Artefact",
+    "objectName": "Expert's Infernal Cloth Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_CLOTH_HELL",
-    "objectName": "Master's Fiend Sandals Artefact",
+    "objectName": "Master's Infernal Cloth Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_CLOTH_HELL",
-    "objectName": "Grandmaster's Fiend Sandals Artefact",
+    "objectName": "Grandmaster's Infernal Cloth Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_CLOTH_HELL",
-    "objectName": "Elder's Fiend Sandals Artefact",
+    "objectName": "Elder's Infernal Cloth Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_HEAD_CLOTH_MORGANA",
-    "objectName": "Adept's Cultist Cowl Artefact",
+    "objectName": "Adept's Alluring Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_HEAD_CLOTH_MORGANA",
-    "objectName": "Expert's Cultist Cowl Artefact",
+    "objectName": "Expert's Alluring Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_HEAD_CLOTH_MORGANA",
-    "objectName": "Master's Cultist Cowl Artefact",
+    "objectName": "Master's Alluring Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_HEAD_CLOTH_MORGANA",
-    "objectName": "Grandmaster's Cultist Cowl Artefact",
+    "objectName": "Grandmaster's Alluring Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_HEAD_CLOTH_MORGANA",
-    "objectName": "Elder's Cultist Cowl Artefact",
+    "objectName": "Elder's Alluring Padding",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_ARMOR_CLOTH_MORGANA",
-    "objectName": "Adept's Cultist Robe Artefact",
+    "objectName": "Adept's Alluring Amulet",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_ARMOR_CLOTH_MORGANA",
-    "objectName": "Expert's Cultist Robe Artefact",
+    "objectName": "Expert's Alluring Amulet",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_ARMOR_CLOTH_MORGANA",
-    "objectName": "Master's Cultist Robe Artefact",
+    "objectName": "Master's Alluring Amulet",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_ARMOR_CLOTH_MORGANA",
-    "objectName": "Grandmaster's Cultist Robe Artefact",
+    "objectName": "Grandmaster's Alluring Amulet",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_ARMOR_CLOTH_MORGANA",
-    "objectName": "Elder's Cultist Robe Artefact",
+    "objectName": "Elder's Alluring Amulet",
     "category": "Artefacts"
   },
   {
     "objectID": "T4_ARTEFACT_SHOES_CLOTH_MORGANA",
-    "objectName": "Adept's Cultist Sandals Artefact",
+    "objectName": "Adept's Alluring Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T5_ARTEFACT_SHOES_CLOTH_MORGANA",
-    "objectName": "Expert's Cultist Sandals Artefact",
+    "objectName": "Expert's Alluring Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T6_ARTEFACT_SHOES_CLOTH_MORGANA",
-    "objectName": "Master's Cultist Sandals Artefact",
+    "objectName": "Master's Alluring Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T7_ARTEFACT_SHOES_CLOTH_MORGANA",
-    "objectName": "Grandmaster's Cultist Sandals Artefact",
+    "objectName": "Grandmaster's Alluring Bindings",
     "category": "Artefacts"
   },
   {
     "objectID": "T8_ARTEFACT_SHOES_CLOTH_MORGANA",
-    "objectName": "Elder's Cultist Sandals Artefact",
+    "objectName": "Elder's Alluring Bindings",
     "category": "Artefacts"
   },
   {
