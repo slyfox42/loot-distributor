@@ -8,11 +8,12 @@ const median = arr => {
 }
 
 const filterBigDiffs = arr => {
-  const diffs = arr
-    .sort((a, b) => a - b)
+  const sorted = arr.sort((a, b) => a - b)
+  const minValue = sorted[0]
+  const diffs = sorted
     .map((el, idx) => (arr[idx + 1] ? arr[idx + 1] - el : null))
     .filter(el => el !== null)
-  const spike = diffs.find(el => el > 100000)
+  const spike = diffs.find(el => el > minValue * 2)
 
   return spike ? arr.slice(0, diffs.indexOf(spike)) : arr
 }
