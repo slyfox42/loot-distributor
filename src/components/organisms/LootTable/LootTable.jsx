@@ -1,7 +1,8 @@
 import './LootTable.scss'
-import { APP_DESCRIPTIONS } from '../../../constants'
+import { APP_DESCRIPTIONS, LOCALES } from '../../../constants'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
+import { distinctLoot, multiplyLoot } from '../../../utils/lootMultiplication'
 import Button, { BUTTON_TYPES } from '../../atoms/Button'
 import ContentWrapper from '../../molecules/ContentWrapper'
 import LogsDialog from '../../atoms/LogsDialog'
@@ -17,9 +18,23 @@ const LootTable = ({
   clearSelectedItems,
   language
 }) => {
+  let { selectedItems } = selection
+  const loot = distinctLoot(selectedItems)
+  const grandtotal = Math.floor(
+    multiplyLoot(selectedItems).reduce(
+      (acc, curr) => acc + curr.averagePrice,
+      0
+    )
+  ).toLocaleString(LOCALES[language])
   const header = (
     <div className="loot-table-header">
-      {APP_DESCRIPTIONS[language].selectedItems}
+      <div className="text-container">
+        {APP_DESCRIPTIONS[language].selectedItems}
+        <div className="grandtotal-text">
+          {APP_DESCRIPTIONS[language].estimatedGrandTotal}
+          <div className="grandtotal">{grandtotal}</div>
+        </div>
+      </div>
       <div className="buttons-container">
         <LogsDialog
           addToSelectedItems={addToSelectedItems}
@@ -41,7 +56,7 @@ const LootTable = ({
       <ContentWrapper header={header}>
         <div className="loot-table-content">
           <SelectedItemsList
-            itemList={selection.selectedItems}
+            itemList={loot}
             removeItem={removeItem}
             showCounter={true}
           />

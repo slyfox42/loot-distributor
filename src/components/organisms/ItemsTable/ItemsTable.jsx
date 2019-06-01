@@ -27,17 +27,9 @@ const ItemsTable = ({
   clickedItem,
   addToSelectedItems,
   clearFilters,
-  updateItemQuantity,
   language
 }) => {
-  const {
-    tier,
-    category,
-    displayList,
-    query,
-    askForQuality,
-    selectedItems
-  } = selection
+  const { tier, category, displayList, query, askForQuality } = selection
   const tierList = ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8']
   useEffect(
     () => {
@@ -71,15 +63,6 @@ const ItemsTable = ({
       const category = e.target.getAttribute('category')
       const imgID = e.target.getAttribute('imageid')
       if (!askForQuality || NO_QUALITY_CATEGORIES.includes(category)) {
-        const preExistentItem = selectedItems.find(
-          el => el.objectName === objectName
-        )
-        if (preExistentItem) {
-          return updateItemQuantity({
-            item: preExistentItem,
-            quantity: preExistentItem.quantity + 1
-          })
-        }
         const averagePrice = await fetchAveragePrice(objectID)
         const uniqueID = uuid()
 
@@ -104,15 +87,6 @@ const ItemsTable = ({
       const quality = e.target.innerText
       const { objectID, objectName } = selection.clickedItem
       const newName = `${objectName} ${quality}`
-      const preExistentItem = selectedItems.find(
-        el => el.objectName === newName
-      )
-      if (preExistentItem) {
-        return updateItemQuantity({
-          item: preExistentItem,
-          quantity: preExistentItem.quantity + 1
-        })
-      }
       const uniqueID = uuid()
       const averagePrice = await fetchAveragePrice(objectID)
 

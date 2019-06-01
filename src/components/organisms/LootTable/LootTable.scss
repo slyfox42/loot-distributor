@@ -1,11 +1,29 @@
 @import "../../_settings/variables.scss";
 
 .loot-table-header {
-  font-size: 24px;
+  font-size: 20px;
   padding: $table-padding;
   display: flex;
   justify-content: center;
   flex-direction: column;
+
+  .text-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .grandtotal-text {
+      font-size: 15px;
+      display: flex;
+
+      .grandtotal {
+        color: green;
+        margin-left: 10px;
+        width: 100px;
+        text-align: end;
+      }
+    }
+  }
 
   .buttons-container {
     display: flex;
