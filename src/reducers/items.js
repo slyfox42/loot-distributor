@@ -1,4 +1,5 @@
 import { createReducer } from 'redux-act'
+import { distinctLoot } from '../utils/lootMultiplication'
 import itemsActions from '../actions/items'
 import u from 'updeep'
 
@@ -70,7 +71,7 @@ export default createReducer(
     [itemsActions.addToSelectedItems]: (state, payload) => {
       return u(
         {
-          selectedItems: [...state.selectedItems, ...payload]
+          selectedItems: distinctLoot([...state.selectedItems, ...payload])
         },
         state
       )

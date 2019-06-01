@@ -2,7 +2,7 @@ import './LootTable.scss'
 import { APP_DESCRIPTIONS, LOCALES } from '../../../constants'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
-import { distinctLoot, multiplyLoot } from '../../../utils/lootMultiplication'
+import { multiplyLoot } from '../../../utils/lootMultiplication'
 import Button, { BUTTON_TYPES } from '../../atoms/Button'
 import ContentWrapper from '../../molecules/ContentWrapper'
 import LogsDialog from '../../atoms/LogsDialog'
@@ -19,7 +19,6 @@ const LootTable = ({
   language
 }) => {
   let { selectedItems } = selection
-  const loot = distinctLoot(selectedItems)
   const grandtotal = Math.floor(
     multiplyLoot(selectedItems).reduce(
       (acc, curr) => acc + curr.averagePrice,
@@ -56,7 +55,7 @@ const LootTable = ({
       <ContentWrapper header={header}>
         <div className="loot-table-content">
           <SelectedItemsList
-            itemList={loot}
+            itemList={selectedItems}
             removeItem={removeItem}
             showCounter={true}
           />
