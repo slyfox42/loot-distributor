@@ -19,7 +19,7 @@ const LootTable = ({
   language
 }) => {
   let { selectedItems } = selection
-  const distinctedLoot = distinctLoot(selectedItems)
+  const loot = distinctLoot(selectedItems)
   const grandtotal = Math.floor(
     multiplyLoot(selectedItems).reduce(
       (acc, curr) => acc + curr.averagePrice,
@@ -56,7 +56,7 @@ const LootTable = ({
       <ContentWrapper header={header}>
         <div className="loot-table-content">
           <SelectedItemsList
-            itemList={distinctedLoot}
+            itemList={loot}
             removeItem={removeItem}
             showCounter={true}
           />
