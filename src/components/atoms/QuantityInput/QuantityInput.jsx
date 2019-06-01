@@ -9,7 +9,7 @@ const QuantityInput = ({ id, item, updateItemQuantity }) => {
     setQuantity(value)
   }
   const addQuantity = () => {
-    const inputElement = document.getElementById(id)
+    const inputElement = document.getElementById(`input-${id}`)
     const { value } = inputElement
     if (!value) {
       return updateItemQuantity({
@@ -24,7 +24,7 @@ const QuantityInput = ({ id, item, updateItemQuantity }) => {
     })
   }
   const removeQuantity = () => {
-    const inputElement = document.getElementById(id)
+    const inputElement = document.getElementById(`input-${id}`)
     const { value } = inputElement
     if (!value) {
       return updateItemQuantity({
@@ -46,7 +46,7 @@ const QuantityInput = ({ id, item, updateItemQuantity }) => {
         add
       </span>
       <input
-        id={id}
+        id={`input-${id}`}
         type="text"
         className="quantity-input"
         maxLength="3"
