@@ -7,6 +7,17 @@ const median = arr => {
   return arr.length % 2 !== 0 ? nums[mid] : (nums[mid - 1] + nums[mid]) / 2
 }
 
+const filterBigDiffs = arr => {
+  const sorted = arr.sort((a, b) => a - b)
+  const minValue = sorted[0]
+  const diffs = sorted
+    .map((el, idx) => (arr[idx + 1] ? arr[idx + 1] - el : null))
+    .filter(el => el !== null)
+  const spike = diffs.find(el => el > minValue * 2)
+
+  return spike ? arr.slice(0, diffs.indexOf(spike)) : arr
+}
+
 const fetchAveragePrice = async itemID => {
   const oneMonthAgo = moment()
     .subtract(1, 'months')
@@ -27,10 +38,10 @@ const fetchAveragePrice = async itemID => {
 
     return fetchAveragePrice(`${id}@${newEnchantment}`)
   }
-
-  const allPrices = result
+  let allPrices = result
     .map(location => location.data.prices_avg)
     .reduce((acc, curr) => [...acc, ...curr], [])
+  allPrices = filterBigDiffs(allPrices)
   const averagePrice = median(allPrices)
 
   return averagePrice
