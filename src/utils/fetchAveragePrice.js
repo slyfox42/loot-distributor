@@ -15,7 +15,7 @@ const filterBigDiffs = arr => {
     .filter(el => el !== null)
   const spike = diffs.find(el => el > minValue * 2)
 
-  return spike ? arr.slice(0, diffs.indexOf(spike)) : arr
+  return spike ? arr.slice(0, diffs.indexOf(spike) + 1) : arr
 }
 
 const fetchAveragePrice = async itemID => {
