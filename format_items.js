@@ -421,6 +421,14 @@ const metalbars = itemList
     category: 'Metal Bars'
   }))
 
+const treasures = itemList
+  .filter(el => el.objectID.match(/treasure/gi))
+  .map(el => ({
+    ...el,
+    imgID: el.objectID.split('@').shift(),
+    category: 'Treasures'
+  }))
+
 const new_json = JSON.stringify(
   [
     ...arcaneStaffs,
@@ -469,7 +477,8 @@ const new_json = JSON.stringify(
     ...fiber,
     ...cloth,
     ...planks,
-    ...metalbars
+    ...metalbars,
+    ...treasures
   ],
   '',
   2

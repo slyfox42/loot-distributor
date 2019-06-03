@@ -25479,5 +25479,113 @@
     "objectName": "Exceptional Adamantium Steel Bar .3",
     "imgID": "T8_METALBAR_LEVEL3",
     "category": "Metal Bars"
+  },
+  {
+    "objectID": "TREASURE_KNOWLEDGE_RARITY1",
+    "objectName": "Corrupted Scroll",
+    "imgID": "TREASURE_KNOWLEDGE_RARITY1",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_KNOWLEDGE_RARITY2",
+    "objectName": "Thin Booklet",
+    "imgID": "TREASURE_KNOWLEDGE_RARITY2",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_KNOWLEDGE_RARITY3",
+    "objectName": "Ancient Tome",
+    "imgID": "TREASURE_KNOWLEDGE_RARITY3",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_SILVERWARE_RARITY1",
+    "objectName": "Silver Cup",
+    "imgID": "TREASURE_SILVERWARE_RARITY1",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_SILVERWARE_RARITY2",
+    "objectName": "Silver Mirror",
+    "imgID": "TREASURE_SILVERWARE_RARITY2",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_SILVERWARE_RARITY3",
+    "objectName": "Silver Chandelier",
+    "imgID": "TREASURE_SILVERWARE_RARITY3",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_DECORATIVE_RARITY1",
+    "objectName": "Simple Stone Toy",
+    "imgID": "TREASURE_DECORATIVE_RARITY1",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_DECORATIVE_RARITY2",
+    "objectName": "Stone Mask",
+    "imgID": "TREASURE_DECORATIVE_RARITY2",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_DECORATIVE_RARITY3",
+    "objectName": "Stone Idol",
+    "imgID": "TREASURE_DECORATIVE_RARITY3",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_CEREMONIAL_RARITY1",
+    "objectName": "Ornamental Scepter",
+    "imgID": "TREASURE_CEREMONIAL_RARITY1",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_CEREMONIAL_RARITY2",
+    "objectName": "Globus Cruciger",
+    "imgID": "TREASURE_CEREMONIAL_RARITY2",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_CEREMONIAL_RARITY3",
+    "objectName": "Golden Crown",
+    "imgID": "TREASURE_CEREMONIAL_RARITY3",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_TRIBAL_RARITY1",
+    "objectName": "Feather Talisman",
+    "imgID": "TREASURE_TRIBAL_RARITY1",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_TRIBAL_RARITY2",
+    "objectName": "Dreamcatcher",
+    "imgID": "TREASURE_TRIBAL_RARITY2",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_TRIBAL_RARITY3",
+    "objectName": "Holy Fetish",
+    "imgID": "TREASURE_TRIBAL_RARITY3",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_RITUAL_RARITY1",
+    "objectName": "Ritual Candles",
+    "imgID": "TREASURE_RITUAL_RARITY1",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_RITUAL_RARITY2",
+    "objectName": "Blood Chalice",
+    "imgID": "TREASURE_RITUAL_RARITY2",
+    "category": "Treasures"
+  },
+  {
+    "objectID": "TREASURE_RITUAL_RARITY3",
+    "objectName": "Sacrificial Dagger",
+    "imgID": "TREASURE_RITUAL_RARITY3",
+    "category": "Treasures"
   }
 ]
