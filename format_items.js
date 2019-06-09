@@ -309,6 +309,11 @@ const mounts = itemList
   .filter(el => !el.objectID.match(/upgrade/gi))
   .map(el => ({
     ...el,
+    objectName: el.objectName
+      .split('.')
+      .shift()
+      .trim(),
+    imgID: el.objectID.split('@').shift(),
     category: 'Mounts'
   }))
 
