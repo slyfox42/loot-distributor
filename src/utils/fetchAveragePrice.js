@@ -8,7 +8,7 @@ const median = arr => {
 }
 
 const filterBigDiffs = arr => {
-  const sorted = arr.sort((a, b) => a - b)
+  const sorted = arr.filter(el => el > 0).sort((a, b) => a - b)
   const minValue = sorted[0]
   const diffs = sorted
     .map((el, idx) => (arr[idx + 1] ? arr[idx + 1] - el : null))
