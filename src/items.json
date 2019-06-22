@@ -25679,5 +25679,80 @@
     "objectName": "Sacrificial Dagger",
     "imgID": "TREASURE_RITUAL_RARITY3",
     "category": "Treasures"
+  },
+  {
+    "objectID": "T4_RUNE",
+    "objectName": "Adept's Rune",
+    "category": "Runes"
+  },
+  {
+    "objectID": "T5_RUNE",
+    "objectName": "Expert's Rune",
+    "category": "Runes"
+  },
+  {
+    "objectID": "T6_RUNE",
+    "objectName": "Master's Rune",
+    "category": "Runes"
+  },
+  {
+    "objectID": "T7_RUNE",
+    "objectName": "Grandmaster's Rune",
+    "category": "Runes"
+  },
+  {
+    "objectID": "T8_RUNE",
+    "objectName": "Elder's Rune",
+    "category": "Runes"
+  },
+  {
+    "objectID": "T4_SOUL",
+    "objectName": "Adept's Soul",
+    "category": "Souls"
+  },
+  {
+    "objectID": "T5_SOUL",
+    "objectName": "Expert's Soul",
+    "category": "Souls"
+  },
+  {
+    "objectID": "T6_SOUL",
+    "objectName": "Master's Soul",
+    "category": "Souls"
+  },
+  {
+    "objectID": "T7_SOUL",
+    "objectName": "Grandmaster's Soul",
+    "category": "Souls"
+  },
+  {
+    "objectID": "T8_SOUL",
+    "objectName": "Elder's Soul",
+    "category": "Souls"
+  },
+  {
+    "objectID": "T4_RELIC",
+    "objectName": "Adept's Relic",
+    "category": "Relics"
+  },
+  {
+    "objectID": "T5_RELIC",
+    "objectName": "Expert's Relic",
+    "category": "Relics"
+  },
+  {
+    "objectID": "T6_RELIC",
+    "objectName": "Master's Relic",
+    "category": "Relics"
+  },
+  {
+    "objectID": "T7_RELIC",
+    "objectName": "Grandmaster's Relic",
+    "category": "Relics"
+  },
+  {
+    "objectID": "T8_RELIC",
+    "objectName": "Elder's Relic",
+    "category": "Relics"
   }
 ]
