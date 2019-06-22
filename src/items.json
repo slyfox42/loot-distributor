@@ -23077,6 +23077,41 @@
     "category": "Tools"
   },
   {
+    "objectID": "T2_JOURNAL_TOOLMAKER",
+    "objectName": "Novice Tinker's Journal",
+    "category": "Tools"
+  },
+  {
+    "objectID": "T3_JOURNAL_TOOLMAKER",
+    "objectName": "Journeyman Tinker's Journal",
+    "category": "Tools"
+  },
+  {
+    "objectID": "T4_JOURNAL_TOOLMAKER",
+    "objectName": "Adept Tinker's Journal",
+    "category": "Tools"
+  },
+  {
+    "objectID": "T5_JOURNAL_TOOLMAKER",
+    "objectName": "Expert Tinker's Journal",
+    "category": "Tools"
+  },
+  {
+    "objectID": "T6_JOURNAL_TOOLMAKER",
+    "objectName": "Master Tinker's Journal",
+    "category": "Tools"
+  },
+  {
+    "objectID": "T7_JOURNAL_TOOLMAKER",
+    "objectName": "Grandmaster Tinker's Journal",
+    "category": "Tools"
+  },
+  {
+    "objectID": "T8_JOURNAL_TOOLMAKER",
+    "objectName": "Elder Tinker's Journal",
+    "category": "Tools"
+  },
+  {
     "objectID": "T3_OFF_TORCH",
     "objectName": "Journeyman's Torch",
     "category": "Torches"
@@ -24350,6 +24385,90 @@
     "category": "Wood"
   },
   {
+    "objectID": "T2_JOURNAL_WOOD",
+    "objectName": "Novice Lumberjack's Journal",
+    "imgID": "T2_JOURNAL_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T3_JOURNAL_WOOD",
+    "objectName": "Journeyman Lumberjack's Journal",
+    "imgID": "T3_JOURNAL_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T4_JOURNAL_WOOD",
+    "objectName": "Adept Lumberjack's Journal",
+    "imgID": "T4_JOURNAL_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T5_JOURNAL_WOOD",
+    "objectName": "Expert Lumberjack's Journal",
+    "imgID": "T5_JOURNAL_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T6_JOURNAL_WOOD",
+    "objectName": "Master Lumberjack's Journal",
+    "imgID": "T6_JOURNAL_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T7_JOURNAL_WOOD",
+    "objectName": "Grandmaster Lumberjack's Journal",
+    "imgID": "T7_JOURNAL_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T8_JOURNAL_WOOD",
+    "objectName": "Elder Lumberjack's Journal",
+    "imgID": "T8_JOURNAL_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_WOOD",
+    "objectName": "Novice Lumberjack's Trophy Journal",
+    "imgID": "T2_JOURNAL_TROPHY_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_WOOD",
+    "objectName": "Journeyman Lumberjack's Trophy Journal",
+    "imgID": "T3_JOURNAL_TROPHY_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_WOOD",
+    "objectName": "Adept Lumberjack's Trophy Journal",
+    "imgID": "T4_JOURNAL_TROPHY_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_WOOD",
+    "objectName": "Expert Lumberjack's Trophy Journal",
+    "imgID": "T5_JOURNAL_TROPHY_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_WOOD",
+    "objectName": "Master Lumberjack's Trophy Journal",
+    "imgID": "T6_JOURNAL_TROPHY_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_WOOD",
+    "objectName": "Grandmaster Lumberjack's Trophy Journal",
+    "imgID": "T7_JOURNAL_TROPHY_WOOD",
+    "category": "Wood"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_WOOD",
+    "objectName": "Elder Lumberjack's Trophy Journal",
+    "imgID": "T8_JOURNAL_TROPHY_WOOD",
+    "category": "Wood"
+  },
+  {
     "objectID": "T1_ROCK",
     "objectName": "Rough Stone",
     "imgID": "T1_ROCK",
@@ -24662,6 +24781,90 @@
     "category": "Ore"
   },
   {
+    "objectID": "T2_JOURNAL_ORE",
+    "objectName": "Novice Prospector's Journal",
+    "imgID": "T2_JOURNAL_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T3_JOURNAL_ORE",
+    "objectName": "Journeyman Prospector's Journal",
+    "imgID": "T3_JOURNAL_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T4_JOURNAL_ORE",
+    "objectName": "Adept Prospector's Journal",
+    "imgID": "T4_JOURNAL_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T5_JOURNAL_ORE",
+    "objectName": "Expert Prospector's Journal",
+    "imgID": "T5_JOURNAL_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T6_JOURNAL_ORE",
+    "objectName": "Master Prospector's Journal",
+    "imgID": "T6_JOURNAL_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T7_JOURNAL_ORE",
+    "objectName": "Grandmaster Prospector's Journal",
+    "imgID": "T7_JOURNAL_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T8_JOURNAL_ORE",
+    "objectName": "Elder Prospector's Journal",
+    "imgID": "T8_JOURNAL_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_ORE",
+    "objectName": "Novice Prospector's Trophy Journal",
+    "imgID": "T2_JOURNAL_TROPHY_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_ORE",
+    "objectName": "Journeyman Prospector's Trophy Journal",
+    "imgID": "T3_JOURNAL_TROPHY_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_ORE",
+    "objectName": "Adept Prospector's Trophy Journal",
+    "imgID": "T4_JOURNAL_TROPHY_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_ORE",
+    "objectName": "Expert Prospector's Trophy Journal",
+    "imgID": "T5_JOURNAL_TROPHY_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_ORE",
+    "objectName": "Master Prospector's Trophy Journal",
+    "imgID": "T6_JOURNAL_TROPHY_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_ORE",
+    "objectName": "Grandmaster Prospector's Trophy Journal",
+    "imgID": "T7_JOURNAL_TROPHY_ORE",
+    "category": "Ore"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_ORE",
+    "objectName": "Elder Prospector's Trophy Journal",
+    "imgID": "T8_JOURNAL_TROPHY_ORE",
+    "category": "Ore"
+  },
+  {
     "objectID": "T1_FISH_FRESHWATER_ALL_COMMON",
     "objectName": "Common Rudd",
     "imgID": "T1_FISH_FRESHWATER_ALL_COMMON",
@@ -24872,6 +25075,90 @@
     "category": "Fish"
   },
   {
+    "objectID": "T2_JOURNAL_TROPHY_FISHING",
+    "objectName": "Novice Fisherman's Trophy Journal",
+    "imgID": "T2_JOURNAL_TROPHY_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_FISHING",
+    "objectName": "Journeyman Fisherman's Trophy Journal",
+    "imgID": "T3_JOURNAL_TROPHY_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_FISHING",
+    "objectName": "Adept Fisherman's Trophy Journal",
+    "imgID": "T4_JOURNAL_TROPHY_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_FISHING",
+    "objectName": "Expert Fisherman's Trophy Journal",
+    "imgID": "T5_JOURNAL_TROPHY_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_FISHING",
+    "objectName": "Master Fisherman's Trophy Journal",
+    "imgID": "T6_JOURNAL_TROPHY_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_FISHING",
+    "objectName": "Grandmaster Fisherman's Trophy Journal",
+    "imgID": "T7_JOURNAL_TROPHY_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_FISHING",
+    "objectName": "Elder Fisherman's Trophy Journal",
+    "imgID": "T8_JOURNAL_TROPHY_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T2_JOURNAL_FISHING",
+    "objectName": "Novice Fisherman's Journal",
+    "imgID": "T2_JOURNAL_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T3_JOURNAL_FISHING",
+    "objectName": "Journeyman Fisherman's Journal",
+    "imgID": "T3_JOURNAL_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T4_JOURNAL_FISHING",
+    "objectName": "Adept Fisherman's Journal",
+    "imgID": "T4_JOURNAL_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T5_JOURNAL_FISHING",
+    "objectName": "Expert Fisherman's Journal",
+    "imgID": "T5_JOURNAL_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T6_JOURNAL_FISHING",
+    "objectName": "Master Fisherman's Journal",
+    "imgID": "T6_JOURNAL_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T7_JOURNAL_FISHING",
+    "objectName": "Grandmaster Fisherman's Journal",
+    "imgID": "T7_JOURNAL_FISHING",
+    "category": "Fish"
+  },
+  {
+    "objectID": "T8_JOURNAL_FISHING",
+    "objectName": "Elder Fisherman's Journal",
+    "imgID": "T8_JOURNAL_FISHING",
+    "category": "Fish"
+  },
+  {
     "objectID": "T2_STONEBLOCK",
     "objectName": "Limestone Block",
     "category": "Stone Blocks"
@@ -25045,6 +25332,90 @@
     "category": "Hide"
   },
   {
+    "objectID": "T2_JOURNAL_HIDE",
+    "objectName": "Novice Gamekeeper's Journal",
+    "imgID": "T2_JOURNAL_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T3_JOURNAL_HIDE",
+    "objectName": "Journeyman Gamekeeper's Journal",
+    "imgID": "T3_JOURNAL_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T4_JOURNAL_HIDE",
+    "objectName": "Adept Gamekeeper's Journal",
+    "imgID": "T4_JOURNAL_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T5_JOURNAL_HIDE",
+    "objectName": "Expert Gamekeeper's Journal",
+    "imgID": "T5_JOURNAL_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T6_JOURNAL_HIDE",
+    "objectName": "Master Gamekeeper's Journal",
+    "imgID": "T6_JOURNAL_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T7_JOURNAL_HIDE",
+    "objectName": "Grandmaster Gamekeeper's Journal",
+    "imgID": "T7_JOURNAL_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T8_JOURNAL_HIDE",
+    "objectName": "Elder Gamekeeper's Journal",
+    "imgID": "T8_JOURNAL_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_HIDE",
+    "objectName": "Novice Gamekeeper's Trophy Journal",
+    "imgID": "T2_JOURNAL_TROPHY_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_HIDE",
+    "objectName": "Journeyman Gamekeeper's Trophy Journal",
+    "imgID": "T3_JOURNAL_TROPHY_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_HIDE",
+    "objectName": "Adept Gamekeeper's Trophy Journal",
+    "imgID": "T4_JOURNAL_TROPHY_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_HIDE",
+    "objectName": "Expert Gamekeeper's Trophy Journal",
+    "imgID": "T5_JOURNAL_TROPHY_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_HIDE",
+    "objectName": "Master Gamekeeper's Trophy Journal",
+    "imgID": "T6_JOURNAL_TROPHY_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_HIDE",
+    "objectName": "Grandmaster Gamekeeper's Trophy Journal",
+    "imgID": "T7_JOURNAL_TROPHY_HIDE",
+    "category": "Hide"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_HIDE",
+    "objectName": "Elder Gamekeeper's Trophy Journal",
+    "imgID": "T8_JOURNAL_TROPHY_HIDE",
+    "category": "Hide"
+  },
+  {
     "objectID": "T2_FIBER",
     "objectName": "Cotton",
     "imgID": "T2_FIBER",
@@ -25174,6 +25545,90 @@
     "objectID": "T8_FIBER_LEVEL3@3",
     "objectName": "Exceptional Ghost Hemp .3",
     "imgID": "T8_FIBER_LEVEL3",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T2_JOURNAL_FIBER",
+    "objectName": "Novice Cropper's Journal",
+    "imgID": "T2_JOURNAL_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T3_JOURNAL_FIBER",
+    "objectName": "Journeyman Cropper's Journal",
+    "imgID": "T3_JOURNAL_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T4_JOURNAL_FIBER",
+    "objectName": "Adept Cropper's Journal",
+    "imgID": "T4_JOURNAL_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T5_JOURNAL_FIBER",
+    "objectName": "Expert Cropper's Journal",
+    "imgID": "T5_JOURNAL_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T6_JOURNAL_FIBER",
+    "objectName": "Master Cropper's Journal",
+    "imgID": "T6_JOURNAL_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T7_JOURNAL_FIBER",
+    "objectName": "Grandmaster Cropper's Journal",
+    "imgID": "T7_JOURNAL_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T8_JOURNAL_FIBER",
+    "objectName": "Elder Cropper's Journal",
+    "imgID": "T8_JOURNAL_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_FIBER",
+    "objectName": "Novice Cropper's Trophy Journal",
+    "imgID": "T2_JOURNAL_TROPHY_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_FIBER",
+    "objectName": "Journeyman Cropper's Trophy Journal",
+    "imgID": "T3_JOURNAL_TROPHY_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_FIBER",
+    "objectName": "Adept Cropper's Trophy Journal",
+    "imgID": "T4_JOURNAL_TROPHY_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_FIBER",
+    "objectName": "Expert Cropper's Trophy Journal",
+    "imgID": "T5_JOURNAL_TROPHY_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_FIBER",
+    "objectName": "Master Cropper's Trophy Journal",
+    "imgID": "T6_JOURNAL_TROPHY_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_FIBER",
+    "objectName": "Grandmaster Cropper's Trophy Journal",
+    "imgID": "T7_JOURNAL_TROPHY_FIBER",
+    "category": "Fiber"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_FIBER",
+    "objectName": "Elder Cropper's Trophy Journal",
+    "imgID": "T8_JOURNAL_TROPHY_FIBER",
     "category": "Fiber"
   },
   {
@@ -25754,5 +26209,670 @@
     "objectID": "T8_RELIC",
     "objectName": "Elder's Relic",
     "category": "Relics"
+  },
+  {
+    "objectID": "T2_JOURNAL_WOOD",
+    "objectName": "Novice Lumberjack's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_WOOD",
+    "objectName": "Journeyman Lumberjack's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_WOOD",
+    "objectName": "Adept Lumberjack's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_WOOD",
+    "objectName": "Expert Lumberjack's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_WOOD",
+    "objectName": "Master Lumberjack's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_WOOD",
+    "objectName": "Grandmaster Lumberjack's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_WOOD",
+    "objectName": "Elder Lumberjack's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_STONE",
+    "objectName": "Novice Stonecutter's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_STONE",
+    "objectName": "Journeyman Stonecutter's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_STONE",
+    "objectName": "Adept Stonecutter's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_STONE",
+    "objectName": "Expert Stonecutter's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_STONE",
+    "objectName": "Master Stonecutter's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_STONE",
+    "objectName": "Grandmaster Stonecutter's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_STONE",
+    "objectName": "Elder Stonecutter's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_ORE",
+    "objectName": "Novice Prospector's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_ORE",
+    "objectName": "Journeyman Prospector's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_ORE",
+    "objectName": "Adept Prospector's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_ORE",
+    "objectName": "Expert Prospector's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_ORE",
+    "objectName": "Master Prospector's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_ORE",
+    "objectName": "Grandmaster Prospector's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_ORE",
+    "objectName": "Elder Prospector's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_FIBER",
+    "objectName": "Novice Cropper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_FIBER",
+    "objectName": "Journeyman Cropper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_FIBER",
+    "objectName": "Adept Cropper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_FIBER",
+    "objectName": "Expert Cropper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_FIBER",
+    "objectName": "Master Cropper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_FIBER",
+    "objectName": "Grandmaster Cropper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_FIBER",
+    "objectName": "Elder Cropper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_HIDE",
+    "objectName": "Novice Gamekeeper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_HIDE",
+    "objectName": "Journeyman Gamekeeper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_HIDE",
+    "objectName": "Adept Gamekeeper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_HIDE",
+    "objectName": "Expert Gamekeeper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_HIDE",
+    "objectName": "Master Gamekeeper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_HIDE",
+    "objectName": "Grandmaster Gamekeeper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_HIDE",
+    "objectName": "Elder Gamekeeper's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_WARRIOR",
+    "objectName": "Novice Blacksmith's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_WARRIOR",
+    "objectName": "Journeyman Blacksmith's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_WARRIOR",
+    "objectName": "Adept Blacksmith's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_WARRIOR",
+    "objectName": "Expert Blacksmith's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_WARRIOR",
+    "objectName": "Master Blacksmith's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_WARRIOR",
+    "objectName": "Grandmaster Blacksmith's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_WARRIOR",
+    "objectName": "Elder Blacksmith's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_HUNTER",
+    "objectName": "Novice Fletcher's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_HUNTER",
+    "objectName": "Journeyman Fletcher's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_HUNTER",
+    "objectName": "Adept Fletcher's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_HUNTER",
+    "objectName": "Expert Fletcher's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_HUNTER",
+    "objectName": "Master Fletcher's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_HUNTER",
+    "objectName": "Grandmaster Fletcher's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_HUNTER",
+    "objectName": "Elder Fletcher's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_MAGE",
+    "objectName": "Novice Imbuer's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_MAGE",
+    "objectName": "Journeyman Imbuer's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_MAGE",
+    "objectName": "Adept Imbuer's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_MAGE",
+    "objectName": "Expert Imbuer's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_MAGE",
+    "objectName": "Master Imbuer's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_MAGE",
+    "objectName": "Grandmaster Imbuer's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_MAGE",
+    "objectName": "Elder Imbuer's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TOOLMAKER",
+    "objectName": "Novice Tinker's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TOOLMAKER",
+    "objectName": "Journeyman Tinker's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TOOLMAKER",
+    "objectName": "Adept Tinker's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TOOLMAKER",
+    "objectName": "Expert Tinker's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TOOLMAKER",
+    "objectName": "Master Tinker's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TOOLMAKER",
+    "objectName": "Grandmaster Tinker's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TOOLMAKER",
+    "objectName": "Elder Tinker's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_MERCENARY",
+    "objectName": "Novice Mercenary's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_MERCENARY",
+    "objectName": "Journeyman Mercenary's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_MERCENARY",
+    "objectName": "Adept Mercenary's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_MERCENARY",
+    "objectName": "Expert Mercenary's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_MERCENARY",
+    "objectName": "Master Mercenary's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_MERCENARY",
+    "objectName": "Grandmaster Mercenary's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_MERCENARY",
+    "objectName": "Elder Mercenary's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_GENERAL",
+    "objectName": "Novice Generalist Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_GENERAL",
+    "objectName": "Journeyman Generalist Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_GENERAL",
+    "objectName": "Adept Generalist Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_GENERAL",
+    "objectName": "Expert Generalist Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_GENERAL",
+    "objectName": "Master Generalist Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_GENERAL",
+    "objectName": "Grandmaster Generalist Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_GENERAL",
+    "objectName": "Elder Generalist Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_MERCENARY",
+    "objectName": "Novice Mercenary's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_MERCENARY",
+    "objectName": "Journeyman Mercenary's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_MERCENARY",
+    "objectName": "Adept Mercenary's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_MERCENARY",
+    "objectName": "Expert Mercenary's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_MERCENARY",
+    "objectName": "Master Mercenary's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_MERCENARY",
+    "objectName": "Grandmaster Mercenary's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_MERCENARY",
+    "objectName": "Elder Mercenary's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_HIDE",
+    "objectName": "Novice Gamekeeper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_HIDE",
+    "objectName": "Journeyman Gamekeeper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_HIDE",
+    "objectName": "Adept Gamekeeper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_HIDE",
+    "objectName": "Expert Gamekeeper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_HIDE",
+    "objectName": "Master Gamekeeper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_HIDE",
+    "objectName": "Grandmaster Gamekeeper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_HIDE",
+    "objectName": "Elder Gamekeeper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_WOOD",
+    "objectName": "Novice Lumberjack's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_WOOD",
+    "objectName": "Journeyman Lumberjack's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_WOOD",
+    "objectName": "Adept Lumberjack's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_WOOD",
+    "objectName": "Expert Lumberjack's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_WOOD",
+    "objectName": "Master Lumberjack's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_WOOD",
+    "objectName": "Grandmaster Lumberjack's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_WOOD",
+    "objectName": "Elder Lumberjack's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_STONE",
+    "objectName": "Novice Stonecutter's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_STONE",
+    "objectName": "Journeyman Stonecutter's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_STONE",
+    "objectName": "Adept Stonecutter's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_STONE",
+    "objectName": "Expert Stonecutter's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_STONE",
+    "objectName": "Master Stonecutter's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_STONE",
+    "objectName": "Grandmaster Stonecutter's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_STONE",
+    "objectName": "Elder Stonecutter's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_ORE",
+    "objectName": "Novice Prospector's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_ORE",
+    "objectName": "Journeyman Prospector's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_ORE",
+    "objectName": "Adept Prospector's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_ORE",
+    "objectName": "Expert Prospector's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_ORE",
+    "objectName": "Master Prospector's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_ORE",
+    "objectName": "Grandmaster Prospector's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_ORE",
+    "objectName": "Elder Prospector's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_FIBER",
+    "objectName": "Novice Cropper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_FIBER",
+    "objectName": "Journeyman Cropper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_FIBER",
+    "objectName": "Adept Cropper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_FIBER",
+    "objectName": "Expert Cropper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_FIBER",
+    "objectName": "Master Cropper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_FIBER",
+    "objectName": "Grandmaster Cropper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_FIBER",
+    "objectName": "Elder Cropper's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_TROPHY_FISHING",
+    "objectName": "Novice Fisherman's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_TROPHY_FISHING",
+    "objectName": "Journeyman Fisherman's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_TROPHY_FISHING",
+    "objectName": "Adept Fisherman's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_TROPHY_FISHING",
+    "objectName": "Expert Fisherman's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_TROPHY_FISHING",
+    "objectName": "Master Fisherman's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_TROPHY_FISHING",
+    "objectName": "Grandmaster Fisherman's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_TROPHY_FISHING",
+    "objectName": "Elder Fisherman's Trophy Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T2_JOURNAL_FISHING",
+    "objectName": "Novice Fisherman's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T3_JOURNAL_FISHING",
+    "objectName": "Journeyman Fisherman's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T4_JOURNAL_FISHING",
+    "objectName": "Adept Fisherman's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T5_JOURNAL_FISHING",
+    "objectName": "Expert Fisherman's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T6_JOURNAL_FISHING",
+    "objectName": "Master Fisherman's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T7_JOURNAL_FISHING",
+    "objectName": "Grandmaster Fisherman's Journal",
+    "category": "Journals"
+  },
+  {
+    "objectID": "T8_JOURNAL_FISHING",
+    "objectName": "Elder Fisherman's Journal",
+    "category": "Journals"
   }
 ]

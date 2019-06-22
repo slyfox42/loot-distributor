@@ -156,7 +156,8 @@ export const ITEM_CATEGORIES = [
   'Treasures',
   'Runes',
   'Souls',
-  'Relics'
+  'Relics',
+  'Journals'
 ]
 
 export const NO_QUALITY_CATEGORIES = [
@@ -180,7 +181,8 @@ export const NO_QUALITY_CATEGORIES = [
   'Treasures',
   'Runes',
   'Souls',
-  'Relics'
+  'Relics',
+  'Journals'
 ]
 
 export const ITEM_QUALITIES = {
