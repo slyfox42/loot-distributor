@@ -1,6 +1,7 @@
 import { ITEM_QUALITIES } from '../constants'
 import { distinctLoot } from './lootMultiplication'
 import fetchAveragePrice from './fetchAveragePrice'
+import moment from 'moment'
 import uuid from 'uuid'
 
 const allItems = require('../items.json')
@@ -36,15 +37,26 @@ const parseChestLogs = logs => {
         return null
       }
       const uniqueID = uuid()
+      const date = moment(object.date, 'MM-DD-YYYY HH:mm:ss')
+
       return {
         ...item,
+        date,
         uniqueID,
         objectName: `${item.objectName} ${ITEM_QUALITIES[object.quality]}`,
         quantity: parseInt(object.amount)
       }
     })
     .filter(el => !!el)
-  const distinctItems = distinctLoot(items)
+    .sort((a, b) => {
+      return a.date.isAfter(b.date) ? -1 : 1
+    })
+
+  const startDate = items[0].date
+  const endDate = moment(startDate).subtract(10, 'minutes')
+  const filteredItems = items.filter(el => el.date.isAfter(endDate))
+
+  const distinctItems = distinctLoot(filteredItems)
 
   return Promise.all(
     distinctItems.map(async item => {

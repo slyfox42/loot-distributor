@@ -153,7 +153,11 @@ export const ITEM_CATEGORIES = [
   'Metal Bars',
   'Stone Blocks',
   'Wood Planks',
-  'Treasures'
+  'Treasures',
+  'Runes',
+  'Souls',
+  'Relics',
+  'Journals'
 ]
 
 export const NO_QUALITY_CATEGORIES = [
@@ -174,7 +178,11 @@ export const NO_QUALITY_CATEGORIES = [
   'Metal Bars',
   'Stone Blocks',
   'Wood Planks',
-  'Treasures'
+  'Treasures',
+  'Runes',
+  'Souls',
+  'Relics',
+  'Journals'
 ]
 
 export const ITEM_QUALITIES = {

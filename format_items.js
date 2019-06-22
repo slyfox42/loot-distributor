@@ -434,6 +434,34 @@ const treasures = itemList
     category: 'Treasures'
   }))
 
+const runes = itemList
+  .filter(el => el.objectID.match(/rune/gi))
+  .map(el => ({
+    ...el,
+    category: 'Runes'
+  }))
+
+const souls = itemList
+  .filter(el => el.objectID.match(/soul/gi))
+  .map(el => ({
+    ...el,
+    category: 'Souls'
+  }))
+
+const relics = itemList
+  .filter(el => el.objectID.match(/relic/gi))
+  .map(el => ({
+    ...el,
+    category: 'Relics'
+  }))
+
+const journals = itemList
+  .filter(el => el.objectID.match(/journal/gi))
+  .map(el => ({
+    ...el,
+    category: 'Journals'
+  }))
+
 const new_json = JSON.stringify(
   [
     ...arcaneStaffs,
@@ -483,7 +511,11 @@ const new_json = JSON.stringify(
     ...cloth,
     ...planks,
     ...metalbars,
-    ...treasures
+    ...treasures,
+    ...runes,
+    ...souls,
+    ...relics,
+    ...journals
   ],
   '',
   2
