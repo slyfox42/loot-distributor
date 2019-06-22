@@ -12,7 +12,7 @@ const LogsDialog = ({ addToSelectedItems, language }) => {
   const onClick = async () => {
     const logs = document
       .getElementById('paste-logs')
-      .value.replace(/[^a-z\d\s"/:']/gim)
+      .value.replace(/[^a-z\d\s"/:'-]/gim, '')
     changeVisibility()
     const itemList = await parseChestLogs(logs)
     addToSelectedItems(itemList)
