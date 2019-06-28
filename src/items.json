@@ -17642,6 +17642,18 @@
     "category": "Mounts"
   },
   {
+    "objectID": "UNIQUE_MOUNT_MORGANA_RAVEN_ADC",
+    "objectName": "Morgana Raven",
+    "imgID": "UNIQUE_MOUNT_MORGANA_RAVEN_ADC",
+    "category": "Mounts"
+  },
+  {
+    "objectID": "UNIQUE_MOUNT_GIANT_HORSE_ADC",
+    "objectName": "Giant Horse",
+    "imgID": "UNIQUE_MOUNT_GIANT_HORSE_ADC",
+    "category": "Mounts"
+  },
+  {
     "objectID": "T3_MAIN_NATURESTAFF",
     "objectName": "Journeyman's Nature Staff",
     "category": "Nature Staffs"
