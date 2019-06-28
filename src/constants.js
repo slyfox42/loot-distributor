@@ -1,5 +1,5 @@
 export const IMAGE_BASE_URL =
-  'https://albiononline2d.ams3.cdn.digitaloceanspaces.com/thumbnails/orig/'
+  'https://gameinfo.albiononline.com/api/gameinfo/items/'
 
 export const LOCALES = {
   english: 'en-US',

@@ -21866,5 +21866,13 @@
   {
     "id": "T8_JOURNAL_FISHING",
     "name": "Elder Fisherman's Journal"
+  },
+  {
+    "id": "UNIQUE_MOUNT_MORGANA_RAVEN_ADC",
+    "name": "Morgana Raven"
+  },
+  {
+    "id": "UNIQUE_MOUNT_GIANT_HORSE_ADC",
+    "name": "Giant Horse"
   }
 ]
