@@ -17198,21 +17198,9 @@
     "category": "Mounts"
   },
   {
-    "objectID": "T6_MOUNT_GIANTSTAG",
-    "objectName": "Master's Giant Stag",
-    "imgID": "T6_MOUNT_GIANTSTAG",
-    "category": "Mounts"
-  },
-  {
     "objectID": "T6_MOUNT_DIREWOLF",
     "objectName": "Direwolf",
     "imgID": "T6_MOUNT_DIREWOLF",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "T6_MOUNT_DIREWOLF_WHITE",
-    "objectName": "Ghostwolf",
-    "imgID": "T6_MOUNT_DIREWOLF_WHITE",
     "category": "Mounts"
   },
   {
@@ -17330,165 +17318,9 @@
     "category": "Mounts"
   },
   {
-    "objectID": "T5_MOUNT_HORSE_ARENA@1",
-    "objectName": "Arena Veteran's Armored Horse",
-    "imgID": "T5_MOUNT_HORSE_ARENA",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "T5_MOUNT_COUGAR_ARENA@1",
-    "objectName": "Arena Veteran's Armored Sabertooth",
-    "imgID": "T5_MOUNT_COUGAR_ARENA",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "T5_MOUNT_HORSE_UNDEAD_HALLOWEEN@1",
-    "objectName": "Horse Macabre",
-    "imgID": "T5_MOUNT_HORSE_UNDEAD_HALLOWEEN",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "T5_MOUNT_COUGAR_TOURNAMENT@1",
-    "objectName": "Sabertooth Rex",
-    "imgID": "T5_MOUNT_COUGAR_TOURNAMENT",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_DONKEY_HALLOWEEN",
-    "objectName": "Jack o' Donkey",
-    "imgID": "UNIQUE_MOUNT_DONKEY_HALLOWEEN",
-    "category": "Mounts"
-  },
-  {
     "objectID": "UNIQUE_MOUNT_RAM_XMAS",
     "objectName": "Yule Ram",
     "imgID": "UNIQUE_MOUNT_RAM_XMAS",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "T6_MOUNT_GIANTSTAG_XMAS@1",
-    "objectName": "Yule Stag",
-    "imgID": "T6_MOUNT_GIANTSTAG_XMAS",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_TELLAFRIEND",
-    "objectName": "Recruiter's Horse",
-    "imgID": "UNIQUE_MOUNT_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_DONKEY_UNIQUE_TELLAFRIEND",
-    "objectName": "Recruiter's Donkey",
-    "imgID": "UNIQUE_MOUNT_DONKEY_UNIQUE_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_RAM_TELLAFRIEND",
-    "objectName": "Recruiter's Ram",
-    "imgID": "UNIQUE_MOUNT_RAM_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_PIG_TELLAFRIEND",
-    "objectName": "Recruiter's Pig",
-    "imgID": "UNIQUE_MOUNT_PIG_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_PONY_TELLAFRIEND",
-    "objectName": "Recruiter's Pony",
-    "imgID": "UNIQUE_MOUNT_PONY_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_YAK_TELLAFRIEND",
-    "objectName": "Recruiter's Yak",
-    "imgID": "UNIQUE_MOUNT_YAK_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_IMPALA_TELLAFRIEND",
-    "objectName": "Recruiter's Impala",
-    "imgID": "UNIQUE_MOUNT_IMPALA_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_MOABIRD_TELLAFRIEND",
-    "objectName": "Recruiter's Moabird",
-    "imgID": "UNIQUE_MOUNT_MOABIRD_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_BAT_TELLAFRIEND",
-    "objectName": "Recruiter's Saddled Bat",
-    "imgID": "UNIQUE_MOUNT_BAT_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_GIANTTOAD_TELLAFRIEND",
-    "objectName": "Recruiter's Toad",
-    "imgID": "UNIQUE_MOUNT_GIANTTOAD_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_BLOODHOUND_TELLAFRIEND",
-    "objectName": "Recruiter's Bloodhound",
-    "imgID": "UNIQUE_MOUNT_BLOODHOUND_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_TIGER_TELLAFRIEND",
-    "objectName": "Recruiter's Tiger",
-    "imgID": "UNIQUE_MOUNT_TIGER_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_TRANSPORT_RAM_TELLAFRIEND",
-    "objectName": "Recruiter's Bighorn Ram",
-    "imgID": "UNIQUE_MOUNT_TRANSPORT_RAM_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_BERNARD_TELLAFRIEND",
-    "objectName": "Recruiter's Saint Bernard",
-    "imgID": "UNIQUE_MOUNT_BERNARD_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_GIANTSTAG_TELLAFRIEND",
-    "objectName": "Recruiter's Giant Stag",
-    "imgID": "UNIQUE_MOUNT_GIANTSTAG_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_DIREFOX_TELLAFRIEND",
-    "objectName": "Recruiter's Dire Fox",
-    "imgID": "UNIQUE_MOUNT_DIREFOX_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_HUSKYSLEIGH_TELLAFRIEND",
-    "objectName": "Recruiter's Husky Sled",
-    "imgID": "UNIQUE_MOUNT_HUSKYSLEIGH_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_DIREWOLF_GREY_TELLAFRIEND",
-    "objectName": "Recruiter's Grey Wolf",
-    "imgID": "UNIQUE_MOUNT_DIREWOLF_GREY_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_TIGER_WHITE_TELLAFRIEND",
-    "objectName": "Recruiter's White Tiger",
-    "imgID": "UNIQUE_MOUNT_TIGER_WHITE_TELLAFRIEND",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_HOUSEPIG",
-    "objectName": "Domesticated Hog",
-    "imgID": "UNIQUE_MOUNT_HOUSEPIG",
     "category": "Mounts"
   },
   {
@@ -17513,12 +17345,6 @@
     "objectID": "T8_MOUNT_ARMORED_HORSE_SKIN_01",
     "objectName": "Elder's Warhorse",
     "imgID": "T8_MOUNT_ARMORED_HORSE_SKIN_01",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "T6_MOUNT_DIREWOLF_SPECTER",
-    "objectName": "Specter Wolf",
-    "imgID": "T6_MOUNT_DIREWOLF_SPECTER",
     "category": "Mounts"
   },
   {
@@ -17564,12 +17390,6 @@
     "category": "Mounts"
   },
   {
-    "objectID": "T6_MOUNT_CHAMELEON_ADC",
-    "objectName": "Giant Chameleon",
-    "imgID": "T6_MOUNT_CHAMELEON_ADC",
-    "category": "Mounts"
-  },
-  {
     "objectID": "UNIQUE_MOUNT_RHINO_SEASON_CRYSTAL",
     "objectName": "Crystal Battle Rhino",
     "imgID": "UNIQUE_MOUNT_RHINO_SEASON_CRYSTAL",
@@ -17609,36 +17429,6 @@
     "objectID": "UNIQUE_MOUNT_TOWER_CHARIOT_SILVER",
     "objectName": "Silver Tower Chariot",
     "imgID": "UNIQUE_MOUNT_TOWER_CHARIOT_SILVER",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_HORSE_FOUNDER_LEGENDARY",
-    "objectName": "Legendary Explorer's Horse",
-    "imgID": "UNIQUE_MOUNT_HORSE_FOUNDER_LEGENDARY",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_OX_FOUNDER_LEGENDARY",
-    "objectName": "Legendary Explorer's Ox",
-    "imgID": "UNIQUE_MOUNT_OX_FOUNDER_LEGENDARY",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_HORSE_STARTERPACK",
-    "objectName": "Legendary Adventurer's Horse",
-    "imgID": "UNIQUE_MOUNT_HORSE_STARTERPACK",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_CART_STARTERPACK",
-    "objectName": "Legendary Adventurer's Cart",
-    "imgID": "UNIQUE_MOUNT_CART_STARTERPACK",
-    "category": "Mounts"
-  },
-  {
-    "objectID": "UNIQUE_MOUNT_GIANTSTAG_FOUNDER_EPIC",
-    "objectName": "Epic Explorer's Giant Stag",
-    "imgID": "UNIQUE_MOUNT_GIANTSTAG_FOUNDER_EPIC",
     "category": "Mounts"
   },
   {

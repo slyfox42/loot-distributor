@@ -6416,16 +6416,8 @@
     "name": "Adept's Giant Stag"
   },
   {
-    "id": "T6_MOUNT_GIANTSTAG",
-    "name": "Master's Giant Stag"
-  },
-  {
     "id": "T6_MOUNT_DIREWOLF",
     "name": "Direwolf"
-  },
-  {
-    "id": "T6_MOUNT_DIREWOLF_WHITE",
-    "name": "Ghostwolf"
   },
   {
     "id": "T7_MOUNT_DIREBOAR",
@@ -6504,112 +6496,8 @@
     "name": "Morgana Nightmare"
   },
   {
-    "id": "T5_MOUNT_HORSE_ARENA@1",
-    "name": "Arena Veteran's Armored Horse"
-  },
-  {
-    "id": "T5_MOUNT_COUGAR_ARENA@1",
-    "name": "Arena Veteran's Armored Sabertooth"
-  },
-  {
-    "id": "T5_MOUNT_HORSE_UNDEAD_HALLOWEEN@1",
-    "name": "Horse Macabre"
-  },
-  {
-    "id": "T5_MOUNT_COUGAR_TOURNAMENT@1",
-    "name": "Sabertooth Rex"
-  },
-  {
-    "id": "UNIQUE_MOUNT_DONKEY_HALLOWEEN",
-    "name": "Jack o' Donkey"
-  },
-  {
     "id": "UNIQUE_MOUNT_RAM_XMAS",
     "name": "Yule Ram"
-  },
-  {
-    "id": "T6_MOUNT_GIANTSTAG_XMAS@1",
-    "name": "Yule Stag"
-  },
-  {
-    "id": "UNIQUE_MOUNT_TELLAFRIEND",
-    "name": "Recruiter's Horse"
-  },
-  {
-    "id": "UNIQUE_MOUNT_DONKEY_UNIQUE_TELLAFRIEND",
-    "name": "Recruiter's Donkey"
-  },
-  {
-    "id": "UNIQUE_MOUNT_RAM_TELLAFRIEND",
-    "name": "Recruiter's Ram"
-  },
-  {
-    "id": "UNIQUE_MOUNT_PIG_TELLAFRIEND",
-    "name": "Recruiter's Pig"
-  },
-  {
-    "id": "UNIQUE_MOUNT_PONY_TELLAFRIEND",
-    "name": "Recruiter's Pony"
-  },
-  {
-    "id": "UNIQUE_MOUNT_YAK_TELLAFRIEND",
-    "name": "Recruiter's Yak"
-  },
-  {
-    "id": "UNIQUE_MOUNT_IMPALA_TELLAFRIEND",
-    "name": "Recruiter's Impala"
-  },
-  {
-    "id": "UNIQUE_MOUNT_MOABIRD_TELLAFRIEND",
-    "name": "Recruiter's Moabird"
-  },
-  {
-    "id": "UNIQUE_MOUNT_BAT_TELLAFRIEND",
-    "name": "Recruiter's Saddled Bat"
-  },
-  {
-    "id": "UNIQUE_MOUNT_GIANTTOAD_TELLAFRIEND",
-    "name": "Recruiter's Toad"
-  },
-  {
-    "id": "UNIQUE_MOUNT_BLOODHOUND_TELLAFRIEND",
-    "name": "Recruiter's Bloodhound"
-  },
-  {
-    "id": "UNIQUE_MOUNT_TIGER_TELLAFRIEND",
-    "name": "Recruiter's Tiger"
-  },
-  {
-    "id": "UNIQUE_MOUNT_TRANSPORT_RAM_TELLAFRIEND",
-    "name": "Recruiter's Bighorn Ram"
-  },
-  {
-    "id": "UNIQUE_MOUNT_BERNARD_TELLAFRIEND",
-    "name": "Recruiter's Saint Bernard"
-  },
-  {
-    "id": "UNIQUE_MOUNT_GIANTSTAG_TELLAFRIEND",
-    "name": "Recruiter's Giant Stag"
-  },
-  {
-    "id": "UNIQUE_MOUNT_DIREFOX_TELLAFRIEND",
-    "name": "Recruiter's Dire Fox"
-  },
-  {
-    "id": "UNIQUE_MOUNT_HUSKYSLEIGH_TELLAFRIEND",
-    "name": "Recruiter's Husky Sled"
-  },
-  {
-    "id": "UNIQUE_MOUNT_DIREWOLF_GREY_TELLAFRIEND",
-    "name": "Recruiter's Grey Wolf"
-  },
-  {
-    "id": "UNIQUE_MOUNT_TIGER_WHITE_TELLAFRIEND",
-    "name": "Recruiter's White Tiger"
-  },
-  {
-    "id": "UNIQUE_MOUNT_HOUSEPIG",
-    "name": "Domesticated Hog"
   },
   {
     "id": "T5_MOUNT_ARMORED_HORSE_SKIN_01",
@@ -6626,10 +6514,6 @@
   {
     "id": "T8_MOUNT_ARMORED_HORSE_SKIN_01",
     "name": "Elder's Warhorse"
-  },
-  {
-    "id": "T6_MOUNT_DIREWOLF_SPECTER",
-    "name": "Specter Wolf"
   },
   {
     "id": "UNIQUE_MOUNT_BAT_PERSONAL",
@@ -6660,10 +6544,6 @@
     "name": "Black Panther"
   },
   {
-    "id": "T6_MOUNT_CHAMELEON_ADC",
-    "name": "Giant Chameleon"
-  },
-  {
     "id": "UNIQUE_MOUNT_RHINO_SEASON_CRYSTAL",
     "name": "Crystal Battle Rhino"
   },
@@ -6690,26 +6570,6 @@
   {
     "id": "UNIQUE_MOUNT_TOWER_CHARIOT_SILVER",
     "name": "Silver Tower Chariot"
-  },
-  {
-    "id": "UNIQUE_MOUNT_HORSE_FOUNDER_LEGENDARY",
-    "name": "Legendary Explorer's Horse"
-  },
-  {
-    "id": "UNIQUE_MOUNT_OX_FOUNDER_LEGENDARY",
-    "name": "Legendary Explorer's Ox"
-  },
-  {
-    "id": "UNIQUE_MOUNT_HORSE_STARTERPACK",
-    "name": "Legendary Adventurer's Horse"
-  },
-  {
-    "id": "UNIQUE_MOUNT_CART_STARTERPACK",
-    "name": "Legendary Adventurer's Cart"
-  },
-  {
-    "id": "UNIQUE_MOUNT_GIANTSTAG_FOUNDER_EPIC",
-    "name": "Epic Explorer's Giant Stag"
   },
   {
     "id": "UNIQUE_CONSUMABLE_EVENT_WINTER_2017",
