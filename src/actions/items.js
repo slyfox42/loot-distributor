@@ -13,6 +13,5 @@ export default {
   selectQualityPreference: createAction('selected quality preference'),
   updateItemQuantity: createAction('updated item quantity'),
   updateItemPrice: createAction('updated item price'),
-  selectMarketSource: createAction('selected market source'),
-  updateSelectionPrices: createAction('updated selection prices')
+  selectMarketSource: createAction('selected market source')
 }
