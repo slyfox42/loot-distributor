@@ -10,6 +10,7 @@ import PropTypes from 'prop-types'
 import React from 'react'
 import SelectField from '../../atoms/SelectField'
 import SelectedItemsList from '../../molecules/SelectedItemsList'
+import fetchAveragePrice from '../../../utils/fetchAveragePrice'
 import itemsActions from '../../../actions/items'
 
 const LootTable = ({
@@ -18,6 +19,7 @@ const LootTable = ({
   removeFromselectedItems,
   clearSelectedItems,
   selectMarketSource,
+  updateItemPrice,
   language
 }) => {
   let { selectedItems, marketSource } = selection
@@ -27,6 +29,16 @@ const LootTable = ({
       0
     )
   ).toLocaleString(LOCALES[language])
+
+  const handleSourceChange = async source => {
+    await Promise.all(
+      selectedItems.map(async item => {
+        const price = await fetchAveragePrice(item.objectID, source)
+        return updateItemPrice({ item, price })
+      })
+    )
+    selectMarketSource(source)
+  }
   const header = (
     <div className="loot-table-header">
       <div className="text-container">
@@ -47,7 +59,7 @@ const LootTable = ({
           items={CITIES}
           value={marketSource}
           placeholder="Select market source"
-          onChange={val => selectMarketSource(val)}
+          onChange={handleSourceChange}
         />
         <Button
           appearance={BUTTON_TYPES.ERROR}
@@ -82,7 +94,8 @@ LootTable.propTypes = {
   removeFromselectedItems: PropTypes.func.isRequired,
   clearSelectedItems: PropTypes.func.isRequired,
   addToSelectedItems: PropTypes.func.isRequired,
-  selectMarketSource: PropTypes.func.isRequired
+  selectMarketSource: PropTypes.func.isRequired,
+  updateItemPrice: PropTypes.func.isRequired
 }
 
 LootTable.defaultProps = {

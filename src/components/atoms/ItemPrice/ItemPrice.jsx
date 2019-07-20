@@ -1,10 +1,18 @@
 import './ItemPrice.scss'
 import PropTypes from 'prop-types'
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 
 const ItemPrice = ({ id, item, updateItemPrice }) => {
   const { averagePrice } = item
   const [price, setPrice] = useState(Math.floor(averagePrice))
+  useEffect(
+    () => {
+      if (price !== averagePrice) {
+        setPrice(Math.floor(item.averagePrice))
+      }
+    },
+    [averagePrice]
+  )
   const handleChange = e => {
     const value = e.target.value.replace(/[^0-9]/gi, '')
     setPrice(parseInt(value))
@@ -26,7 +34,9 @@ const ItemPrice = ({ id, item, updateItemPrice }) => {
       />
       <input
         type="text"
-        className={averagePrice !== 0 ? 'accurate-price' : 'inaccurate-price'}
+        className={
+          item.averagePrice !== 0 ? 'accurate-price' : 'inaccurate-price'
+        }
         value={price}
         onChange={handleChange}
         onBlur={() => updateItemPrice({ item, price })}
