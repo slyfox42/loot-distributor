@@ -10,7 +10,8 @@ const initialState = {
   askForQuality: true,
   displayList: [],
   selectedItems: [],
-  clickedItem: null
+  clickedItem: null,
+  marketSource: 'Caerleon'
 }
 
 export default createReducer(
@@ -107,6 +108,13 @@ export default createReducer(
           selectedItems: state.selectedItems.map(el =>
             el.uniqueID === item.uniqueID ? { ...el, averagePrice: price } : el
           )
+        },
+        state
+      ),
+    [itemsActions.selectMarketSource]: (state, payload) =>
+      u(
+        {
+          marketSource: payload
         },
         state
       )

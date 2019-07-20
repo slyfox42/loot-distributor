@@ -1,5 +1,5 @@
 import './LootTable.scss'
-import { APP_DESCRIPTIONS, LOCALES } from '../../../constants'
+import { APP_DESCRIPTIONS, CITIES, LOCALES } from '../../../constants'
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 import { multiplyLoot } from '../../../utils/lootMultiplication'
@@ -8,6 +8,7 @@ import ContentWrapper from '../../molecules/ContentWrapper'
 import LogsDialog from '../../atoms/LogsDialog'
 import PropTypes from 'prop-types'
 import React from 'react'
+import SelectField from '../../atoms/SelectField'
 import SelectedItemsList from '../../molecules/SelectedItemsList'
 import itemsActions from '../../../actions/items'
 
@@ -16,9 +17,10 @@ const LootTable = ({
   addToSelectedItems,
   removeFromselectedItems,
   clearSelectedItems,
+  selectMarketSource,
   language
 }) => {
-  let { selectedItems } = selection
+  let { selectedItems, marketSource } = selection
   const grandtotal = Math.floor(
     multiplyLoot(selectedItems).reduce(
       (acc, curr) => acc + curr.averagePrice,
@@ -38,6 +40,13 @@ const LootTable = ({
         <LogsDialog
           addToSelectedItems={addToSelectedItems}
           language={language}
+        />
+        <SelectField
+          id={'0'}
+          items={CITIES}
+          value={marketSource}
+          placeholder="Select market source"
+          onChange={val => selectMarketSource(val)}
         />
         <Button
           appearance={BUTTON_TYPES.ERROR}
@@ -71,7 +80,8 @@ LootTable.propTypes = {
   language: PropTypes.string.isRequired,
   removeFromselectedItems: PropTypes.func.isRequired,
   clearSelectedItems: PropTypes.func.isRequired,
-  addToSelectedItems: PropTypes.func.isRequired
+  addToSelectedItems: PropTypes.func.isRequired,
+  selectMarketSource: PropTypes.func.isRequired
 }
 
 LootTable.defaultProps = {
