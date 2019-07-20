@@ -11,8 +11,7 @@ const initialState = {
   displayList: [],
   selectedItems: [],
   clickedItem: null,
-  marketSource: 'Caerleon',
-  currentPrices: true
+  marketSource: 'Caerleon'
 }
 
 export default createReducer(
@@ -116,13 +115,6 @@ export default createReducer(
       u(
         {
           marketSource: payload
-        },
-        state
-      ),
-    [itemsActions.selectPricesOption]: (state, payload) =>
-      u(
-        {
-          currentPrices: payload
         },
         state
       )

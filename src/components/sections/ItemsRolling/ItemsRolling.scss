@@ -7,3 +7,12 @@
   align-items: center;
   align-content: space-around;
 }
+
+.error-text-container {
+  display: flex;
+  align-items: center;
+  height: 50px;
+  color: $error-color;
+  font-weight: bold;
+  font-size: 18px;
+}

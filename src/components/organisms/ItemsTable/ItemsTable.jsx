@@ -35,7 +35,6 @@ const ItemsTable = ({
     displayList,
     query,
     askForQuality,
-    currentPrices,
     marketSource
   } = selection
   const tierList = ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8']
@@ -71,11 +70,7 @@ const ItemsTable = ({
       const category = e.target.getAttribute('category')
       const imgID = e.target.getAttribute('imageid')
       if (!askForQuality || NO_QUALITY_CATEGORIES.includes(category)) {
-        const { averagePrice, isPriceExact } = await fetchAveragePrice(
-          objectID,
-          currentPrices,
-          marketSource
-        )
+        const { averagePrice } = await fetchAveragePrice(objectID, marketSource)
         const uniqueID = uuid()
 
         return addToSelectedItems([
@@ -85,7 +80,6 @@ const ItemsTable = ({
             objectName,
             imgID,
             averagePrice,
-            isPriceExact,
             quantity: 1
           }
         ])
@@ -101,11 +95,7 @@ const ItemsTable = ({
       const { objectID, objectName } = selection.clickedItem
       const newName = `${objectName} ${quality}`
       const uniqueID = uuid()
-      const { averagePrice, isPriceExact } = await fetchAveragePrice(
-        objectID,
-        currentPrices,
-        marketSource
-      )
+      const { averagePrice } = await fetchAveragePrice(objectID, marketSource)
 
       addToSelectedItems([
         {
@@ -113,7 +103,6 @@ const ItemsTable = ({
           objectID,
           objectName: newName,
           averagePrice,
-          isPriceExact,
           quantity: 1
         }
       ])

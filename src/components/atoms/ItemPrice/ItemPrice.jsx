@@ -3,7 +3,8 @@ import PropTypes from 'prop-types'
 import React, { useState } from 'react'
 
 const ItemPrice = ({ id, item, updateItemPrice }) => {
-  const [price, setPrice] = useState(Math.floor(item.averagePrice))
+  const { averagePrice } = item
+  const [price, setPrice] = useState(Math.floor(averagePrice))
   const handleChange = e => {
     const value = e.target.value.replace(/[^0-9]/gi, '')
     setPrice(parseInt(value))
@@ -25,6 +26,7 @@ const ItemPrice = ({ id, item, updateItemPrice }) => {
       />
       <input
         type="text"
+        className={averagePrice !== 0 ? 'accurate-price' : 'inaccurate-price'}
         value={price}
         onChange={handleChange}
         onBlur={() => updateItemPrice({ item, price })}
