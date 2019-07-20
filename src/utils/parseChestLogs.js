@@ -23,7 +23,7 @@ const parseCsv = csv => {
   return result
 }
 
-const parseChestLogs = logs => {
+const parseChestLogs = (logs, marketSource) => {
   const formattedLogs = logs.replace(/[ ]{2,}|[\t]/gm, ',').replace(/"/gm, '')
   const objects = parseCsv(formattedLogs)
   const items = objects
@@ -57,10 +57,10 @@ const parseChestLogs = logs => {
   const filteredItems = items.filter(el => el.date.isAfter(endDate))
 
   const distinctItems = distinctLoot(filteredItems)
-
+  console.log(marketSource)
   return Promise.all(
     distinctItems.map(async item => {
-      const averagePrice = await fetchAveragePrice(item.objectID)
+      const averagePrice = await fetchAveragePrice(item.objectID, marketSource)
       return { ...item, averagePrice }
     })
   )

@@ -39,6 +39,7 @@ const LootTable = ({
       <div className="buttons-container">
         <LogsDialog
           addToSelectedItems={addToSelectedItems}
+          marketSource={marketSource}
           language={language}
         />
         <SelectField
