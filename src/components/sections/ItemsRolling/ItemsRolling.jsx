@@ -16,14 +16,14 @@ const ItemsRolling = ({ loot, players, updateResultsList, language }) => {
   const checkForErrors = (loot, players) => {
     let errorText = ''
     if (!loot.length) {
-      errorText = 'Please insert a list of items to be split!'
+      errorText = APP_DESCRIPTIONS[language].lootError
     }
     const missingItem = loot.find(el => el.averagePrice === 0)
     if (missingItem && !errorText) {
-      errorText = 'Please make sure all item prices have been set!'
+      errorText = APP_DESCRIPTIONS[language].pricesError
     }
     if (!players.length && !errorText) {
-      errorText = 'Please insert player names to perform the roll!'
+      errorText = APP_DESCRIPTIONS[language].playersError
     }
 
     return errorText
