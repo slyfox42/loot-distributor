@@ -28,11 +28,8 @@
   .buttons-container {
     display: flex;
     margin-top: 25px;
-    .clear-button {
-      margin-left: 30px;
-    }
+    justify-content: space-between;
   }
-
 }
 
 .loot-table {

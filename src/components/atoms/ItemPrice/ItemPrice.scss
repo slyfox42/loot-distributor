@@ -1,3 +1,5 @@
+@import "../../_settings/variables.scss";
+
 .item-price-container {
   display: flex;
   user-select: none;
@@ -16,3 +18,10 @@
   margin-right: 5px;
 }
 
+.accurate-price {
+  color: $success-color;
+}
+
+.inaccurate-price {
+  color: $error-color;
+}

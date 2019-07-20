@@ -6,7 +6,7 @@ import PropTypes from 'prop-types'
 import React, { useState } from 'react'
 import parseChestLogs from '../../../utils/parseChestLogs'
 
-const LogsDialog = ({ addToSelectedItems, language }) => {
+const LogsDialog = ({ addToSelectedItems, language, marketSource }) => {
   const [visible, setVisibility] = useState(false)
   const changeVisibility = () => setVisibility(!visible)
   const onClick = async () => {
@@ -14,7 +14,7 @@ const LogsDialog = ({ addToSelectedItems, language }) => {
       .getElementById('paste-logs')
       .value.replace(/[^a-z\d\s"/:'-]/gim, '')
     changeVisibility()
-    const itemList = await parseChestLogs(logs)
+    const itemList = await parseChestLogs(logs, marketSource)
     addToSelectedItems(itemList)
   }
   return (

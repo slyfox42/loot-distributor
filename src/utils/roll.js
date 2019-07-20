@@ -2,9 +2,6 @@ import { distinctLoot, multiplyLoot } from './lootMultiplication'
 import shuffle from 'lodash/shuffle'
 
 const roll = (players, loot) => {
-  if (!loot.length || !players.length) {
-    return
-  }
   const sortedLoot = multiplyLoot(loot).sort(
     (a, b) => b.averagePrice - a.averagePrice
   )

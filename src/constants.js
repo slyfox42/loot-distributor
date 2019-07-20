@@ -105,6 +105,15 @@ export const APP_DESCRIPTIONS = {
 
 export const INPUT_SANITIZE_REGEXP = /[^a-z\d\s.']/gi
 
+export const CITIES = [
+  'Bridgewatch',
+  'Caerleon',
+  'Fort Sterling',
+  'Lymhurst',
+  'Martlock',
+  'Thetford'
+]
+
 export const ITEM_CATEGORIES = [
   'Artefacts',
   'Cloth Armor',
