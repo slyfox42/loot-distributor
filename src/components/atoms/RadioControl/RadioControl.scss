@@ -1,10 +1,7 @@
-$bg-disabled-color: rgba(0, 0, 0, .26);
-$bg-enabled-color: rgba(63, 81, 181, .5);
-$lever-disabled-color: #fff;
-$lever-enabled-color: #3f51b5;
+@import "../../_settings/variables.scss";
 
 .radio-checkbox {
-  margin-top: 50px;
+  margin-top: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -14,7 +11,7 @@ $lever-enabled-color: #3f51b5;
   display: inline-block;
   position: relative;
   margin: 0 0 10px;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 24px;
   user-select: none;
 
@@ -63,23 +60,14 @@ $lever-enabled-color: #3f51b5;
       }
   }
 
-  // Checked
   &-input:checked + &-label {
       &:before {
-          background-color: $bg-enabled-color;
+          background-color: lighten($success-color, 10%);
       }
 
       &:after {
           left: 16px;
-          background-color: $lever-enabled-color;
+          background-color: $success-color;
       }
   }
-
-  // Focused
-  // Uncomment for accessible outline
-  // &__input:focus + &__label {
-  //     &:after {
-  //         outline: 1px dotted currentColor;
-  //     }
-  // }
 }
