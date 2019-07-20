@@ -7,7 +7,6 @@ import Button, { BUTTON_TYPES } from '../../atoms/Button'
 import ContentWrapper from '../../molecules/ContentWrapper'
 import LogsDialog from '../../atoms/LogsDialog'
 import PropTypes from 'prop-types'
-import RadioControl from '../../atoms/RadioControl'
 import React from 'react'
 import SelectField from '../../atoms/SelectField'
 import SelectedItemsList from '../../molecules/SelectedItemsList'
@@ -57,7 +56,6 @@ const LootTable = ({
           {APP_DESCRIPTIONS[language].clearButton}
         </Button>
       </div>
-      <RadioControl />
     </div>
   )
   const removeItem = el => () => removeFromselectedItems(el.objectName)
