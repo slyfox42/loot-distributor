@@ -17,7 +17,11 @@ const SelectableItem = ({
   updateItemQuantity,
   updateItemPrice
 }) => {
-  const imageUrl = IMAGE_BASE_URL + (item.imgID || item.objectID)
+  const { quality } = item
+  let imageUrl = IMAGE_BASE_URL + (item.imgID || item.objectID)
+  if (quality) {
+    imageUrl += `?quality=${quality}`
+  }
   const classProps = classNames('selectable-item', customClass)
   return (
     <div className="selectable-item-container">
