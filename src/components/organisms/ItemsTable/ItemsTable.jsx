@@ -2,6 +2,7 @@ import './ItemsTable.scss'
 import {
   APP_DESCRIPTIONS,
   ITEM_CATEGORIES,
+  ITEM_QUALITIES,
   NO_QUALITY_CATEGORIES
 } from '../../../constants'
 import { bindActionCreators } from 'redux'
@@ -16,6 +17,7 @@ import SearchBar from '../../atoms/SearchBar'
 import SelectField from '../../atoms/SelectField'
 import fetchAveragePrice from '../../../utils/fetchAveragePrice'
 import itemsActions from '../../../actions/items'
+import keyFromValue from '../../../utils/keyFromValue'
 import uuid from 'uuid'
 
 const ItemsTable = ({
@@ -103,6 +105,7 @@ const ItemsTable = ({
           objectID,
           objectName: newName,
           averagePrice,
+          quality: keyFromValue(ITEM_QUALITIES, quality),
           quantity: 1
         }
       ])

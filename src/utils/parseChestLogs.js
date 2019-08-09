@@ -44,6 +44,7 @@ const parseChestLogs = (logs, marketSource) => {
         date,
         uniqueID,
         objectName: `${item.objectName} ${ITEM_QUALITIES[object.quality]}`,
+        quality: object.quality,
         quantity: parseInt(object.amount)
       }
     })
