@@ -5,7 +5,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div className="header-container">
-      <div className="app-title">Albion Loot Distributor</div>
+      <div className="app-title">Ismark&#39;s Loot Distributor</div>
       <LanguageSelection />
     </div>
   )

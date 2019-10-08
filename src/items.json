@@ -26676,5 +26676,255 @@
     "objectID": "T8_JOURNAL_FISHING",
     "objectName": "Elder Fisherman's Journal",
     "category": "Journals"
+  },
+  {
+    "objectID": "T4_CAPEITEM_FW_BRIDGEWATCH_BP",
+    "objectName": "Adept's Bridgewatch Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_FW_BRIDGEWATCH_BP",
+    "objectName": "Expert's Bridgewatch Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_FW_BRIDGEWATCH_BP",
+    "objectName": "Master's Bridgewatch Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_FW_BRIDGEWATCH_BP",
+    "objectName": "Grandmaster's Bridgewatch Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_FW_BRIDGEWATCH_BP",
+    "objectName": "Elder's Bridgewatch Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_FW_FORTSTERLING_BP",
+    "objectName": "Adept's Fort Sterling Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_FW_FORTSTERLING_BP",
+    "objectName": "Expert's Fort Sterling Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_FW_FORTSTERLING_BP",
+    "objectName": "Master's Fort Sterling Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_FW_FORTSTERLING_BP",
+    "objectName": "Grandmaster's Fort Sterling Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_FW_FORTSTERLING_BP",
+    "objectName": "Elder's Fort Sterling Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_FW_LYMHURST_BP",
+    "objectName": "Adept's Lymhurst Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_FW_LYMHURST_BP",
+    "objectName": "Expert's Lymhurst Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_FW_LYMHURST_BP",
+    "objectName": "Master's Lymhurst Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_FW_LYMHURST_BP",
+    "objectName": "Grandmaster's Lymhurst Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_FW_LYMHURST_BP",
+    "objectName": "Elder's Lymhurst Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_FW_MARTLOCK_BP",
+    "objectName": "Adept's Martlock Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_FW_MARTLOCK_BP",
+    "objectName": "Expert's Martlock Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_FW_MARTLOCK_BP",
+    "objectName": "Master's Martlock Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_FW_MARTLOCK_BP",
+    "objectName": "Grandmaster's Martlock Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_FW_MARTLOCK_BP",
+    "objectName": "Elder's Martlock Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_FW_THETFORD_BP",
+    "objectName": "Adept's Thetford Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_FW_THETFORD_BP",
+    "objectName": "Expert's Thetford Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_FW_THETFORD_BP",
+    "objectName": "Master's Thetford Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_FW_THETFORD_BP",
+    "objectName": "Grandmaster's Thetford Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_FW_THETFORD_BP",
+    "objectName": "Elder's Thetford Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_HERETIC_BP",
+    "objectName": "Adept's Heretic Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_HERETIC_BP",
+    "objectName": "Expert's Heretic Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_HERETIC_BP",
+    "objectName": "Master's Heretic Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_HERETIC_BP",
+    "objectName": "Grandmaster's Heretic Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_HERETIC_BP",
+    "objectName": "Elder's Heretic Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_UNDEAD_BP",
+    "objectName": "Adept's Undead Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_UNDEAD_BP",
+    "objectName": "Expert's Undead Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_UNDEAD_BP",
+    "objectName": "Master's Undead Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_UNDEAD_BP",
+    "objectName": "Grandmaster's Undead Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_UNDEAD_BP",
+    "objectName": "Elder's Undead Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_KEEPER_BP",
+    "objectName": "Adept's Keeper Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_KEEPER_BP",
+    "objectName": "Expert's Keeper Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_KEEPER_BP",
+    "objectName": "Master's Keeper Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_KEEPER_BP",
+    "objectName": "Grandmaster's Keeper Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_KEEPER_BP",
+    "objectName": "Elder's Keeper Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_MORGANA_BP",
+    "objectName": "Adept's Morgana Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_MORGANA_BP",
+    "objectName": "Expert's Morgana Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_MORGANA_BP",
+    "objectName": "Master's Morgana Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_MORGANA_BP",
+    "objectName": "Grandmaster's Morgana Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_MORGANA_BP",
+    "objectName": "Elder's Morgana Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T4_CAPEITEM_DEMON_BP",
+    "objectName": "Adept's Demon Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T5_CAPEITEM_DEMON_BP",
+    "objectName": "Expert's Demon Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T6_CAPEITEM_DEMON_BP",
+    "objectName": "Master's Demon Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T7_CAPEITEM_DEMON_BP",
+    "objectName": "Grandmaster's Demon Crest",
+    "category": "Cape Crests"
+  },
+  {
+    "objectID": "T8_CAPEITEM_DEMON_BP",
+    "objectName": "Elder's Demon Crest",
+    "category": "Cape Crests"
   }
 ]

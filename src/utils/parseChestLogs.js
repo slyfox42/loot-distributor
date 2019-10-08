@@ -58,7 +58,6 @@ const parseChestLogs = (logs, marketSource) => {
   const filteredItems = items.filter(el => el.date.isAfter(endDate))
 
   const distinctItems = distinctLoot(filteredItems)
-  console.log(marketSource)
   return Promise.all(
     distinctItems.map(async item => {
       const averagePrice = await fetchAveragePrice(item.objectID, marketSource)
