@@ -2,12 +2,13 @@ import groupBy from 'lodash/groupBy'
 
 const multiplyItem = item => {
   const result = []
-  const { quantity, objectID, objectName, averagePrice, imgID } = item
+  const { quantity, objectID, objectName, averagePrice, imgID, quality } = item
   for (let index = 0; index < quantity; index++) {
     result.push({
       objectID,
       objectName,
       imgID,
+      quality,
       averagePrice,
       quantity: 1
     })
