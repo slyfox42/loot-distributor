@@ -462,6 +462,13 @@ const journals = itemList
     category: 'Journals'
   }))
 
+const crests = itemList
+  .filter(el => el.objectName.match(/crest/gi))
+  .map(el => ({
+    ...el,
+    category: 'Cape Crests'
+  }))
+
 const new_json = JSON.stringify(
   [
     ...arcaneStaffs,
@@ -515,7 +522,8 @@ const new_json = JSON.stringify(
     ...runes,
     ...souls,
     ...relics,
-    ...journals
+    ...journals,
+    ...crests
   ],
   '',
   2
