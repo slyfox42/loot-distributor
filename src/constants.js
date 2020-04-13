@@ -13,6 +13,15 @@ export const APP_DESCRIPTIONS = {
     Cliccando un oggetto e' possibile selezionare la qualita' e aggiungerlo alla tabella di destra. Se un oggetto non appare nella ricerca, utilizzare il filtro di categoria. Per rimuovere un oggetto dalla selezione basta cliccare sulla crocetta rossa.`,
     itemSelectionSecondParagraph: `Una volta aggiunto un oggetto, se ne puo' modificare la quantita' inserendo un ammontare nell'input sottostante e premendo "+" per aggiungere o "-" per rimuovere.`,
     itemSelectionThirdParagraph: `Terminata la selezione, premere il bottone "Avanti".`,
+    chestLogImport: 'Importazione log delle casse',
+    chestLogImportFirstParagraph:
+      'Per importare i log dal gioco, depositare tutti gli oggetti dentro una cassa di qualunque tier preferibilmente vuota. Attendere 2 minuti affinchè il gioco aggiorni i log, dopodichè premere il tasto "Chest Log".',
+    chestLogImportSecondParagraph: `Dopo aver controllato che tutti gli oggetti appaiono nel log della cassa, premere il tasto "Copy to clipboard" vicino alla scritta "Amount". Ora che il contenuto del log è copiato, premere "Importare log di una cassa" su questo tool e incollare il tutto nell'apposito spazio.`,
+    chestLogImportThirdParagraphPartOne:
+      'Nota bene: il tool riconoscerà solo gli oggetti depositati ',
+    chestLogImportThirdParagraphPartTwo:
+      ' per evitare incongruenze a causa di log datati.',
+    chestLogTime: 'NEGLI ULTIMI DIECI MINUTI',
     categoryPlaceholder: 'Selezionare categoria',
     tierPlaceholder: 'Selezionare tier',
     searchBarPlaceholder: 'Ricerca',
@@ -55,6 +64,7 @@ export const APP_DESCRIPTIONS = {
     chestLogImportThirdParagraphPartOne:
       'Please note that the tool will only parse items that have been deposited ',
     chestLogImportThirdParagraphPartTwo: ' to avoid issues with older logs.',
+    chestLogTime: 'WITHIN TEN MINUTES',
     categoryPlaceholder: 'Select category',
     tierPlaceholder: 'Select tier',
     searchBarPlaceholder: 'Search',
@@ -89,6 +99,14 @@ export const APP_DESCRIPTIONS = {
     itemSelectionSecondParagraph: `Depois de adicionar um item, você pode modificar sua quantidade digitando no campo abaixo dele ou pressionando "+" para adicionar e "-" para remover.`,
     itemSelectionThirdParagraph:
       'Após selecionar todos os itens, pressione o botão verde "Próximo".',
+    chestLogImport: 'Chest logs import',
+    chestLogImportFirstParagraph:
+      'To import chest logs from the game, drop all the items inside a (preferably empty) chest of any tier. Wait for 2 minutes as the game needs time to update the logs, then press on the "Chest Log" button.',
+    chestLogImportSecondParagraph: `Once you made sure that all the items show up in the ingame chest log, press the "Copy to clipboard" button right next to "Amount". Now that the log content is copied, press "Import chest logs" button on this tool and paste everything inside.`,
+    chestLogImportThirdParagraphPartOne:
+      'Please note that the tool will only parse items that have been deposited ',
+    chestLogImportThirdParagraphPartTwo: ' to avoid issues with older logs.',
+    chestLogTime: 'WITHIN TEN MINUTES',
     categoryPlaceholder: 'Selecionar categoria',
     tierPlaceholder: 'Selecionar grau',
     searchBarPlaceholder: 'Pesquisar',

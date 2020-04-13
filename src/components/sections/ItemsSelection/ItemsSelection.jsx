@@ -28,7 +28,7 @@ const ItemsSelection = ({ language }) => {
             <p>{APP_DESCRIPTIONS[language].chestLogImportSecondParagraph}</p>
             <p>
               {APP_DESCRIPTIONS[language].chestLogImportThirdParagraphPartOne}
-              <span>WITHIN TEN MINUTES</span>
+              <span>{APP_DESCRIPTIONS[language].chestLogTime}</span>
               {APP_DESCRIPTIONS[language].chestLogImportThirdParagraphPartTwo}
             </p>
           </div>
