@@ -48,6 +48,13 @@ export const APP_DESCRIPTIONS = {
     itemSelectionSecondParagraph:
       'Once you added an item, you can modify its quantity by entering an amount in the input below it and pressing "+" to add and "-" to remove.',
     itemSelectionThirdParagraph: `Once the selection is complete, press the green button "Next".`,
+    chestLogImport: 'Chest logs import',
+    chestLogImportFirstParagraph:
+      'To import chest logs from the game, drop all the items inside a (preferably empty) chest of any tier. Wait for 2 minutes as the game needs time to update the logs, then press on the "Chest Log" button.',
+    chestLogImportSecondParagraph: `Once you made sure that all the items show up in the ingame chest log, press the "Copy to clipboard" button right next to "Amount". Now that the log content is copied, press "Import chest logs" button on this tool and paste everything inside.`,
+    chestLogImportThirdParagraphPartOne:
+      'Please note that the tool will only parse items that have been deposited ',
+    chestLogImportThirdParagraphPartTwo: ' to avoid issues with older logs.',
     categoryPlaceholder: 'Select category',
     tierPlaceholder: 'Select tier',
     searchBarPlaceholder: 'Search',

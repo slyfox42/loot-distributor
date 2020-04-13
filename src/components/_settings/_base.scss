@@ -23,9 +23,17 @@ html, body {
 }
 
 .readme {
-  max-width: 1000px;
-  margin: 30px;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px 0;
+  width: 100%;
   align-self: flex-start;
+  .instructions-container {
+    max-width: 600px;
+    &:nth-child(2) {
+      padding-left: 20px;
+    }
+  }
   .header {
     font-weight: bold;
     font-size: 26px;
@@ -33,8 +41,11 @@ html, body {
   .instructions {
     p {
       padding-top: 20px;
-      font-size: 18px;
+      font-size: 15px;
       text-align: start;
+    }
+    span {
+      font-weight: bold;
     }
   }
 }
