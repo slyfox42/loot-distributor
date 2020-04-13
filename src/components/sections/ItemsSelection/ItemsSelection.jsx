@@ -13,11 +13,25 @@ const ItemsSelection = ({ language }) => {
   return (
     <div className="loot-selection">
       <div className="readme">
-        <p className="header">{APP_DESCRIPTIONS[language].itemSelection}</p>
-        <div className="instructions">
-          <p>{APP_DESCRIPTIONS[language].itemSelectionFirstParagraph}</p>
-          <p>{APP_DESCRIPTIONS[language].itemSelectionSecondParagraph}</p>
-          <p>{APP_DESCRIPTIONS[language].itemSelectionThirdParagraph}</p>
+        <div className="instructions-container">
+          <p className="header">{APP_DESCRIPTIONS[language].itemSelection}</p>
+          <div className="instructions">
+            <p>{APP_DESCRIPTIONS[language].itemSelectionFirstParagraph}</p>
+            <p>{APP_DESCRIPTIONS[language].itemSelectionSecondParagraph}</p>
+            <p>{APP_DESCRIPTIONS[language].itemSelectionThirdParagraph}</p>
+          </div>
+        </div>
+        <div className="instructions-container">
+          <p className="header">{APP_DESCRIPTIONS[language].chestLogImport}</p>
+          <div className="instructions">
+            <p>{APP_DESCRIPTIONS[language].chestLogImportFirstParagraph}</p>
+            <p>{APP_DESCRIPTIONS[language].chestLogImportSecondParagraph}</p>
+            <p>
+              {APP_DESCRIPTIONS[language].chestLogImportThirdParagraphPartOne}
+              <span>{APP_DESCRIPTIONS[language].chestLogTime}</span>
+              {APP_DESCRIPTIONS[language].chestLogImportThirdParagraphPartTwo}
+            </p>
+          </div>
         </div>
       </div>
       <div className="selection-tables">
