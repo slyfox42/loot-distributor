@@ -35,7 +35,7 @@ export const APP_DESCRIPTIONS = {
     lootEsteem: 'Valore stimato oggetti:',
     donateButton: 'Fai una donazione',
     donationParagraph:
-      'Se hai trovato utile questo strumento, puoi fare una donazione per sostenerne lo sviluppo.',
+      'Se hai trovato utile questo strumento, puoi fare una donazione tramite PayPal per sostenerne lo sviluppo.',
     lootError: 'Inserire una lista di oggetti da spartire!',
     pricesError: 'Assicurarsi che ogni oggetto abbia il prezzo inserito!',
     playersError:
@@ -70,7 +70,7 @@ export const APP_DESCRIPTIONS = {
     lootEsteem: 'Estimated items value:',
     donateButton: 'Donate',
     donationParagraph:
-      'If you found this tool useful, you can donate to support development.',
+      'If you found this tool useful, you can donate via PayPal to support development.',
     lootError: 'Please insert a list of items to be split!',
     pricesError: 'Please make sure all item prices have been set!',
     playersError: 'Please insert player names to perform the roll!'
