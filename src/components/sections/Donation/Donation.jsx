@@ -8,6 +8,9 @@ import React from 'react'
 const Donation = ({ language }) => {
   return (
     <div className="donation-section">
+      <p className="donation-paragraph">
+        {APP_DESCRIPTIONS[language].donationParagraph}
+      </p>
       <Button
         appearance={BUTTON_TYPES.INVERTED}
         customClass="donation-button"
@@ -17,9 +20,6 @@ const Donation = ({ language }) => {
       >
         {APP_DESCRIPTIONS[language].donateButton}
       </Button>
-      <p className="donation-paragraph">
-        {APP_DESCRIPTIONS[language].donationParagraph}
-      </p>
     </div>
   )
 }

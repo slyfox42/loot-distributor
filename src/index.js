@@ -15,11 +15,11 @@ ReactDOM.render(
   <Provider store={store}>
     <div className="app">
       <Header />
+      <Donation />
       <main>
         <ItemsSelection />
         <ItemsRolling />
       </main>
-      <Donation />
     </div>
   </Provider>,
   document.getElementById('root')
