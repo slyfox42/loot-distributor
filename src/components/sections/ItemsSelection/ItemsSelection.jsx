@@ -31,6 +31,7 @@ const ItemsSelection = ({ language }) => {
               <span>{APP_DESCRIPTIONS[language].chestLogTime}</span>
               {APP_DESCRIPTIONS[language].chestLogImportThirdParagraphPartTwo}
             </p>
+            <p>{APP_DESCRIPTIONS[language].adjustPricesParagraph}</p>
           </div>
         </div>
       </div>
