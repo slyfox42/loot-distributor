@@ -22,6 +22,7 @@ export const APP_DESCRIPTIONS = {
     chestLogImportThirdParagraphPartTwo:
       ' per evitare incongruenze a causa di log datati.',
     chestLogTime: 'NEGLI ULTIMI DIECI MINUTI',
+    adjustPricesParagraph: `E' consigliato fare un rapido controllo dei prezzi prima di eseguire lo split in quanto alcuni di essi potrebbero essere datati e necessitano di una modifica manuale. Basta cliccare sul singolo prezzo e modificarlo.`,
     categoryPlaceholder: 'Selezionare categoria',
     tierPlaceholder: 'Selezionare tier',
     searchBarPlaceholder: 'Ricerca',
@@ -65,6 +66,8 @@ export const APP_DESCRIPTIONS = {
       'Please note that the tool will only parse items that have been deposited ',
     chestLogImportThirdParagraphPartTwo: ' to avoid issues with older logs.',
     chestLogTime: 'WITHIN TEN MINUTES',
+    adjustPricesParagraph:
+      'It is recommended to check the item prices before performing the split, as some prices might be dated and might need manual adjusting. Just click on the single price and edit it.',
     categoryPlaceholder: 'Select category',
     tierPlaceholder: 'Select tier',
     searchBarPlaceholder: 'Search',
@@ -107,6 +110,8 @@ export const APP_DESCRIPTIONS = {
       'Please note that the tool will only parse items that have been deposited ',
     chestLogImportThirdParagraphPartTwo: ' to avoid issues with older logs.',
     chestLogTime: 'WITHIN TEN MINUTES',
+    adjustPricesParagraph:
+      'It is recommended to check the item prices before performing the split, as some prices might be dated and might need manual adjusting. Just click on the single price and edit it.',
     categoryPlaceholder: 'Selecionar categoria',
     tierPlaceholder: 'Selecionar grau',
     searchBarPlaceholder: 'Pesquisar',
