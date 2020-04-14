@@ -9,8 +9,8 @@ const fetchAveragePrice = async (itemID, marketSource) => {
     return averagePrice
   }
 
-  const { prices_min } = result[0].data
-  averagePrice = prices_min[prices_min.length - 1]
+  const { prices_max } = result[0].data
+  averagePrice = prices_max[prices_max.length - 1]
 
   return averagePrice
 }
