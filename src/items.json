@@ -5515,51 +5515,6 @@
     "category": "Capes"
   },
   {
-    "objectID": "T6_CAPE_PLATE_UNDEAD",
-    "objectName": "Decorative Undead Platemail Cape",
-    "category": "Capes"
-  },
-  {
-    "objectID": "T6_CAPE_LEATHER_UNDEAD",
-    "objectName": "Decorative Undead Leather Cape",
-    "category": "Capes"
-  },
-  {
-    "objectID": "T6_CAPE_CLOTH_UNDEAD",
-    "objectName": "Decorative Undead Cloth Cape",
-    "category": "Capes"
-  },
-  {
-    "objectID": "T6_CAPE_PLATE_KEEPER",
-    "objectName": "Decorative Keeper Platemail Cape",
-    "category": "Capes"
-  },
-  {
-    "objectID": "T6_CAPE_LEATHER_KEEPER",
-    "objectName": "Decorative Keeper Leather Cape",
-    "category": "Capes"
-  },
-  {
-    "objectID": "T6_CAPE_CLOTH_KEEPER",
-    "objectName": "Decorative Keeper Cloth Cape",
-    "category": "Capes"
-  },
-  {
-    "objectID": "T6_CAPE_PLATE_MORGANA",
-    "objectName": "Decorative Morgana Platemail Cape",
-    "category": "Capes"
-  },
-  {
-    "objectID": "T6_CAPE_LEATHER_MORGANA",
-    "objectName": "Decorative Morgana Leather Cape",
-    "category": "Capes"
-  },
-  {
-    "objectID": "T6_CAPE_CLOTH_MORGANA",
-    "objectName": "Decorative Morgana Cloth Cape",
-    "category": "Capes"
-  },
-  {
     "objectID": "UNIQUE_CAPE_FOUNDER_LEGENDARY",
     "objectName": "Legendary Explorer's Cloak",
     "category": "Capes"
@@ -5567,6 +5522,51 @@
   {
     "objectID": "UNIQUE_CAPE_STARTERPACK_LEGENDARY",
     "objectName": "Legendary Adventurer's Cloak",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_PLATE_KEEPER",
+    "objectName": "Wardrobe Skin: Decorative Keeper Platemail Cape",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER",
+    "objectName": "Wardrobe Skin: Decorative Keeper Leather Cape",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER",
+    "objectName": "Wardrobe Skin: Decorative Keeper Cloth Cape",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_PLATE_MORGANA",
+    "objectName": "Wardrobe Skin: Decorative Morgana Platemail Cape",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_MORGANA",
+    "objectName": "Wardrobe Skin: Decorative Morgana Leather Cape",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_MORGANA",
+    "objectName": "Wardrobe Skin: Decorative Morgana Cloth Cape",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_PLATE_UNDEAD",
+    "objectName": "Wardrobe Skin: Decorative Undead Platemail Cape",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_UNDEAD",
+    "objectName": "Wardrobe Skin: Decorative Undead Leather Cape",
+    "category": "Capes"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_UNDEAD",
+    "objectName": "Wardrobe Skin: Decorative Undead Cloth Cape",
     "category": "Capes"
   },
   {
@@ -25878,6 +25878,12 @@
     "category": "Ore"
   },
   {
+    "objectID": "UNIQUE_UNLOCK_SKIN_ARMORED_HORSE_MORGANA",
+    "objectName": "Armored Horse Skin: Morgana Mare",
+    "imgID": "UNIQUE_UNLOCK_SKIN_ARMORED_HORSE_MORGANA",
+    "category": "Ore"
+  },
+  {
     "objectID": "T1_FISH_FRESHWATER_ALL_COMMON",
     "objectName": "Common Rudd",
     "imgID": "T1_FISH_FRESHWATER_ALL_COMMON",
@@ -28137,6 +28143,96 @@
     "objectID": "T8_CAPEITEM_DEMON_BP",
     "objectName": "Elder's Demon Crest",
     "category": "Cape Crests"
+  },
+  {
+    "objectID": "QUESTITEM_TOKEN_ARENA_UNRANKED",
+    "objectName": "Arena Sigil",
+    "category": "Misc"
+  },
+  {
+    "objectID": "QUESTITEM_TOKEN_ROYAL_T4",
+    "objectName": "Adept's Royal Sigil",
+    "category": "Misc"
+  },
+  {
+    "objectID": "QUESTITEM_TOKEN_ROYAL_T5",
+    "objectName": "Expert's Royal Sigil",
+    "category": "Misc"
+  },
+  {
+    "objectID": "QUESTITEM_TOKEN_ROYAL_T6",
+    "objectName": "Master's Royal Sigil",
+    "category": "Misc"
+  },
+  {
+    "objectID": "QUESTITEM_TOKEN_ROYAL_T7",
+    "objectName": "Grandmaster's Royal Sigil",
+    "category": "Misc"
+  },
+  {
+    "objectID": "QUESTITEM_TOKEN_ROYAL_T8",
+    "objectName": "Elder's Royal Sigil",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_PLATE_KEEPER",
+    "objectName": "Wardrobe Skin: Decorative Keeper Platemail Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER",
+    "objectName": "Wardrobe Skin: Decorative Keeper Leather Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER",
+    "objectName": "Wardrobe Skin: Decorative Keeper Cloth Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_PLATE_MORGANA",
+    "objectName": "Wardrobe Skin: Decorative Morgana Platemail Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_MORGANA",
+    "objectName": "Wardrobe Skin: Decorative Morgana Leather Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_MORGANA",
+    "objectName": "Wardrobe Skin: Decorative Morgana Cloth Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_PLATE_UNDEAD",
+    "objectName": "Wardrobe Skin: Decorative Undead Platemail Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_UNDEAD",
+    "objectName": "Wardrobe Skin: Decorative Undead Leather Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_UNDEAD",
+    "objectName": "Wardrobe Skin: Decorative Undead Cloth Cape",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_SKIN_HORSE_UNDEAD",
+    "objectName": "Riding Horse Skin: Bonehorse",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_SKIN_ARMORED_HORSE_MORGANA",
+    "objectName": "Armored Horse Skin: Morgana Mare",
+    "category": "Misc"
+  },
+  {
+    "objectID": "UNIQUE_UNLOCK_SKIN_GIANTSTAG_DIVINE",
+    "objectName": "Stag Skin: Divine Stag",
+    "category": "Misc"
   },
   {
     "objectID": "QUESTITEM_TOKEN_AVALON",

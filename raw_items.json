@@ -6096,42 +6096,6 @@
     "name": "Elder's Bag"
   },
   {
-    "id": "T6_CAPE_PLATE_UNDEAD",
-    "name": "Decorative Undead Platemail Cape"
-  },
-  {
-    "id": "T6_CAPE_LEATHER_UNDEAD",
-    "name": "Decorative Undead Leather Cape"
-  },
-  {
-    "id": "T6_CAPE_CLOTH_UNDEAD",
-    "name": "Decorative Undead Cloth Cape"
-  },
-  {
-    "id": "T6_CAPE_PLATE_KEEPER",
-    "name": "Decorative Keeper Platemail Cape"
-  },
-  {
-    "id": "T6_CAPE_LEATHER_KEEPER",
-    "name": "Decorative Keeper Leather Cape"
-  },
-  {
-    "id": "T6_CAPE_CLOTH_KEEPER",
-    "name": "Decorative Keeper Cloth Cape"
-  },
-  {
-    "id": "T6_CAPE_PLATE_MORGANA",
-    "name": "Decorative Morgana Platemail Cape"
-  },
-  {
-    "id": "T6_CAPE_LEATHER_MORGANA",
-    "name": "Decorative Morgana Leather Cape"
-  },
-  {
-    "id": "T6_CAPE_CLOTH_MORGANA",
-    "name": "Decorative Morgana Cloth Cape"
-  },
-  {
     "id": "T1_2H_TOOL_PICK",
     "name": "Beginner's Pickaxe"
   },
@@ -21734,5 +21698,77 @@
   {
     "id": "UNIQUE_MOUNT_GIANT_HORSE_ADC",
     "name": "Giant Horse"
+  },
+  {
+    "id": "QUESTITEM_TOKEN_ARENA_UNRANKED",
+    "name": "Arena Sigil"
+  },
+  {
+    "id": "QUESTITEM_TOKEN_ROYAL_T4",
+    "name": "Adept's Royal Sigil"
+  },
+  {
+    "id": "QUESTITEM_TOKEN_ROYAL_T5",
+    "name": "Expert's Royal Sigil"
+  },
+  {
+    "id": "QUESTITEM_TOKEN_ROYAL_T6",
+    "name": "Master's Royal Sigil"
+  },
+  {
+    "id": "QUESTITEM_TOKEN_ROYAL_T7",
+    "name": "Grandmaster's Royal Sigil"
+  },
+  {
+    "id": "QUESTITEM_TOKEN_ROYAL_T8",
+    "name": "Elder's Royal Sigil"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_PLATE_KEEPER",
+    "name": "Wardrobe Skin: Decorative Keeper Platemail Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_KEEPER",
+    "name": "Wardrobe Skin: Decorative Keeper Leather Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_KEEPER",
+    "name": "Wardrobe Skin: Decorative Keeper Cloth Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_PLATE_MORGANA",
+    "name": "Wardrobe Skin: Decorative Morgana Platemail Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_MORGANA",
+    "name": "Wardrobe Skin: Decorative Morgana Leather Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_MORGANA",
+    "name": "Wardrobe Skin: Decorative Morgana Cloth Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_PLATE_UNDEAD",
+    "name": "Wardrobe Skin: Decorative Undead Platemail Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_LEATHER_UNDEAD",
+    "name": "Wardrobe Skin: Decorative Undead Leather Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_T6_CAPE_CLOTH_UNDEAD",
+    "name": "Wardrobe Skin: Decorative Undead Cloth Cape"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_SKIN_HORSE_UNDEAD",
+    "name": "Riding Horse Skin: Bonehorse"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_SKIN_ARMORED_HORSE_MORGANA",
+    "name": "Armored Horse Skin: Morgana Mare"
+  },
+  {
+    "id": "UNIQUE_UNLOCK_SKIN_GIANTSTAG_DIVINE",
+    "name": "Stag Skin: Divine Stag"
   }
 ]
