@@ -193,6 +193,10 @@ const new_json = JSON.stringify(
     {
       id: 'T7_MOUNT_SWAMPDRAGON_AVALON_BASILISK',
       name: 'Avalonian Basilisk'
+    },
+    {
+      id: 'QUESTITEM_TOKEN_AVALON',
+      name: 'Avalonian Energy'
     }
   ],
   '',
