@@ -28438,5 +28438,65 @@
     "objectID": "T8_RANDOM_DUNGEON_TOKEN_4",
     "objectName": "Elder's Dungeon Map (Group)",
     "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_ELITE_TOKEN_1",
+    "objectName": "Master's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_ELITE_TOKEN_2",
+    "objectName": "Master's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_ELITE_TOKEN_3",
+    "objectName": "Master's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_ELITE_TOKEN_4",
+    "objectName": "Master's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_ELITE_TOKEN_1",
+    "objectName": "Grandmaster's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_ELITE_TOKEN_2",
+    "objectName": "Grandmaster's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_ELITE_TOKEN_3",
+    "objectName": "Grandmaster's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_ELITE_TOKEN_4",
+    "objectName": "Grandmaster's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_ELITE_TOKEN_1",
+    "objectName": "Elder's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_ELITE_TOKEN_2",
+    "objectName": "Elder's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_ELITE_TOKEN_3",
+    "objectName": "Elder's Dungeon Map (Large Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_ELITE_TOKEN_4",
+    "objectName": "Elder's Dungeon Map (Large Group)",
+    "category": "Maps"
   }
 ]
