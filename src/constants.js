@@ -236,7 +236,8 @@ export const NO_QUALITY_CATEGORIES = [
   'Souls',
   'Relics',
   'Journals',
-  'Cape Crests'
+  'Cape Crests',
+  'Misc'
 ]
 
 export const ITEM_QUALITIES = {

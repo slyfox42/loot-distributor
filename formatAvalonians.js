@@ -1,5 +1,4 @@
-const fs = require('fs')
-const rawItems = require('./raw_items.json')
+const { tiers } = require('./constants')
 
 const tools = [
   {
@@ -21,28 +20,6 @@ const tools = [
   {
     name: 'Stone Hammer',
     id: 'HAMMER'
-  }
-]
-const tiers = [
-  {
-    name: `Adept's`,
-    id: 'T4'
-  },
-  {
-    name: `Expert's`,
-    id: 'T5'
-  },
-  {
-    name: `Master's`,
-    id: 'T6'
-  },
-  {
-    name: `Grandmaster's`,
-    id: 'T7'
-  },
-  {
-    name: `Elder's`,
-    id: 'T8'
   }
 ]
 
@@ -85,9 +62,6 @@ const armor = [
   }
 ]
 
-;('goat mutton beef')
-;('chicken goose pork')
-
 const food = ['Stew', 'Sandwich', 'Omelette']
 const foodTiers1 = [
   {
@@ -118,85 +92,83 @@ const foodTiers2 = [
   }
 ]
 
-const mappedTools = tools
-  .map(item =>
-    tiers.map(tier => {
-      const id = `${tier.id}_2H_TOOL_${item.id}_AVALON`
-      return {
-        id,
+const formatAvalonianItems = () => {
+  const mappedTools = tools
+    .map(item =>
+      tiers.map(tier => ({
+        id: `${tier.id}_2H_TOOL_${item.id}_AVALON`,
         name: `${tier.name} Avalonian ${item.name}`
-      }
-    })
-  )
-  .reduce((prev, next) => [...prev, ...next])
+      }))
+    )
+    .reduce((prev, next) => [...prev, ...next])
 
-const mappedArmors = armor
-  .map(item =>
-    tiers.map(tier => [
-      {
-        id: `${tier.id}_${item.id}`,
-        name: `${tier.name} ${item.name}`
-      },
-      {
-        id: `${tier.id}_${item.id}@1`,
-        name: `${tier.name} ${item.name}`
-      },
-      {
-        id: `${tier.id}_${item.id}@2`,
-        name: `${tier.name} ${item.name}`
-      },
-      {
-        id: `${tier.id}_${item.id}@3`,
-        name: `${tier.name} ${item.name}`
-      }
-    ])
-  )
-  .reduce((prev, next) => [...prev, ...next])
-  .reduce((prev, next) => [...prev, ...next])
-
-const mappedFood = food
-  .map(item => {
-    let tiers = foodTiers1
-    if (item === 'Omelette') {
-      tiers = foodTiers2
-    }
-    return tiers.map(tier => {
-      return [
+  const mappedArmors = armor
+    .map(item =>
+      tiers.map(tier => [
         {
-          id: `${tier.id}_MEAL_${item.toUpperCase()}_AVALON`,
-          name: `Avalonian ${tier.name} ${item}`
+          id: `${tier.id}_${item.id}`,
+          name: `${tier.name} ${item.name}`
         },
         {
-          id: `${tier.id}_MEAL_${item.toUpperCase()}_AVALON@1`,
-          name: `Avalonian ${tier.name} ${item}`
+          id: `${tier.id}_${item.id}@1`,
+          name: `${tier.name} ${item.name}`
         },
         {
-          id: `${tier.id}_MEAL_${item.toUpperCase()}_AVALON@2`,
-          name: `Avalonian ${tier.name} ${item}`
+          id: `${tier.id}_${item.id}@2`,
+          name: `${tier.name} ${item.name}`
         },
         {
-          id: `${tier.id}_MEAL_${item.toUpperCase()}_AVALON@3`,
-          name: `Avalonian ${tier.name} ${item}`
+          id: `${tier.id}_${item.id}@3`,
+          name: `${tier.name} ${item.name}`
         }
-      ]
-    })
-  })
-  .reduce((prev, next) => [...prev, ...next])
-  .reduce((prev, next) => [...prev, ...next])
+      ])
+    )
+    .reduce((prev, next) => [...prev, ...next])
+    .reduce((prev, next) => [...prev, ...next])
 
-const new_json = JSON.stringify(
-  [
-    ...rawItems,
+  const mappedFood = food
+    .map(item => {
+      let tiers = foodTiers1
+      if (item === 'Omelette') {
+        tiers = foodTiers2
+      }
+      return tiers.map(tier => {
+        return [
+          {
+            id: `${tier.id}_MEAL_${item.toUpperCase()}_AVALON`,
+            name: `Avalonian ${tier.name} ${item}`
+          },
+          {
+            id: `${tier.id}_MEAL_${item.toUpperCase()}_AVALON@1`,
+            name: `Avalonian ${tier.name} ${item}`
+          },
+          {
+            id: `${tier.id}_MEAL_${item.toUpperCase()}_AVALON@2`,
+            name: `Avalonian ${tier.name} ${item}`
+          },
+          {
+            id: `${tier.id}_MEAL_${item.toUpperCase()}_AVALON@3`,
+            name: `Avalonian ${tier.name} ${item}`
+          }
+        ]
+      })
+    })
+    .reduce((prev, next) => [...prev, ...next])
+    .reduce((prev, next) => [...prev, ...next])
+
+  return [
     ...mappedArmors,
     ...mappedTools,
     ...mappedFood,
     {
       id: 'T7_MOUNT_SWAMPDRAGON_AVALON_BASILISK',
       name: 'Avalonian Basilisk'
+    },
+    {
+      id: 'QUESTITEM_TOKEN_AVALON',
+      name: 'Avalonian Energy'
     }
-  ],
-  '',
-  2
-)
+  ]
+}
 
-fs.writeFileSync('./raw_items.json', new_json)
+module.exports = formatAvalonianItems

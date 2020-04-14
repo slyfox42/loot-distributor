@@ -1,6 +1,13 @@
 const fs = require('fs')
-let itemList = require('./raw_items.json')
+const baseItems = require('./raw_items.json')
 const artifactNames = require('./artifactNames.json')
+const formatAvalonians = require('./formatAvalonians')
+const formatMaps = require('./formatMaps')
+
+const avalonianItems = formatAvalonians()
+const dungeonMaps = formatMaps()
+
+let itemList = [...baseItems, ...avalonianItems, ...dungeonMaps]
 
 itemList = itemList.map(el => {
   if (el.id.includes('@')) {
@@ -469,6 +476,20 @@ const crests = itemList
     category: 'Cape Crests'
   }))
 
+const misc = itemList
+  .filter(el => el.objectID.match(/questitem|unique_unlock/gi))
+  .map(el => ({
+    ...el,
+    category: 'Misc'
+  }))
+
+const maps = itemList
+  .filter(el => el.objectID.match(/random_dungeon/gi))
+  .map(el => ({
+    ...el,
+    category: 'Maps'
+  }))
+
 const new_json = JSON.stringify(
   [
     ...arcaneStaffs,
@@ -523,7 +544,9 @@ const new_json = JSON.stringify(
     ...souls,
     ...relics,
     ...journals,
-    ...crests
+    ...crests,
+    ...misc,
+    ...maps
   ],
   '',
   2
