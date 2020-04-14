@@ -12,7 +12,8 @@ export const APP_DESCRIPTIONS = {
     itemSelectionFirstParagraph: `Per selezionare un oggetto, digitare il nome dell'oggetto nella barra di ricerca. Gli oggetti possono essere filtrati per categoria e tier.
     Cliccando un oggetto e' possibile selezionare la qualita' e aggiungerlo alla tabella di destra. Se un oggetto non appare nella ricerca, utilizzare il filtro di categoria. Per rimuovere un oggetto dalla selezione basta cliccare sulla crocetta rossa.`,
     itemSelectionSecondParagraph: `Una volta aggiunto un oggetto, se ne puo' modificare la quantita' inserendo un ammontare nell'input sottostante e premendo "+" per aggiungere o "-" per rimuovere.`,
-    itemSelectionThirdParagraph: `Terminata la selezione, premere il bottone "Avanti".`,
+    itemSelectionThirdParagraph: `Se un oggetto non compare nella lista dopo aver digitato le sue iniziali, scrivere il nome completo.`,
+    itemSelectionFourthParagraph: `Terminata la selezione, premere il bottone "Avanti".`,
     chestLogImport: 'Importazione log delle casse',
     chestLogImportFirstParagraph:
       'Per importare i log dal gioco, depositare tutti gli oggetti dentro una cassa di qualunque tier preferibilmente vuota. Attendere 2 minuti affinchè il gioco aggiorni i log, dopodichè premere il tasto "Chest Log".',
@@ -57,7 +58,8 @@ export const APP_DESCRIPTIONS = {
     for quality selection and add the item to the selection table. If an item does not show up during search, try using the category and/or tier filter. To remove an item from selection simply click on the red cross.`,
     itemSelectionSecondParagraph:
       'Once you added an item, you can modify its quantity by entering an amount in the input below it and pressing "+" to add and "-" to remove.',
-    itemSelectionThirdParagraph: `Once the selection is complete, press the green button "Next".`,
+    itemSelectionThirdParagraph: `If an item doesn't show up in the list when typing its initials, try writing its complete name.`,
+    itemSelectionFourthParagraph: `Once the selection is complete, press the green button "Next".`,
     chestLogImport: 'Chest logs import',
     chestLogImportFirstParagraph:
       'To import chest logs from the game, drop all the items inside a (preferably empty) chest of any tier. Wait for 2 minutes as the game needs time to update the logs, then press on the "Chest Log" button.',
@@ -100,7 +102,8 @@ export const APP_DESCRIPTIONS = {
     itemSelectionFirstParagraph: `Para selecionar um item, comece a digitar o nome dele na barra de pesquisa. Itens podem ser filtrados por categoria e grau.
     Clicar em um item permitirá selecionar sua qualidade e adicioná-lo no painel de seleção. Se algum item não aparecer durante a busca, tente usar os filtros de categoria e grau. Para remover um item da seleção, simplesmente clique no X vermelho.`,
     itemSelectionSecondParagraph: `Depois de adicionar um item, você pode modificar sua quantidade digitando no campo abaixo dele ou pressionando "+" para adicionar e "-" para remover.`,
-    itemSelectionThirdParagraph:
+    itemSelectionThirdParagraph: '',
+    itemSelectionFourthParagraph:
       'Após selecionar todos os itens, pressione o botão verde "Próximo".',
     chestLogImport: 'Chest logs import',
     chestLogImportFirstParagraph:
