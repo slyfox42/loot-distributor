@@ -28137,5 +28137,210 @@
     "objectID": "T8_CAPEITEM_DEMON_BP",
     "objectName": "Elder's Demon Crest",
     "category": "Cape Crests"
+  },
+  {
+    "objectID": "QUESTITEM_TOKEN_AVALON",
+    "objectName": "Avalonian Energy",
+    "category": "Misc"
+  },
+  {
+    "objectID": "T4_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "objectName": "Adept's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T4_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "objectName": "Adept's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T4_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "objectName": "Adept's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T4_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "objectName": "Adept's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T5_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "objectName": "Expert's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T5_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "objectName": "Expert's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T5_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "objectName": "Expert's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T5_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "objectName": "Expert's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "objectName": "Master's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "objectName": "Master's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "objectName": "Master's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "objectName": "Master's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "objectName": "Grandmaster's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "objectName": "Grandmaster's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "objectName": "Grandmaster's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "objectName": "Grandmaster's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_SOLO_TOKEN_1",
+    "objectName": "Elder's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_SOLO_TOKEN_2",
+    "objectName": "Elder's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_SOLO_TOKEN_3",
+    "objectName": "Elder's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_SOLO_TOKEN_4",
+    "objectName": "Elder's Dungeon Map (Solo)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T4_RANDOM_DUNGEON_TOKEN_1",
+    "objectName": "Adept's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T4_RANDOM_DUNGEON_TOKEN_2",
+    "objectName": "Adept's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T4_RANDOM_DUNGEON_TOKEN_3",
+    "objectName": "Adept's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T4_RANDOM_DUNGEON_TOKEN_4",
+    "objectName": "Adept's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T5_RANDOM_DUNGEON_TOKEN_1",
+    "objectName": "Expert's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T5_RANDOM_DUNGEON_TOKEN_2",
+    "objectName": "Expert's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T5_RANDOM_DUNGEON_TOKEN_3",
+    "objectName": "Expert's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T5_RANDOM_DUNGEON_TOKEN_4",
+    "objectName": "Expert's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_TOKEN_1",
+    "objectName": "Master's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_TOKEN_2",
+    "objectName": "Master's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_TOKEN_3",
+    "objectName": "Master's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T6_RANDOM_DUNGEON_TOKEN_4",
+    "objectName": "Master's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_TOKEN_1",
+    "objectName": "Grandmaster's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_TOKEN_2",
+    "objectName": "Grandmaster's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_TOKEN_3",
+    "objectName": "Grandmaster's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T7_RANDOM_DUNGEON_TOKEN_4",
+    "objectName": "Grandmaster's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_TOKEN_1",
+    "objectName": "Elder's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_TOKEN_2",
+    "objectName": "Elder's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_TOKEN_3",
+    "objectName": "Elder's Dungeon Map (Group)",
+    "category": "Maps"
+  },
+  {
+    "objectID": "T8_RANDOM_DUNGEON_TOKEN_4",
+    "objectName": "Elder's Dungeon Map (Group)",
+    "category": "Maps"
   }
 ]
