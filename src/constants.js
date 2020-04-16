@@ -158,7 +158,7 @@ export const CITIES = [
 ]
 
 export const ITEM_CATEGORIES = [
-  'Artefacts',
+  'Artifacts',
   'Cloth Armor',
   'Cloth Helmet',
   'Cloth Shoes',
@@ -214,7 +214,7 @@ export const ITEM_CATEGORIES = [
 ]
 
 export const NO_QUALITY_CATEGORIES = [
-  'Artefacts',
+  'Artifacts',
   'Tools',
   'Potions',
   'Mounts',
