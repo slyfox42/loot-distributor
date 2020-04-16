@@ -102,6 +102,11 @@ const formatAvalonianItems = () => {
     )
     .reduce((prev, next) => [...prev, ...next])
 
+  const mappedShards = tiers.map(tier => ({
+    id: `${tier.id}_SHARD_AVALONIAN`,
+    name: `${tier.name} Avalonian Shard`
+  }))
+
   const mappedArmors = armor
     .map(item =>
       tiers.map(tier => [
@@ -160,6 +165,7 @@ const formatAvalonianItems = () => {
     ...mappedArmors,
     ...mappedTools,
     ...mappedFood,
+    ...mappedShards,
     {
       id: 'T7_MOUNT_SWAMPDRAGON_AVALON_BASILISK',
       name: 'Avalonian Basilisk'

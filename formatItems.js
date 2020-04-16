@@ -477,7 +477,7 @@ const crests = itemList
   }))
 
 const misc = itemList
-  .filter(el => el.objectID.match(/questitem|unique_unlock/gi))
+  .filter(el => el.objectID.match(/questitem|unique_unlock|shard/gi))
   .map(el => ({
     ...el,
     category: 'Misc'

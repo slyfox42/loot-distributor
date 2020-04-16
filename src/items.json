@@ -28235,6 +28235,31 @@
     "category": "Misc"
   },
   {
+    "objectID": "T4_SHARD_AVALONIAN",
+    "objectName": "Adept's Avalonian Shard",
+    "category": "Misc"
+  },
+  {
+    "objectID": "T5_SHARD_AVALONIAN",
+    "objectName": "Expert's Avalonian Shard",
+    "category": "Misc"
+  },
+  {
+    "objectID": "T6_SHARD_AVALONIAN",
+    "objectName": "Master's Avalonian Shard",
+    "category": "Misc"
+  },
+  {
+    "objectID": "T7_SHARD_AVALONIAN",
+    "objectName": "Grandmaster's Avalonian Shard",
+    "category": "Misc"
+  },
+  {
+    "objectID": "T8_SHARD_AVALONIAN",
+    "objectName": "Elder's Avalonian Shard",
+    "category": "Misc"
+  },
+  {
     "objectID": "QUESTITEM_TOKEN_AVALON",
     "objectName": "Avalonian Energy",
     "category": "Misc"
