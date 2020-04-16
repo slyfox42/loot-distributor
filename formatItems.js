@@ -24,7 +24,7 @@ itemList = itemList.map(el => {
   }
 })
 
-const artefacts = itemList
+const artifacts = itemList
   .filter(el => el.objectID.match(/artefact/gi))
   .map(el => {
     return {
@@ -39,7 +39,7 @@ const artefacts = itemList
     return {
       ...el,
       objectName: correctArtifact.objectName,
-      category: 'Artefacts'
+      category: 'Artifacts'
     }
   })
 
@@ -493,7 +493,7 @@ const maps = itemList
 const new_json = JSON.stringify(
   [
     ...arcaneStaffs,
-    ...artefacts,
+    ...artifacts,
     ...axes,
     ...bags,
     ...books,
