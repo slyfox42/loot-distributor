@@ -97,7 +97,11 @@ const ItemsTable = ({
       const { objectID, objectName } = selection.clickedItem
       const newName = `${objectName} ${quality}`
       const uniqueID = uuid()
-      const averagePrice = await fetchAveragePrice(objectID, marketSource)
+      const averagePrice = await fetchAveragePrice(
+        objectID,
+        marketSource,
+        keyFromValue(ITEM_QUALITIES, quality)
+      )
 
       addToSelectedItems([
         {

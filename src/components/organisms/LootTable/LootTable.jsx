@@ -33,7 +33,11 @@ const LootTable = ({
   const handleSourceChange = async source => {
     await Promise.all(
       selectedItems.map(async item => {
-        const price = await fetchAveragePrice(item.objectID, source)
+        const price = await fetchAveragePrice(
+          item.objectID,
+          source,
+          item.quality
+        )
         return updateItemPrice({ item, price })
       })
     )
