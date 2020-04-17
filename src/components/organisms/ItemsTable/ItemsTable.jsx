@@ -82,6 +82,7 @@ const ItemsTable = ({
             objectName,
             imgID,
             averagePrice,
+            quality: 1,
             quantity: 1
           }
         ])
