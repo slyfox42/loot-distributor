@@ -154,7 +154,10 @@ export const CITIES = [
   'Fort Sterling',
   'Lymhurst',
   'Martlock',
-  'Thetford'
+  'Thetford',
+  'Arthurs Rest',
+  'Merlyns Rest',
+  'Morganas Rest'
 ]
 
 export const ITEM_CATEGORIES = [

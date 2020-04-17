@@ -60,7 +60,11 @@ const parseChestLogs = (logs, marketSource) => {
   const distinctItems = distinctLoot(filteredItems)
   return Promise.all(
     distinctItems.map(async item => {
-      const averagePrice = await fetchAveragePrice(item.objectID, marketSource)
+      const averagePrice = await fetchAveragePrice(
+        item.objectID,
+        marketSource,
+        item.quality
+      )
       return { ...item, averagePrice }
     })
   )
