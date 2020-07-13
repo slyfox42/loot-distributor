@@ -1,5 +1,4 @@
-export const IMAGE_BASE_URL =
-  'https://gameinfo.albiononline.com/api/gameinfo/items/'
+export const IMAGE_BASE_URL = 'https://render.albiononline.com/v1/item/'
 
 export const LOCALES = {
   english: 'en-US',
